@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "33ebd34c26e8b143",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9d9c3b8a805ac9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+            "mode": "source"
+          }
+        },
+        "group": "8569a5637e5e15f7"
+      },
+      {
+        "id": "f01f6f25e6ce597c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8569a5637e5e15f7"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87b3981229f09e4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63ae91ba96a4f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b04dc325405a913",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52021a2a0f2676fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:2021-06-32",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "530b6e2bcea91e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "29944f43a4ad0b0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bbe49dfff1decfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "458a3e0ecdf61f5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c23c38e028974cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e16fa937c81c48bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2021-07-06--09-22-37Z--virtuozzo_7.md"
+              }
+            }
+          },
+          {
+            "id": "8c2afd4900f645be",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f01f6f25e6ce597c",
+  "lastOpenFiles": [
+    "2021-07-06--09-22-37Z--virtuozzo_7.md",
+    "2021-06-15--09-50-58Z--notes.md",
+    "2021-06-18--06-15-12Z--network_bridge.md",
+    "archive/2021-06-23--11-17-39Z--2021-06-32.md",
+    "2021-06-15--09-51-24Z--questions_for_next_mh_meeting.md",
+    "_index.md",
+    "journal/2020-10-11.md",
+    "journal/2020-10-08.md",
+    "journal/2020-10-07.md",
+    "journal/2022-02-13.md"
+  ]
+}
