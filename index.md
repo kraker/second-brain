@@ -77,7 +77,3 @@ tags:
 ## Miscellaneous
 
 1. [Automotive](20210905100839-automotive.md)
-
-### Broken Links
-
-* [Broken Links](20210905144407-broken-links.md)
