@@ -2,8 +2,8 @@
 title: Deploying My Second Brain
 date: 2021-09-05 13:32
 tags:
-- #webdev
-- #zettelkasten
+- 'webdev'
+- 'zettelkasten'
 ---
 
 1. Navigate to docroot for dev site

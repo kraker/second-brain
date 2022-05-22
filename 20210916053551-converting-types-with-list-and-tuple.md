@@ -2,7 +2,7 @@
 title: Converting Types With list() and tuple()
 date: 2021-09-16 05:35
 tags:
-- #python
+- 'python'
 ---
 
 The **list()** and **tuple()** functions will return list and tuple versions of the

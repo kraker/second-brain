@@ -2,7 +2,7 @@
 title: Directory Stack Builtins
 date: 2021-09-18 09:43
 tags:
-- bash
+- 'bash'
 ---
 
 ## dirs

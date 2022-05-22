@@ -2,7 +2,7 @@
 title: Logical Operators
 date: 2021-09-17 18:46
 tags:
-- bash
+- 'bash'
 ---
 
 | Operation | test \[ \] | \[\[ \]\] and ((()) |

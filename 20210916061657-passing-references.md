@@ -2,7 +2,7 @@
 title: Passing References
 date: 2021-09-16 06:17
 tags:
-- #python
+- 'python'
 ---
 
 Arguments get passed to functions as **references**. When the function is called

@@ -2,7 +2,7 @@
 title: In Place Upgrade Ubuntu
 date: 2021-11-02 09:11
 tags:
-- work
+- 'work'
 ---
 
 In-place upgrades aren't recommended for production systems. This could result

@@ -2,7 +2,7 @@
 title: Bash Scripting Style
 date: 2021-09-17 15:14
 tags:
-- bash
+- 'bash'
 ---
 
 Write scripts easy to read and maintain.

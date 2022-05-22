@@ -2,7 +2,7 @@
 title: Introduction to Vi
 date: 2021-08-11 10:19
 tags:
-- #vim
+- 'vim'
 ---
 
 This article aims to cover the basics of using **Vi** (or **Vim**) to edit text.

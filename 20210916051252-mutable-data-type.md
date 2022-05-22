@@ -2,7 +2,7 @@
 title: Mutable Data Type
 date: 2021-09-16 05:12
 tags:
-- #python
+- 'python'
 ---
 
 A **mutable data type** is a type of data can by changed. Lists for example.

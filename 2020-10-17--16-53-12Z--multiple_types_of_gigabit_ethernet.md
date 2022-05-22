@@ -2,7 +2,7 @@
 title: Multiple Types of Gigabit Ethernet
 date: 2020-10-17 16:53:12
 tags:
-- networking
+- 'networking'
 ---
 
 You can use dedicated *media converters* to connect any type of Ethernet cabling

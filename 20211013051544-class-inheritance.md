@@ -2,7 +2,7 @@
 title: Class Inheritance
 date: 2021-10-13 05:15
 tags:
-- #python
+- 'python'
 ---
 
 Sometimes it's useful to have a class which is a specialized version of another

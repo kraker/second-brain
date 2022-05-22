@@ -2,7 +2,7 @@
 title: Global Statements
 date: 2021-09-12 19:55
 tags:
-- #python
+- 'python'
 ---
 
 You can modify a global variable from within a function with a **global

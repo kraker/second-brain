@@ -2,7 +2,7 @@
 title: Virtual Routing And Forwarding
 date: 2022-02-17 08:59
 tags:
-- networking
+- 'networking'
 ---
 
 In IP-based computer networks, **virtual routing and forwarding (VRF)** is a

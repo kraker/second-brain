@@ -2,7 +2,7 @@
 title: Augmented Assignment Operators
 date: 2021-09-15 13:15
 tags:
-- #python
+- 'python'
 ---
 
 Instead of:

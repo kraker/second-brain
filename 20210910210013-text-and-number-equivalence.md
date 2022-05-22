@@ -2,7 +2,7 @@
 title: Text And Number Equivalence
 date: 2021-09-10 21:00
 tags:
-- #python
+- 'python'
 ---
 
 Strings can't equal integers or floats but integers can equal floats.

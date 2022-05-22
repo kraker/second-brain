@@ -2,7 +2,7 @@
 title: String Interpolation
 date: 2021-09-25 14:10
 tags:
-- #python
+- 'python'
 ---
 
 Instead of using [string concatenation](20210910201646-string-concatenation-and-replication.md)

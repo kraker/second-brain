@@ -2,7 +2,7 @@
 title: in and not in String Operators
 date: 2021-09-25 14:07
 tags:
-- #python
+- 'python'
 ---
 
 Just like with [lists](20210913183709-list.md) you can use the **in** and **not

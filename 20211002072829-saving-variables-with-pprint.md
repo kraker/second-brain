@@ -2,7 +2,7 @@
 title: Saving Variables With pprint.pformat() Function
 date: 2021-10-02 07:28
 tags:
-- #python
+- 'python'
 ---
 
 You can use pprint.pformat() to return a string that can be stored in a `.py`

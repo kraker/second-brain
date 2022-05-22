@@ -2,7 +2,7 @@
 title: Logical and Comparison Operators
 date: 2021-09-18 08:10
 tags:
-- bash
+- 'bash'
 ---
 
 | Operator            | Description                                          |

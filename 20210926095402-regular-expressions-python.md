@@ -2,7 +2,7 @@
 title: Regular Expressions in Python
 date: 2021-09-26 09:54
 tags:
-- #python
+- 'python'
 ---
 
 ```python
@@ -59,7 +59,7 @@ to escape them. For example:
 
 * <https://pythex.org/>
 * <https://www.regular-expressions.info/>
-* <https://regex101.com/#python> \*
+* <https://regex101.com/python> \*
 * <https://docs.python.org/3.6/library/re.html>
 * <https://github.com/tartley/python-regex-cheatsheet/blob/master/cheatsheet.rst> \*
 * <https://docs.python.org/3.9/howto/regex.html>

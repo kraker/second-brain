@@ -2,7 +2,7 @@
 title: Fundamentals Of The Openstack Cloud
 date: 2021-10-27 13:35
 tags:
-- work
+- 'work'
 ---
 
 ## 6 Core Projects

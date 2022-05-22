@@ -2,7 +2,7 @@
 title: T1E Pipeline "Roadmap"
 date: 2021-11-05 15:10
 tags:
-- work
+- 'work'
 ---
 
 ## Linux CLI Basics
