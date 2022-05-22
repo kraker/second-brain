@@ -2,7 +2,7 @@
 title: in and not in Operators
 date: 2021-09-15 06:38
 tags:
-- #python
+- 'python'
 ---
 
 You can determine whether a value is **in** or **not in** a [list](20210913183709-list.md). 

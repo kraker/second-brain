@@ -2,7 +2,7 @@
 title: Break Statements
 date: 2021-09-11 08:46
 tags:
-- #python
+- 'python'
 ---
 
 When a [while](20210911083636-while-loop-statements.md) or

@@ -2,7 +2,7 @@
 title: Input Validation
 date: 2021-09-17 19:24
 tags:
-- bash
+- 'bash'
 ---
 
 Often this is the difference between well-written and poorly written

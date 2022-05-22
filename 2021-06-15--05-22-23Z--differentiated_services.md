@@ -2,7 +2,7 @@
 title: Differentiated services
 date: 2021-06-15 05:22
 tags:
-- networking
+- 'networking'
 ---
 
 **Differentiated services** or **DiffServ** is a 

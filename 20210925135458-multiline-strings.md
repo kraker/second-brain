@@ -2,7 +2,7 @@
 title: Multiline Strings
 date: 2021-09-25 13:55
 tags:
-- #python
+- 'python'
 ---
 
 A **multiline string** begins and ends with either 3 single-quotes or

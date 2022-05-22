@@ -2,7 +2,7 @@
 title: Importing Classes
 date: 2021-10-14 05:33
 tags:
-- #python
+- 'python'
 ---
 
 Just like with builtin modules or modules that other's have build you can import

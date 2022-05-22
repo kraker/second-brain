@@ -2,7 +2,7 @@
 title: append() and insert()
 date: 2021-09-15 13:36
 tags:
-- #python
+- 'python'
 ---
 
 You can add new items to a list using the **append()** and **insert()** [methods](20210915132936-methods.md).

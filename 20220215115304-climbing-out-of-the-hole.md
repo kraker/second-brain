@@ -2,7 +2,7 @@
 title: Climbing Out Of The Hole
 date: 2022-02-15 11:53
 tags:
-- sysadmin
+- 'sysadmin'
 ---
 
 Successful teams do these 2 things:

@@ -2,7 +2,7 @@
 title: Network Topologies
 date: 2021-10-12 12:42:33
 tags:
-- networking
+- 'networking'
 ---
 
 ## Bus

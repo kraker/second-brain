@@ -2,7 +2,7 @@
 title: Escape Characters
 date: 2021-09-25 13:45
 tags:
-- #python
+- 'python'
 ---
 
 An **escape character** allows use of characters that otherwise would be

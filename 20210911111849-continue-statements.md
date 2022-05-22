@@ -2,7 +2,7 @@
 title: Continue Statements
 date: 2021-09-11 11:18
 tags:
-- #python
+- 'python'
 ---
 
 **continue** statements are used inside of

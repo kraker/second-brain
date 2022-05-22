@@ -2,7 +2,7 @@
 title: Process Substitution
 date: 2021-09-18 08:49
 tags:
-- bash
+- 'bash'
 ---
 
 **Process Substitution** is a form or _redirection_ where the input of output of

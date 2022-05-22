@@ -2,7 +2,7 @@
 title: Saving Variables
 date: 2021-10-02 07:13
 tags:
-- #python
+- 'python'
 ---
 
 Variables can be saved or made to persist after the program has closed with the

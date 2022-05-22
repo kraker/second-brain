@@ -2,7 +2,7 @@
 title: Manage Empty Variables
 date: 2021-09-18 07:36
 tags:
-- bash
+- 'bash'
 ---
 
 ## Use a default value

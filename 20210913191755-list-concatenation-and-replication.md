@@ -2,7 +2,7 @@
 title: List Concatenation And Replication
 date: 2021-09-13 19:17
 tags:
-- #python
+- 'python'
 ---
 
 Just like with [strings](20210910201646-string-concatenation-and-replication.md)

@@ -2,7 +2,7 @@
 title: Keyword Arguments
 date: 2021-09-12 19:11
 tags:
-- #python
+- 'python'
 ---
 
 Most arguments are identified by their position in the function call.

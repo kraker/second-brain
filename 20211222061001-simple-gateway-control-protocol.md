@@ -2,7 +2,7 @@
 title: Simple Gateway Control Protocol
 date: 2021-12-22 06:10
 tags:
-- networking
+- 'networking'
 ---
 
 The **Simple Gateway Control Protocol (SGCP)** is [communications protocol](2021-06-25--06-08-56Z--communication_protocol.md)

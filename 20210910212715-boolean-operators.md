@@ -2,7 +2,7 @@
 title: Boolean Operators
 date: 2021-09-10 21:27
 tags:
-- #python
+- 'python'
 ---
 
 The three **Boolean operators** are:
