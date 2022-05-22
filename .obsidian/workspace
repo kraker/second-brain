@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+            "file": "journal/2022-05-22.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
-            "mode": "preview"
+            "file": "journal/2022-05-22.md",
+            "mode": "source"
           }
         },
         "group": "8569a5637e5e15f7"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+                "file": "journal/2022-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-07-06--09-22-37Z--virtuozzo_7.md",
+                "file": "journal/2022-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-07-06--09-22-37Z--virtuozzo_7.md"
+                "file": "journal/2022-05-22.md"
               }
             }
           },
@@ -143,6 +143,7 @@
   },
   "active": "f01f6f25e6ce597c",
   "lastOpenFiles": [
+    "journal/2022-05-22.md",
     "2021-07-06--09-22-37Z--virtuozzo_7.md",
     "2021-06-15--09-50-58Z--notes.md",
     "2021-06-18--06-15-12Z--network_bridge.md",
@@ -151,7 +152,6 @@
     "_index.md",
     "journal/2020-10-11.md",
     "journal/2020-10-08.md",
-    "journal/2020-10-07.md",
-    "journal/2022-02-13.md"
+    "journal/2020-10-07.md"
   ]
 }
