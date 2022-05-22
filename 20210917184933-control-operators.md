@@ -2,7 +2,7 @@
 title: Control Operators
 date: 2021-09-17 18:49
 tags:
-- #bash
+- bash
 ---
 
 * `&&`  (AND)

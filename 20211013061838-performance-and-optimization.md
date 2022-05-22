@@ -2,8 +2,8 @@
 title: Performance & Optimization
 date: 2021-10-13 06:18
 tags:
-- '#sysadmin'
-- '#linux'
+- 'sysadmin'
+- 'linux'
 ---
 
 ## Resources

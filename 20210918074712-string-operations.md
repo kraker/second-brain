@@ -2,7 +2,7 @@
 title: String Operations
 date: 2021-09-18 07:47
 tags:
-- #bash
+- bash
 ---
 
 ## String length

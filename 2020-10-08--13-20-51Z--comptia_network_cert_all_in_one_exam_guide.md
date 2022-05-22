@@ -2,7 +2,7 @@
 title: CompTIA Network+ Certification - All In One Exam Guide
 date: 2020-10-08 13:20
 tags:
-- '#networking'
+- 'networking'
 ---
 
 Video [link](https://www.youtube.com/watch?v=vrh0epPAC5w) to review before the test.

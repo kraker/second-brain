@@ -2,7 +2,7 @@
 title: Integer Comparison Operators
 date: 2021-09-17 18:36
 tags:
-- #bash
+- bash
 ---
 
 | Expression | Is True If…                           |

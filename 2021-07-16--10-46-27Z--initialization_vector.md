@@ -2,8 +2,8 @@
 title: Initialization vector
 date: 2021-07-16 10:46
 tags:
-- #security
-- #networking
+- security
+- networking
 ---
 
 In [cryptography](2021-06-26--14-59-24Z--cryptography.md), an 

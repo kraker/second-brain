@@ -2,7 +2,7 @@
 title: File Test Operators
 date: 2021-09-17 18:24
 tags:
-- #bash
+- bash
 ---
 
 

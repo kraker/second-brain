@@ -2,7 +2,7 @@
 title: Comparison Operators
 date: 2021-09-18 08:14
 tags:
-- #bash
+- bash
 ---
 
 ``` bash

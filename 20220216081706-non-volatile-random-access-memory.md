@@ -2,7 +2,7 @@
 title: Non Volatile Random Access Memory
 date: 2022-02-16 08:17
 tags:
-- #compsci
+- compsci
 ---
 
 **Non-volatile random-access memory (NVRAM)** is [RAM](20220216081431-random-access-memory.md)

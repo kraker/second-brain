@@ -2,7 +2,7 @@
 title: Assignment Operators
 date: 2021-09-18 08:03
 tags:
-- #bash
+- bash
 ---
 
 Variables can be assigned within arithmetic expressions.

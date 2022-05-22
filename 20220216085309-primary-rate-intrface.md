@@ -2,7 +2,7 @@
 title: Primary Rate Intrface
 date: 2022-02-16 08:53
 tags:
-- #networking
+- networking
 ---
 
 The **Primary Rate Interface (PRI)** is a [telecommunications](2021-06-25--06-02-56Z--telecommunications.md)

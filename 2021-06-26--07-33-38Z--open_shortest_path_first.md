@@ -2,7 +2,7 @@
 title: Open Shortest Path First
 date: 2021-06-26 07:33
 tags:
-- #networking
+- networking
 ---
 
 **Open Shortest Path First (OSPF)** is a 

@@ -2,7 +2,7 @@
 title: 20220319100158-network-architectures
 date: 2022-03-19 10:02
 tags:
-- '#networking'
+- 'networking'
 ---
 
 # Network Architectures

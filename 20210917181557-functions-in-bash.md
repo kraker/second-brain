@@ -2,7 +2,7 @@
 title: Functions In Bash
 date: 2021-09-17 18:16
 tags:
-- #bash
+- bash
 ---
 
 Can be created two ways

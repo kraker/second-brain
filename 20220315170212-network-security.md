@@ -2,8 +2,8 @@
 title: Network Security
 date:
 tags:
-- '#networking'
-- '#security'
+- 'networking'
+- 'security'
 ---
 
 # Network Security

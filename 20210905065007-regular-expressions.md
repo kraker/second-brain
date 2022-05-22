@@ -2,9 +2,9 @@
 title: Regular Expressions
 date: 2021-09-05 06:50
 tags:
-- '#dev'
-- '#linux'
-- '#sysadmin'
+- 'dev'
+- 'linux'
+- 'sysadmin'
 ---
 
 Symbolic notations used to identify patterns in text

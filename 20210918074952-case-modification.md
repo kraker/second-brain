@@ -2,7 +2,7 @@
 title: Case Modification
 date: 2021-09-18 07:50
 tags:
-- #bash
+- bash
 ---
 
 Good for normalizing input. `declare -u` upper-case `declare -l`

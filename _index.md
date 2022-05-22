@@ -2,14 +2,14 @@
 title: Index
 date: 2021-08-28
 tags:
-- '#index'
-- '#networking'
-- '#compsci'
-- '#sysadmin'
-- '#dev'
-- '#work'
-- '#misc'
-- '#linux'
+- 'index'
+- 'networking'
+- 'compsci'
+- 'sysadmin'
+- 'dev'
+- 'work'
+- 'misc'
+- 'linux'
 ---
 
 # Index

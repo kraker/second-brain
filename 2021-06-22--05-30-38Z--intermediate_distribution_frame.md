@@ -2,7 +2,7 @@
 title: Intermediate distribution frame
 date: 2021-06-22 05:30
 tags:
-- #networking
+- networking
 ---
 
 An **intermediate distribution frame (IDF)** is a [distribution frame](2021-06-22--05-34-48Z--distribution_frame.md) in a central

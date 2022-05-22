@@ -2,7 +2,7 @@
 title: Networking Notes
 date:
 tags:
-- '#networking'
+- 'networking'
 ---
 
 # Networking Notes

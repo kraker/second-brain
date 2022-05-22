@@ -2,7 +2,7 @@
 title: Putting Scripts In Your Path
 date: 2021-09-17 15:20
 tags:
-- #bash
+- bash
 ---
 
 Typically this is `/bin` but can be explicitly set in the `PATH` variable
