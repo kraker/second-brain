@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-05-22.md",
+            "file": "2020-10-11--16-46-48Z--layer_5.md",
             "mode": "source"
           }
         },
-        "group": "8569a5637e5e15f7"
+        "group": "a966e542a1527b2c"
       },
       {
-        "id": "f01f6f25e6ce597c",
+        "id": "7b6eab2ea783a473",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-05-22.md",
-            "mode": "source"
+            "file": "2020-10-11--16-46-48Z--layer_5.md",
+            "mode": "preview"
           }
         },
-        "group": "8569a5637e5e15f7"
+        "group": "a966e542a1527b2c"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:2021-06-32",
+                "query": "tag:#networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-05-22.md",
+                "file": "2020-10-11--16-46-48Z--layer_5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-05-22.md",
+                "file": "2020-10-11--16-46-48Z--layer_5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-05-22.md"
+                "file": "2020-10-11--16-46-48Z--layer_5.md"
               }
             }
           },
@@ -134,24 +135,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f01f6f25e6ce597c",
+  "active": "7b6eab2ea783a473",
   "lastOpenFiles": [
+    "2020-10-11--16-46-48Z--layer_5.md",
+    "_index.md",
     "journal/2022-05-22.md",
     "2021-07-06--09-22-37Z--virtuozzo_7.md",
     "2021-06-15--09-50-58Z--notes.md",
     "2021-06-18--06-15-12Z--network_bridge.md",
     "archive/2021-06-23--11-17-39Z--2021-06-32.md",
     "2021-06-15--09-51-24Z--questions_for_next_mh_meeting.md",
-    "_index.md",
     "journal/2020-10-11.md",
-    "journal/2020-10-08.md",
-    "journal/2020-10-07.md"
+    "journal/2020-10-08.md"
   ]
 }
