@@ -2,7 +2,7 @@
 title: Internal Field Separator
 date: 2021-09-17 19:27
 tags:
-- #bash
+- bash
 ---
 
 Internal Field Separator By default space, tab, and newline are used.

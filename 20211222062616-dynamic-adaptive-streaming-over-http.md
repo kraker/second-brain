@@ -2,7 +2,7 @@
 title: Dynamic Adaptive Streaming Over Http
 date: 2021-12-22 06:26
 tags:
-- #networking
+- networking
 ---
 
 **Dynamic Adaptive Streaming over HTTP (DASH)** is an adaptive bitrate streaming

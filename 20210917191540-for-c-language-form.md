@@ -2,7 +2,7 @@
 title: For C Language Form
 date: 2021-09-17 19:16
 tags:
-- #bash
+- bash
 ---
 
 Introduced in recent versions of bash for (( expression1;

@@ -2,7 +2,7 @@
 title: Phase Change Memory
 date: 2022-02-16 08:20
 tags:
-- #compsci
+- compsci
 ---
 
 **Phase-change memory (PCM)** is a type of [NVRAM](20220216081706-non-volatile-random-access-memory.md).

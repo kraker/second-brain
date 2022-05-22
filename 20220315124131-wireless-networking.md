@@ -2,7 +2,7 @@
 title: Wireless Networking
 date:
 tags:
-- '#networking'
+- 'networking'
 ---
 
 * [Wireless Network](2021-06-26--15-15-41Z--wireless_network.md)

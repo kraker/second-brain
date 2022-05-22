@@ -2,7 +2,7 @@
 title: Parameter Expansion
 date: 2021-09-18 05:15
 tags:
-- #bash
+- bash
 ---
 
 Note: It's always good practice to enclose parameter expansion in double

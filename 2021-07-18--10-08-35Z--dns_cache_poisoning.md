@@ -2,8 +2,8 @@
 title: DNS Cache Poisoning
 date: 2021-07-18 10:08
 tags: 
-- #networking
-- #security
+- networking
+- security
 ---
 
 **DNS cache poisoning** is when an attacker targets a DNS server to query a

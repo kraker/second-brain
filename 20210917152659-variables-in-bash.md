@@ -2,7 +2,7 @@
 title: Variables In Bash
 date: 2021-09-17 15:27
 tags:
-- #bash
+- bash
 ---
 
 

@@ -2,7 +2,7 @@
 title: On Learning and Education
 date: 2021-10-21 14:08
 tags:
-- #work
+- work
 ---
 
 * Enrollment

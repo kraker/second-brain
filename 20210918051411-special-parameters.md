@@ -2,7 +2,7 @@
 title: Special Parameters
 date: 2021-09-18 05:14
 tags:
-- #bash
+- bash
 ---
 
 Both the `$*` and `$@` variables contain all of of the parameters passed to the

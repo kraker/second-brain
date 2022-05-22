@@ -2,7 +2,7 @@
 title: Network Topologies
 date: 2020-10-12 12:29:30
 tags:
-- #networking
+- networking
 ---
 
 * [Network Topologies](2020-10-12--12-42-33Z--network_topologies.md)

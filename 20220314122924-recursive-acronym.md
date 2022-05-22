@@ -2,7 +2,7 @@
 title: Recursive Acronym
 date:
 tags:
-- '#dev'
+- 'dev'
 ---
 
 A **recursive acronym** is an acronym that refers to itself.

@@ -2,8 +2,8 @@
 title: Security Association
 date: 2021-12-22 06:18
 tags:
-- #networking
-- #security
+- networking
+- security
 ---
 
 A **security association (SA)** is the establishment of shared security

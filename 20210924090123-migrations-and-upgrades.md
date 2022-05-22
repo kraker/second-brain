@@ -2,7 +2,7 @@
 title: Migrations And Upgrades
 date: 2021-09-24 09:01
 tags:
-- #work
+- work
 ---
 
 ## Checklist

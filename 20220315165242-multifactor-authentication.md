@@ -2,8 +2,8 @@
 title: Multifactor Authentication
 date: 
 tags:
-- '#networking'
-- '#security'
+- 'networking'
+- 'security'
 ---
 
 # Multifactor Authentication

@@ -2,7 +2,7 @@
 title: Ethernet Basics
 date: 2020-10-13 13:59:02
 tags:
-- #networking
+- networking
 ---
 
 * [Ethernet](2020-10-12--13-51-12Z--ethernet.md)

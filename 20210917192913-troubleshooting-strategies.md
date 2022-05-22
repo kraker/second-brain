@@ -2,7 +2,7 @@
 title: Troubleshooting Strategies
 date: 2021-09-17 19:29
 tags:
-- #bash
+- bash
 ---
 
 * Use syntax highlighting to spot syntax errors

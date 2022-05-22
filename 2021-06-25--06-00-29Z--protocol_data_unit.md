@@ -2,7 +2,7 @@
 title: Protocol data unit
 date: 2021-06-25 06:00
 tags:
-- #networking
+- networking
 ---
 
 In [telecommunications](2021-06-25--06-02-56Z--telecommunications.md), a 

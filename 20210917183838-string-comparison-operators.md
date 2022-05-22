@@ -2,7 +2,7 @@
 title: String Comparison Operators
 date: 2021-09-17 18:38
 tags:
-- #bash
+- bash
 ---
 
 | Expression         | Is True If…                                                                                                                                                                         |

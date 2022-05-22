@@ -2,7 +2,7 @@
 title: IP Helper Address
 date: 2022-02-23 13:04
 tags:
-- #networking
+- networking
 ---
 
 Can be used on Cisco routers to forward broadcast network traffic from client

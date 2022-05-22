@@ -3,7 +3,7 @@ title: Managed Hosting FAQ
 date: 2021-09-15 10:24
 tags:
 - #mh
-- #work
+- work
 ---
 
 1. Does Managed Hosting provide support for virtualization software and

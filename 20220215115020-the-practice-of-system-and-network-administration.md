@@ -2,7 +2,7 @@
 title: The Practice Of System And Network Administration
 date: 2022-02-15 11:50
 tags:
-- #sysadmin
+- sysadmin
 ---
 
 Source: [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html)

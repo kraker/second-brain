@@ -2,7 +2,7 @@
 title: Associative Arrays
 date: 2021-09-18 08:46
 tags:
-- #bash
+- bash
 ---
 
 Supported by bash 4.0+ Use strings rather than integers as array indexes.
