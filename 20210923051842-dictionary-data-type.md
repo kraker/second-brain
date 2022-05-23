@@ -2,7 +2,7 @@
 title: Dictionary Data Type
 date: 2021-09-23 05:18
 tags:
-- #python
+- 'python'
 ---
 
 A **dictionary** is a mutable collection of many values. Values are associated

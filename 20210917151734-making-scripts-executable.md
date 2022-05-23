@@ -2,7 +2,7 @@
 title: Making Scripts Executable
 date: 2021-09-17 15:17
 tags:
-- #python
+- 'python'
 ---
 
 ```bash

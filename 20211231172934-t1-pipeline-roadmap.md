@@ -2,9 +2,9 @@
 title: T1 Pipeline Roadmap
 date: 2021-12-31 17:29
 tags:
-- work
-- #learning
-- #training
+- 'work'
+- 'learning'
+- 'training'
 ---
 
 _Note: This is a work in progress. Feedback is appreciated. Feel free to email

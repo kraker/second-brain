@@ -2,7 +2,7 @@
 title: While Loop Statements
 date: 2021-09-11 08:36
 tags:
-- #python
+- 'python'
 ---
 
 The code in the **while** [clause](20210911075037-clause.md) will be executed as

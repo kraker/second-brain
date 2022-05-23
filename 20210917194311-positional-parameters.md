@@ -2,7 +2,7 @@
 title: Positional Parameters
 date: 2021-09-17 19:43
 tags:
-- bash
+- 'bash'
 ---
 
 $0-$9 You can access parameters greater than 9 with parameter expansion.

@@ -2,7 +2,7 @@
 title: Creating and Using a Class
 date: 2021-10-08 05:49
 tags:
-- #python
+- 'python'
 ---
 
 A **class** is an object that can be used to store data or do a thing.

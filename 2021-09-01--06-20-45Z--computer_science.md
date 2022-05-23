@@ -2,8 +2,8 @@
 title: Computer science
 date: 2021-09-01 06:20
 tags:
-- index
-- compsci
+- 'index'
+- 'compsci'
 ---
 
 ## Resources

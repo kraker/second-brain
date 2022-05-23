@@ -2,7 +2,7 @@
 title: Immutable Data Type
 date: 2021-09-16 05:19
 tags:
-- #python
+- 'python'
 ---
 
 **Immutable data types** are data that's unchangeable. Strings and tuples are

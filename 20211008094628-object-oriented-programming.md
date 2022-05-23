@@ -2,8 +2,8 @@
 title: Object Oriented Programming
 date: 2021-10-08 09:46
 tags:
-- dev
-- #programming
+- 'dev'
+- 'dev'
 ---
 
 ## Sources

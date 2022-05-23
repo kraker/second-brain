@@ -2,7 +2,7 @@
 title: Indexing And Slicing Strings
 date: 2021-09-25 14:02
 tags:
-- #python
+- 'python'
 ---
 
 Strings use _indexes_ and _slices_ just like [lists](20210913183709-list.md).

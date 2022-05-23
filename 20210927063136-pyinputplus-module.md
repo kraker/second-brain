@@ -2,7 +2,7 @@
 title: Pyinputplus Module
 date: 2021-09-27 06:31
 tags:
-- #python
+- 'python'
 ---
 
 **PyInputPlus** is a Python module that provides input validation.
