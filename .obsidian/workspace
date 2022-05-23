@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-10-11--16-46-48Z--layer_5.md",
+            "file": "journal/2022-05-22.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-10-11--16-46-48Z--layer_5.md",
+            "file": "journal/2022-05-22.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#networking",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-10-11--16-46-48Z--layer_5.md",
+                "file": "journal/2022-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2020-10-11--16-46-48Z--layer_5.md",
+                "file": "journal/2022-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2020-10-11--16-46-48Z--layer_5.md"
+                "file": "journal/2022-05-22.md"
               }
             }
           },
@@ -139,13 +139,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7b6eab2ea783a473",
+  "active": "0a9d9c3b8a805ac9",
   "lastOpenFiles": [
+    "journal/2022-05-22.md",
     "2020-10-11--16-46-48Z--layer_5.md",
     "_index.md",
-    "journal/2022-05-22.md",
     "2021-07-06--09-22-37Z--virtuozzo_7.md",
     "2021-06-15--09-50-58Z--notes.md",
     "2021-06-18--06-15-12Z--network_bridge.md",
