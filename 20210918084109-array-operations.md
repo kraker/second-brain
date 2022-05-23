@@ -2,7 +2,7 @@
 title: Array Operations
 date: 2021-09-18 08:41
 tags:
-- bash
+- 'bash'
 ---
 
 ##  Outputting Contents

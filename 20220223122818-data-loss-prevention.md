@@ -2,8 +2,8 @@
 title: Data Loss Prevention
 date: 2022-02-23 12:28
 tags:
-- networking
-- security
+- 'networking'
+- 'security'
 ---
 
 **Data loss prevention (DLP)** software detects potential data breaches/data

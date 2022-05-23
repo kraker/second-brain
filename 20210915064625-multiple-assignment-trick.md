@@ -2,7 +2,7 @@
 title: Multiple Assignment Trick
 date: 2021-09-15 06:46
 tags:
-- #python
+- 'python'
 ---
 
 You can assign multiple values to list _items_ with the **multiple assignment

@@ -2,7 +2,7 @@
 title: Random Access Memory
 date: 2022-02-16 08:14
 tags:
-- compsci
+- 'compsci'
 ---
 
 **Random-access memory (RAM)** is a form of computer memory that can be read and

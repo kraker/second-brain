@@ -2,7 +2,7 @@
 title: Modern Ethernet
 date: 2020-10-17 15:08:01
 tags:
-- networking
+- 'networking'
 ---
 
 ## 100-Megabit Ethernet

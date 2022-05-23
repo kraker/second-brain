@@ -2,7 +2,7 @@
 title: Return Statement
 date: 2021-09-12 12:31
 tags:
-- #python
+- 'python'
 ---
 
 A **return statement** defines a _return value_ that returns a value when the

@@ -2,7 +2,7 @@
 title: If Then Constructs
 date: 2021-09-17 18:21
 tags:
-- #python
+- 'python'
 ---
 
 ``` bash

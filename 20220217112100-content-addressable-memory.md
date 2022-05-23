@@ -2,7 +2,7 @@
 title: Content-addressable memory
 date: 2022-02-17 11:21
 tags:
-- networking
+- 'networking'
 ---
 
 **Content-addressable memory (CAM)** is a special type of [computer memory](20220217112213-computer-memory.md)

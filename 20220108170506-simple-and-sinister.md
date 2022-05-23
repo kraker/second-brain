@@ -2,7 +2,7 @@
 title: Simple And Sinister
 date: 2022-01-08 17:05
 tags:
-- #fitness
+- 'fitness'
 ---
 
 ## Warmup & Mobility Work

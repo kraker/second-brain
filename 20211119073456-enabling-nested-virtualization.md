@@ -2,8 +2,8 @@
 title: Enabling Nested Virtualization
 date: 2021-11-19 07:34
 tags:
-- work
-- #openstack
+- 'work'
+- 'openstack'
 ---
 
 ## How to enable nested virtualization

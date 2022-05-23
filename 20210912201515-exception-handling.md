@@ -2,7 +2,7 @@
 title: Exception Handling
 date: 2021-09-12 20:15
 tags:
-- #python
+- 'python'
 ---
 
 Errors can be handled with _try_ and _except_ statements.

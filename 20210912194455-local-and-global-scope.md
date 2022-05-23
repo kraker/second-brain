@@ -2,7 +2,7 @@
 title: Local And Global Scope
 date: 2021-09-12 19:44
 tags:
-- #python
+- 'python'
 ---
 
 ## Local Scope
