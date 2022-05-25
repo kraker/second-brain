@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-05-22.md",
+            "file": "20220525072201-unix-and-linux-sa-handbook.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-05-22.md",
+            "file": "20220525072201-unix-and-linux-sa-handbook.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-05-22.md",
+                "file": "20220525072201-unix-and-linux-sa-handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-05-22.md",
+                "file": "20220525072201-unix-and-linux-sa-handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-05-22.md"
+                "file": "20220525072201-unix-and-linux-sa-handbook.md"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "0a9d9c3b8a805ac9",
   "lastOpenFiles": [
+    "20220525072201-unix-and-linux-sa-handbook.md",
+    "20220525072458-rpm.md",
+    "20210905065308-sysadmin.md",
+    "_index.md",
+    "20210905065406-linux.md",
+    "20210919173649-linux-utilities.md",
     "journal/2022-05-22.md",
     "2020-10-11--16-46-48Z--layer_5.md",
-    "_index.md",
     "2021-07-06--09-22-37Z--virtuozzo_7.md",
-    "2021-06-15--09-50-58Z--notes.md",
-    "2021-06-18--06-15-12Z--network_bridge.md",
-    "archive/2021-06-23--11-17-39Z--2021-06-32.md",
-    "2021-06-15--09-51-24Z--questions_for_next_mh_meeting.md",
-    "journal/2020-10-11.md",
-    "journal/2020-10-08.md"
+    "2021-06-15--09-50-58Z--notes.md"
   ]
 }
