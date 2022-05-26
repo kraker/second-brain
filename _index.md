@@ -14,6 +14,8 @@ tags:
 
 # Index
 
+* [Tags](tags/)
+
 ## [Computer Science](2021-09-01--06-20-45Z--computer_science.md)
 
 ### [Development](20210905064934-development.md)
