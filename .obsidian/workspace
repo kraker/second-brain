@@ -7,9 +7,25 @@
         "id": "63b1c389f123f491",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "20220603085449-devops.md",
+            "mode": "source"
+          }
+        },
+        "group": "d03a46adeb915d28"
+      },
+      {
+        "id": "17d037b6538bd461",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20220603085449-devops.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d03a46adeb915d28"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20220603085449-devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20220603085449-devops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20220603085449-devops.md"
+              }
             }
           },
           {
@@ -123,15 +143,15 @@
   },
   "active": "63b1c389f123f491",
   "lastOpenFiles": [
+    "20220603085449-devops.md",
+    "_index.md",
     "20220525072201-unix-and-linux-sa-handbook.md",
     "20220525072458-rpm.md",
     "20210905065308-sysadmin.md",
-    "_index.md",
     "20210905065406-linux.md",
     "20210919173649-linux-utilities.md",
     "journal/2022-05-22.md",
     "2020-10-11--16-46-48Z--layer_5.md",
-    "2021-07-06--09-22-37Z--virtuozzo_7.md",
-    "2021-06-15--09-50-58Z--notes.md"
+    "2021-07-06--09-22-37Z--virtuozzo_7.md"
   ]
 }

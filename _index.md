@@ -34,7 +34,7 @@ tags:
 4. [Servers](20220312104231-servers.md)
 5. [Data](20210905101924-database.md)
 
-### DevOps
+### [DevOps](20220603085449-devops.md)
 
 1. [Automation](20210906071136-automation.md)
 
