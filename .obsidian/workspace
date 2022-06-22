@@ -7,8 +7,10 @@
         "id": "63b1c389f123f491",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf"
+          }
         }
       }
     ],
@@ -45,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf"
+              }
             }
           },
           {
@@ -113,24 +120,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "active": "63b1c389f123f491",
   "lastOpenFiles": [
-    "2020-10-12--13-31-39Z--emi.md",
+    "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf",
     "20201006072053-networking.md",
+    "2021-07-02--06-42-58Z--change_request.md",
+    "2021-06-26--08-37-32Z--mean_time_to_recovery.md",
+    "2021-07-17--11-47-54Z--risk_management.md",
+    "2021-07-02--06-43-58Z--change_management_process.md",
+    "2020-10-12--13-31-39Z--emi.md",
     "20220603085449-devops.md",
     "_index.md",
-    "20220525072201-unix-and-linux-sa-handbook.md",
-    "20220525072458-rpm.md",
-    "20210905065308-sysadmin.md",
-    "20210905065406-linux.md",
-    "20210919173649-linux-utilities.md",
-    "journal/2022-05-22.md"
+    "20220525072201-unix-and-linux-sa-handbook.md"
   ]
 }
