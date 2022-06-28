@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20210905101059-programming.md",
+            "file": "2021-04-29--06-49-34Z--rdbms.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20210905101059-programming.md",
+            "file": "2021-04-29--06-49-34Z--rdbms.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "development",
+                "query": "database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210905101059-programming.md",
+                "file": "2021-04-29--06-49-34Z--rdbms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210905101059-programming.md",
+                "file": "2021-04-29--06-49-34Z--rdbms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210905101059-programming.md"
+                "file": "2021-04-29--06-49-34Z--rdbms.md"
               }
             }
           },
@@ -140,17 +140,17 @@
     "direction": "horizontal",
     "width": 367.5
   },
-  "active": "2fa7a7717037a693",
+  "active": "63b1c389f123f491",
   "lastOpenFiles": [
-    "20210905101059-programming.md",
+    "2021-04-29--06-49-34Z--rdbms.md",
+    "20210905101924-database.md",
     "_index.md",
+    "20210905101059-programming.md",
     "20210906094909-documentation.md",
     "20220623214742-cool-dev-shit.md",
     "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf",
     "20201006072053-networking.md",
     "2021-07-02--06-42-58Z--change_request.md",
-    "2021-06-26--08-37-32Z--mean_time_to_recovery.md",
-    "2021-07-17--11-47-54Z--risk_management.md",
-    "2021-07-02--06-43-58Z--change_management_process.md"
+    "2021-06-26--08-37-32Z--mean_time_to_recovery.md"
   ]
 }
