@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-04-29--06-49-34Z--rdbms.md",
+            "file": "20210905065703-linux-cli.md",
             "mode": "source"
           }
         },
-        "group": "68d2e97a4390a939"
+        "group": "5eeeae345423c863"
       },
       {
-        "id": "2fa7a7717037a693",
+        "id": "0c9f07a2e276bdfc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-04-29--06-49-34Z--rdbms.md",
+            "file": "20210905065703-linux-cli.md",
             "mode": "preview"
           }
         },
-        "group": "68d2e97a4390a939"
+        "group": "5eeeae345423c863"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "database",
+                "query": "file:linux utilities",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-04-29--06-49-34Z--rdbms.md",
+                "file": "20210905065703-linux-cli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-04-29--06-49-34Z--rdbms.md",
+                "file": "20210905065703-linux-cli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-04-29--06-49-34Z--rdbms.md"
+                "file": "20210905065703-linux-cli.md"
               }
             }
           },
@@ -142,15 +142,15 @@
   },
   "active": "63b1c389f123f491",
   "lastOpenFiles": [
-    "2021-04-29--06-49-34Z--rdbms.md",
-    "20210905101924-database.md",
-    "_index.md",
-    "20210905101059-programming.md",
-    "20210906094909-documentation.md",
-    "20220623214742-cool-dev-shit.md",
-    "professor-messer-comptia-n10-008-network-plus-course-notes-v104.pdf",
-    "20201006072053-networking.md",
-    "2021-07-02--06-42-58Z--change_request.md",
-    "2021-06-26--08-37-32Z--mean_time_to_recovery.md"
+    "20210905065703-linux-cli.md",
+    "20210905065406-linux.md",
+    "20210905065832-scripting.md",
+    "20211709141709-bash-scripting.md",
+    "20210917151442-bash-scripting-style.md",
+    "20211013061838-performance-and-optimization.md",
+    "20210919173649-linux-utilities.md",
+    "2021-09-01--06-43-09Z--mental_health.md",
+    "20220705202327-complex-ptsd.md",
+    "2021-04-29--06-49-34Z--rdbms.md"
   ]
 }

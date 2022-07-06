@@ -7,6 +7,11 @@ tags:
 
 Write scripts easy to read and maintain.
 
+## Resources
+
+* [Google - Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+  * This should really be the _defacto standard_.
+
 ## Use long option names to improve readability
 
 ``` bash
