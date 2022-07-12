@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220709202155-problem-solving.md",
+            "file": "_index.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220709202155-problem-solving.md",
+            "file": "_index.md",
             "mode": "source"
           }
         },
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220709202155-problem-solving.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220709202155-problem-solving.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220709202155-problem-solving.md"
+                "file": "_index.md"
               }
             }
           },
@@ -142,10 +141,10 @@
   },
   "active": "63b1c389f123f491",
   "lastOpenFiles": [
+    "_index.md",
     "20220709202155-problem-solving.md",
     "20220709201803-decision-making.md",
     "Untitled.md",
-    "_index.md",
     "20210905065703-linux-cli.md",
     "20210905065406-linux.md",
     "20210905065832-scripting.md",
