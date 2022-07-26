@@ -14,5 +14,6 @@
   "readableLineLength": false,
   "autoPairMarkdown": false,
   "tabSize": 2,
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": false
 }

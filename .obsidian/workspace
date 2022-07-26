@@ -9,25 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "20220311200359-ansible.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "5eeeae345423c863"
-      },
-      {
-        "id": "0c9f07a2e276bdfc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "5eeeae345423c863"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ansible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "530b6e2bcea91e07",
@@ -83,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "20220311200359-ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "20220311200359-ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "20220311200359-ansible.md"
               }
             }
           },
@@ -144,15 +132,15 @@
   },
   "active": "63b1c389f123f491",
   "lastOpenFiles": [
+    "20210906071136-automation.md",
+    "20220726085334-vagrant.md",
     "_index.md",
+    "20220603085449-devops.md",
+    "20220311200359-ansible.md",
     "20220709202155-problem-solving.md",
     "20220709201803-decision-making.md",
     "Untitled.md",
     "20210905065703-linux-cli.md",
-    "20210905065406-linux.md",
-    "20210905065832-scripting.md",
-    "20211709141709-bash-scripting.md",
-    "20210917151442-bash-scripting-style.md",
-    "20211013061838-performance-and-optimization.md"
+    "20210905065406-linux.md"
   ]
 }
