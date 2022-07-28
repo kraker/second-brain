@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220311200359-ansible.md",
+            "file": "20220726085334-vagrant.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220311200359-ansible.md",
+                "file": "20220726085334-vagrant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220311200359-ansible.md",
+                "file": "20220726085334-vagrant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220311200359-ansible.md"
+                "file": "20220726085334-vagrant.md"
               }
             }
           },
@@ -133,10 +133,10 @@
   "active": "63b1c389f123f491",
   "lastOpenFiles": [
     "20210906071136-automation.md",
-    "20220726085334-vagrant.md",
     "_index.md",
-    "20220603085449-devops.md",
     "20220311200359-ansible.md",
+    "20220726085334-vagrant.md",
+    "20220603085449-devops.md",
     "20220709202155-problem-solving.md",
     "20220709201803-decision-making.md",
     "Untitled.md",
