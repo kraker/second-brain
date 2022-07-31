@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "63b1c389f123f491",
+        "id": "b9652cb63c66d5a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220726085334-vagrant.md",
+            "file": "2021-09-01--06-01-05Z--depression.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ansible",
+                "query": "depres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "530b6e2bcea91e07",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220726085334-vagrant.md",
+                "file": "2021-09-01--06-01-05Z--depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220726085334-vagrant.md",
+                "file": "2021-09-01--06-01-05Z--depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220726085334-vagrant.md"
+                "file": "2021-09-01--06-01-05Z--depression.md"
               }
             }
           },
@@ -127,20 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
-  "active": "63b1c389f123f491",
+  "active": "b9652cb63c66d5a8",
   "lastOpenFiles": [
+    "2021-09-01--06-01-05Z--depression.md",
+    "20220726085334-vagrant.md",
     "20210906071136-automation.md",
     "_index.md",
     "20220311200359-ansible.md",
-    "20220726085334-vagrant.md",
     "20220603085449-devops.md",
     "20220709202155-problem-solving.md",
     "20220709201803-decision-making.md",
     "Untitled.md",
-    "20210905065703-linux-cli.md",
-    "20210905065406-linux.md"
+    "20210905065703-linux-cli.md"
   ]
 }
