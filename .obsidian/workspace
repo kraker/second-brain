@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-09-01--06-01-05Z--depression.md",
+            "file": "20220311200359-ansible.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depres",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 297,
+    "collapsed": true
   },
   "right": {
     "id": "530b6e2bcea91e07",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-09-01--06-01-05Z--depression.md",
+                "file": "20220311200359-ansible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-09-01--06-01-05Z--depression.md",
+                "file": "20220311200359-ansible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-09-01--06-01-05Z--depression.md"
+                "file": "20220311200359-ansible.md"
               }
             }
           },
@@ -126,13 +127,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "active": "b9652cb63c66d5a8",
   "lastOpenFiles": [
+    "20210906071136-automation.md",
     "2021-09-01--06-01-05Z--depression.md",
     "20220726085334-vagrant.md",
-    "20210906071136-automation.md",
     "_index.md",
     "20220311200359-ansible.md",
     "20220603085449-devops.md",
