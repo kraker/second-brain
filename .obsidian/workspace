@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20220311200359-ansible.md",
+            "file": "20211012121022-proposed-ordering-of-topics.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "16008b4f4dfe92cd"
+      },
+      {
+        "id": "dfce2107dcebdfb4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20211012121022-proposed-ordering-of-topics.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "16008b4f4dfe92cd"
       }
     ],
     "direction": "vertical"
@@ -40,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pipeline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297,
-    "collapsed": true
+    "width": 297
   },
   "right": {
     "id": "530b6e2bcea91e07",
@@ -71,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220311200359-ansible.md",
+                "file": "20211012121022-proposed-ordering-of-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220311200359-ansible.md",
+                "file": "20211012121022-proposed-ordering-of-topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220311200359-ansible.md"
+                "file": "20211012121022-proposed-ordering-of-topics.md"
               }
             }
           },
@@ -130,17 +143,17 @@
     "width": 367.5,
     "collapsed": true
   },
-  "active": "b9652cb63c66d5a8",
+  "active": "dfce2107dcebdfb4",
   "lastOpenFiles": [
+    "20210917075135-pipeline.md",
+    "_index.md",
+    "20220311200359-ansible.md",
     "20210906071136-automation.md",
     "2021-09-01--06-01-05Z--depression.md",
     "20220726085334-vagrant.md",
-    "_index.md",
-    "20220311200359-ansible.md",
     "20220603085449-devops.md",
     "20220709202155-problem-solving.md",
     "20220709201803-decision-making.md",
-    "Untitled.md",
-    "20210905065703-linux-cli.md"
+    "Untitled.md"
   ]
 }
