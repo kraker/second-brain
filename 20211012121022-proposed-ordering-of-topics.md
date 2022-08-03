@@ -19,6 +19,11 @@ This is in the same vein as [Teach Yourself Computer Science](https://teachyours
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [Open Source Society University](https://github.com/ossu/computer-science)
 
+### Cheat Sheets
+
+* https://linuxpath.org/wp-content/uploads/2022/08/LinuxPath-Cheatsheet.pdf
+* 
+
 ## T1 Pipeline 
 
 * [T1 Pipeline Roadmap](20211231172934-t1-pipeline-roadmap.md)
