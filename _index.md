@@ -14,9 +14,9 @@ tags:
 
 # Index
 
-_Note: All of my notes can now be found on my [github](https://github.com/kraker/second-brain)._
+_All of my notes can now be found on my [github](https://github.com/kraker/second-brain)._
 
-* [Tags](tags/)
+Search by [tag](tags/).
 
 ## [Computer Science](2021-09-01--06-20-45Z--computer_science.md)
 
