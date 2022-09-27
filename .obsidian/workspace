@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20211709141709-bash-scripting.md",
+            "file": "20220926182945-IT-aphorisms.md",
             "mode": "source",
             "source": true
           }
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20211709141709-bash-scripting.md",
-            "mode": "preview",
+            "file": "20220926182945-IT-aphorisms.md",
+            "mode": "source",
             "source": true
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20211709141709-bash-scripting.md",
+                "file": "20220926182945-IT-aphorisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20211709141709-bash-scripting.md",
+                "file": "20220926182945-IT-aphorisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20211709141709-bash-scripting.md"
+                "file": "20220926182945-IT-aphorisms.md"
               }
             }
           },
@@ -143,10 +142,10 @@
     "width": 367.5,
     "collapsed": true
   },
-  "active": "98ec5d1f97522ac8",
+  "active": "b9652cb63c66d5a8",
   "lastOpenFiles": [
-    "20210917151442-bash-scripting-style.md",
     "20211709141709-bash-scripting.md",
+    "20210917151442-bash-scripting-style.md",
     "20210917142155-bash-script-header.md",
     "202109050717-bash.md",
     "_index.md",
