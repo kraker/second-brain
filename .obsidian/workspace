@@ -14,20 +14,20 @@
             "source": true
           }
         },
-        "group": "3e2773ea88964777"
+        "group": "cd74ca437a7ebaa7"
       },
       {
-        "id": "98ec5d1f97522ac8",
+        "id": "29d75e04e038114b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "20220926182945-IT-aphorisms.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         },
-        "group": "3e2773ea88964777"
+        "group": "cd74ca437a7ebaa7"
       }
     ],
     "direction": "vertical"
@@ -142,17 +142,17 @@
     "width": 367.5,
     "collapsed": true
   },
-  "active": "b9652cb63c66d5a8",
+  "active": "29d75e04e038114b",
   "lastOpenFiles": [
+    "20210905065308-sysadmin.md",
+    "_index.md",
+    "20220926182945-IT-aphorisms.md",
     "20211709141709-bash-scripting.md",
     "20210917151442-bash-scripting-style.md",
     "20210917142155-bash-script-header.md",
     "202109050717-bash.md",
-    "_index.md",
     "20211013061838-performance-and-optimization.md",
     "20210905065406-linux.md",
-    "2021-01-23--08-45-26Z--mysql-basics.md",
-    "2021-05-21--10-49-17Z--performance_tuning.md",
-    "20211105151002-t1e-pipeline-roadmap.md"
+    "2021-01-23--08-45-26Z--mysql-basics.md"
   ]
 }
