@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20221229181836-civ5.md",
-                "mode": "source",
+                "file": "20210905065703-linux-cli.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20221229181836-civ5.md",
+                "file": "20210905065703-linux-cli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20221229181836-civ5.md",
+                "file": "20210905065703-linux-cli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20221229181836-civ5.md"
+                "file": "20210905065703-linux-cli.md"
               }
             }
           },
@@ -151,15 +151,15 @@
   },
   "active": "90f8ecb1780e4775",
   "lastOpenFiles": [
-    "Untitled.md",
-    "20220926182945-IT-aphorisms.md",
-    "20210905065308-sysadmin.md",
-    "_index.md",
+    "20210905065406-linux.md",
+    "20210905065832-scripting.md",
+    "20210919173649-linux-utilities.md",
     "20211709141709-bash-scripting.md",
-    "20210917151442-bash-scripting-style.md",
-    "20210917142155-bash-script-header.md",
-    "202109050717-bash.md",
-    "20211013061838-performance-and-optimization.md",
-    "20210905065406-linux.md"
+    "20210905065703-linux-cli.md",
+    "_index.md",
+    "2021-08-30--13-16-37Z--python.md",
+    "2020-10-09--14-32-55Z--mac.md",
+    "2020-10-10--18-12-22Z--tcp.md",
+    "2020-10-10--18-43-20Z--layer_2.md"
   ]
 }
