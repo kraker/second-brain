@@ -13,31 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20220926182945-IT-aphorisms.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "cd74ca437a7ebaa7"
-          }
-        ]
-      },
-      {
-        "id": "6242885ab4c37586",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29d75e04e038114b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220926182945-IT-aphorisms.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "cd74ca437a7ebaa7"
+            }
           }
         ]
       }
@@ -97,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220926182945-IT-aphorisms.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220926182945-IT-aphorisms.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220926182945-IT-aphorisms.md"
+                "file": "_index.md"
               }
             }
           },
@@ -165,14 +145,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29d75e04e038114b",
+  "active": "b9652cb63c66d5a8",
   "lastOpenFiles": [
+    "20220926182945-IT-aphorisms.md",
     "20210905065308-sysadmin.md",
     "_index.md",
-    "20220926182945-IT-aphorisms.md",
     "20211709141709-bash-scripting.md",
     "20210917151442-bash-scripting-style.md",
     "20210917142155-bash-script-header.md",
