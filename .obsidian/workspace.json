@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9652cb63c66d5a8",
+            "id": "1a772003efe777d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "2021-02-04--07-42-49Z--pki.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "2021-02-04--07-42-49Z--pki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "2021-02-04--07-42-49Z--pki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "2021-02-04--07-42-49Z--pki.md"
               }
             }
           },
@@ -145,20 +146,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b9652cb63c66d5a8",
+  "active": "1a772003efe777d4",
   "lastOpenFiles": [
+    "20220603085449-devops.md",
+    "20230222091100-kubernetes.md",
+    "_index.md",
     "20220926182945-IT-aphorisms.md",
     "20210905065308-sysadmin.md",
-    "_index.md",
     "20211709141709-bash-scripting.md",
     "20210917151442-bash-scripting-style.md",
     "20210917142155-bash-script-header.md",
     "202109050717-bash.md",
-    "20211013061838-performance-and-optimization.md",
-    "20210905065406-linux.md",
-    "2021-01-23--08-45-26Z--mysql-basics.md"
+    "20211013061838-performance-and-optimization.md"
   ]
 }
