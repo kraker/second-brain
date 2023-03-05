@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md",
+                "file": "20230305105049-proxmox.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b39834b357f50c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230305104932-terraform.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5725587d843d19a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220216070507-homelab.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4c6de2758a8b1586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220603085449-devops.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d810c0ac095d4f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230305110526-docker.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pki",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md",
+                "file": "20230305110526-docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md",
+                "file": "20230305110526-docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md"
+                "file": "20230305110526-docker.md"
               }
             }
           },
@@ -150,13 +198,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a772003efe777d4",
+  "active": "d810c0ac095d4f7f",
   "lastOpenFiles": [
+    "20230305105049-proxmox.md",
     "20220603085449-devops.md",
+    "20220216070507-homelab.md",
+    "20230305104932-terraform.md",
+    "20230305110526-docker.md",
+    "20210905065308-sysadmin.md",
+    "20230305105020.md",
+    "2021-02-04--07-42-49Z--pki.md",
     "20230222091100-kubernetes.md",
     "_index.md",
     "20220926182945-IT-aphorisms.md",
-    "20210905065308-sysadmin.md",
     "20211709141709-bash-scripting.md",
     "20210917151442-bash-scripting-style.md",
     "20210917142155-bash-script-header.md",
