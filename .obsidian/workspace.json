@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230305110526-docker.md",
+                "file": "20230305104932-terraform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230305110526-docker.md",
+                "file": "20230305104932-terraform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230305110526-docker.md"
+                "file": "20230305104932-terraform.md"
               }
             }
           },
@@ -198,13 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d810c0ac095d4f7f",
+  "active": "b39834b357f50c45",
   "lastOpenFiles": [
+    "20230305110526-docker.md",
     "20230305105049-proxmox.md",
     "20220603085449-devops.md",
     "20220216070507-homelab.md",
     "20230305104932-terraform.md",
-    "20230305110526-docker.md",
     "20210905065308-sysadmin.md",
     "20230305105020.md",
     "2021-02-04--07-42-49Z--pki.md",
