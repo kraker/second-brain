@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3df7b808e4945147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230222091100-kubernetes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1a772003efe777d4",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "20220603085449-devops.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -79,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md",
+                "file": "20230222091100-kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md",
+                "file": "20230222091100-kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-02-04--07-42-49Z--pki.md"
+                "file": "20230222091100-kubernetes.md"
               }
             }
           },
@@ -211,17 +222,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a902c5ea861c409",
+  "active": "3df7b808e4945147",
   "lastOpenFiles": [
+    "20220603085449-devops.md",
+    "20230222091100-kubernetes.md",
+    "2021-02-04--07-42-49Z--pki.md",
     "20230305104932-terraform.md",
     "20230305110526-docker.md",
     "20230305105049-proxmox.md",
-    "20220603085449-devops.md",
     "20220216070507-homelab.md",
     "20210905065308-sysadmin.md",
     "20230305105020.md",
-    "2021-02-04--07-42-49Z--pki.md",
-    "20230222091100-kubernetes.md",
     "_index.md",
     "20220926182945-IT-aphorisms.md",
     "20211709141709-bash-scripting.md",
