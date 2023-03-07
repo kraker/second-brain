@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20220603085449-devops.md",
+                "file": "20210906071136-automation.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "utilities",
+                "query": "submodule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230305105049-proxmox.md",
+                "file": "20210906071136-automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230305105049-proxmox.md",
+                "file": "20210906071136-automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230305105049-proxmox.md"
+                "file": "20210906071136-automation.md"
               }
             }
           },
@@ -185,13 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a772003efe777d4",
+  "active": "4c6de2758a8b1586",
   "lastOpenFiles": [
-    "20211013061838-performance-and-optimization.md",
+    "20220603085449-devops.md",
+    "2021-06-10--05-56-54Z--updating_vim_plugins.md",
     "20230305105049-proxmox.md",
+    "20211013061838-performance-and-optimization.md",
     "20230305104932-terraform.md",
     "20220216070507-homelab.md",
-    "20220603085449-devops.md",
     "20230305110526-docker.md",
     "2021-02-04--07-42-49Z--pki.md",
     "20230306145823-tcpdump.md",
