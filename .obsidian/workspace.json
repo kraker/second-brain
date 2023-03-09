@@ -54,9 +54,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d1969c5965ce0933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230309082708-aws-networking.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210906071136-automation.md",
+                "file": "20230309082708-aws-networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210906071136-automation.md",
+                "file": "20230309082708-aws-networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210906071136-automation.md"
+                "file": "20230309082708-aws-networking.md"
               }
             }
           },
@@ -186,12 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c6de2758a8b1586",
+  "active": "d1969c5965ce0933",
   "lastOpenFiles": [
+    "20230309082708-aws-networking.md",
+    "20210906071136-automation.md",
     "20230305105049-proxmox.md",
     "20230305104932-terraform.md",
     "20220216070507-homelab.md",
-    "20210906071136-automation.md",
     "20220603085449-devops.md",
     "2021-06-10--05-56-54Z--updating_vim_plugins.md",
     "20211013061838-performance-and-optimization.md",
