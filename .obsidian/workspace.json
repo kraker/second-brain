@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230305105049-proxmox.md",
+                "file": "20230312104247-cloud-init.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230305104932-terraform.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5725587d843d19a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220216070507-homelab.md",
+                "file": "20210907222451-awk.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,19 +44,31 @@
             }
           },
           {
-            "id": "d1969c5965ce0933",
+            "id": "f1db52e7cbae4e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230309082708-aws-networking.md",
+                "file": "20230305105049-proxmox.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "84a156e5aa66d474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230312104602-packer.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "submodule",
+                "query": "awk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230309082708-aws-networking.md",
+                "file": "20210907222451-awk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230309082708-aws-networking.md",
+                "file": "20210907222451-awk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230309082708-aws-networking.md"
+                "file": "20210907222451-awk.md"
               }
             }
           },
@@ -198,13 +198,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1969c5965ce0933",
+  "active": "b39834b357f50c45",
   "lastOpenFiles": [
-    "20230309082708-aws-networking.md",
-    "20210906071136-automation.md",
-    "20230305105049-proxmox.md",
     "20230305104932-terraform.md",
+    "20230312104247-cloud-init.md",
     "20220216070507-homelab.md",
+    "20210906071136-automation.md",
+    "20230309082708-aws-networking.md",
+    "20230312104602-packer.md",
+    "20230305105049-proxmox.md",
     "20220603085449-devops.md",
     "2021-06-10--05-56-54Z--updating_vim_plugins.md",
     "20211013061838-performance-and-optimization.md",
