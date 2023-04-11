@@ -2,18 +2,12 @@
 title: Learning Strategies
 date: 2022-01-04 10:34
 tags:
+ - "learning"
 ---
 
+# Learning Strategies
 
-### Spaced Repetition Memory
-
-I won't bore you with the details, but science shows _spaced repetition memory_
-is one of the best ways you can commit things to memory. It's particularly
-effective for learning languages or programming languages, but can benefit any
-type of learning. 
-
-* Article: [Memorizing a Programming Language Using Spaced Repetition Software](https://sive.rs/srs)
-* Software: [Anki](https://apps.ankiweb.net/)
+* [Spaced Repetition Memory (SRS)](202304110820-srs.md)
 
 ### Learning things fast
 
