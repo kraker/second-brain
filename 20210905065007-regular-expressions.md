@@ -99,6 +99,8 @@ Simplified phone number example: ^\(?[0-9]{3}\)? \[0-9\]{3}-\[0-9\]{4}$
 
 * [Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
 * [Regex One](https://regexone.com/)
+* [3 Top Secret Regex Debugging Techniques Experts Use](https://youtu.be/dL2PDkU-rOw)
+* [Perl Regex Debugger](https://metacpan.org/pod/Regexp::Debugger)
 
 ### Books
 
