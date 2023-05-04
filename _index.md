@@ -36,7 +36,7 @@ Search by [tag](tags/).
 4. [Servers](20220312104231-servers.md)
 5. [Data](20210905101924-database.md)
 
-### [DevOps](20220603085449-devops.md)
+#### [DevOps](20220603085449-devops.md)
 
 1. [Automation](20210906071136-automation.md)
 
@@ -45,7 +45,7 @@ Search by [tag](tags/).
 1. [Learning](2021-09-01--06-52-32Z--learning.md)
 2. [Career](2021-09-01--06-51-48Z--career.md)
 3. [Finance](20210905094835-finance.md)
-4. [Mental Health](2021-09-01--06-43-09Z--mental_health.md)
+4. [Mental Health](20210901064309-mental_health.md)
 5. [Fitness](20210919134314-physical-fitness.md)
 6. [Productivity](20210905145113-productivity.md)
 
