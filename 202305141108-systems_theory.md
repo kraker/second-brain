@@ -9,4 +9,4 @@ tags:
 
 ## Related
 
-* [Therapy](202305031948-therapy.md#Internal%20Family%20Systems%20Model%20)
+* [Internal Family Systems Model](202305031948-therapy.md#Internal%20Family%20Systems%20Model%20(IFS))
