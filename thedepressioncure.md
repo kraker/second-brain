@@ -1,38 +1,72 @@
-The Depression Cure - One Pager
+---
+title: The Depression Cure - One Pager
+tags:
+- 'mh'
+---
 
-At the end of each week complete the depression scale.
-Protocols are cumulative and should be continued alongside new weekly
-protocols.  
+# The Depression Cure - One Pager
 
-Week 1
-	Supplements
-		* Omega-3 1000mg EPA 500mg DHA per day
-		* Vitamin D: 50mcg vitamin D3 per day
-	Rumination 
-		Cultivate rumination awareness
+## The TLC Protocol
 
-Week 2 
-	Supplements - Continue from week 1
-	Rumination 
-		Start replacing rumination with engaging activities. Schedule one
-		activity per day.  
-	Exercise
-		* Get HR monitor (or learn to reliably check pulse)
-		* Choose exercise and put in place equipment, membership, etc
-		* Consider hiring a personal trainer for first 6 weeks
+### 1. Measure
 
-Week 3
-	Rumination
-		Continue working to improve noticing rumination.  Continue
-		experimenting with different activities to interrupt it.  Schedule one
-		activity per day.  
-	Exercise
-		* Schedule 3 hour-long blocks of time for exercise. 
-		* Aim for 30min. in target aerobic range
-	Light
-		If using a light box order it this week.
+Get a baseline and track improvement. Do the [CESD-R](https://cesd-r.com/) once per week and track your score in a spreadsheet to observe trends.
 
-Week 4
+### 2. Supplement
+
+**Omega-3**, **Vitamin D**, and **Vitamin C** supplements once per day:
+
+* **Omega-3**: 1000 mg EPA, 500 mg DHA
+* **Vitamin D**: 2000 IU
+* **Vitamin C**: 1000 mg
+
+**Evening primrose oil** once per week: 500 mg
+
+### 3. Rumination
+
+### 4. Exercise
+
+Buy portable heart rate (HR) monitor for best results.  3 1 hour aerobic workouts per week. Goal is to get30 minutes of between 60% to 90% of max HR. 
+
+
+
+## Week 1
+
+Supplements
+
+* Omega-3 1000mg EPA 500mg DHA per day
+* Vitamin D: 50mcg vitamin D3 per day
+
+Rumination 
+
+* Cultivate rumination awareness
+
+## Week 2 
+
+Supplements - Continue from week 1
+Rumination 
+
+* Start replacing rumination with engaging activities. Schedule one activity per day.  
+
+Exercise
+
+* Get HR monitor (or learn to reliably check pulse)
+* Choose exercise and put in place equipment, membership, etc
+* Consider hiring a personal trainer for first 6 weeks
+
+## Week 3
+
+Rumination
+	Continue working to improve noticing rumination.  Continue
+	experimenting with different activities to interrupt it.  Schedule one
+	activity per day.  
+Exercise
+	* Schedule 3 hour-long blocks of time for exercise. 
+	* Aim for 30min. in target aerobic range
+Light
+	If using a light box order it this week.
+
+## Week 4
 	Exercise
 		Continue as before.  If you weren't successful in week three consider
 		hiring a personal trainer or finding a workout partner.
@@ -41,7 +75,7 @@ Week 4
 		you wake-up too early then schedule for -5hr. from bedtime).  Try to
 		find other times during the day to get natural light exposure.  
 
-Week 5
+## Week 5
 	Exercise
 		Continue as before.  If not satisfied with chosen exercise experiment
 		with other forms.
@@ -50,7 +84,7 @@ Week 5
 		spend time with friends or loved ones in person.  Phone calls and
 		supportive online forums are alternatives.
 
-Week 6
+## Week 6
 	Social Support
 		Schedule at least four social activities and put on calendar.
 		* Evaluate for toxic relationships:
@@ -62,7 +96,7 @@ Week 6
 			1. Use bed only for sleep (or sex)
 			2. Wake up at the same time every morning
 
-Week 7
+## Week 7
 	Evaluation
 		Most people will see some benefit by this point.  Look at weekly
 		depression scores.  If less than 25% improvement review ch. 11 for
@@ -80,7 +114,7 @@ Week 7
 		* Continue as before
 		* Work to incorporate remaining habits of healthy sleep from Ch. 9
 	
-Week 8
+## Week 8
 	Light 
 		If depression scale score is below 10 decrease exposure to 15 min per
 		day.
@@ -89,7 +123,7 @@ Week 8
 		Target one form of community involvement for this week
 		Eliminate contact with irredeemably toxic individuals.
 
-Weeks 9 - 12
+## Weeks 9 - 12
 	Light
 		When depression scale score drops below 10 decrease bright light to
 		fifteen minutes each day.  Try to get natural light exposure throughout
@@ -101,5 +135,3 @@ Weeks 9 - 12
 		Expect to see at least 50% decrease in severity from pretreatment with
 		an overall trajectory pointing towards complete recovery.  If you don't
 		see this improvement use Ch. 11 and licensed therapist.  
-
-
