@@ -22,13 +22,15 @@ Get a baseline and track improvement. Do the [CESD-R](https://cesd-r.com/) once 
 
 **Evening primrose oil** once per week: 500 mg
 
-### 3. Rumination
+### 3. Anti-Ruminate
 
 ### 4. Exercise
 
-Buy portable heart rate (HR) monitor for best results.  3 1 hour aerobic workouts per week. Goal is to get30 minutes of between 60% to 90% of max HR. 
+Buy portable heart rate (HR) monitor for best results. 3 1 hour aerobic workouts per week. Goal is to get 30 minutes of between 60% to 90% of max HR. Can be anything but brisk walking is easiest to start with for most people. Estimate HR max with formula: `220 - age = ?` .
 
+### 5. Light Therapy
 
+Sunlight or light-lamp (SAD lamp). 30 minutes of bright light (10000 lux) within 1 hour of waking. Outside sunlight is only effective at 30 minutes of exposure if it's actually sunny out. Otherwise it takes several hours of being outside on an cloudy/overcast day to have the same therapeutic effect. Get a light box and make it a habit. Supplement with outside sunlight as necessary. 
 
 ## Week 1
 
