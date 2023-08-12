@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "c961b1aea6753737",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbb060686dfe83d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a61b556656eb724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220104135452-resume.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0144ca90653d1dab",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa167c67580fd059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de9d323e73dfe237",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c013f5f2ddf7879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "resume",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7aa96458987df62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7cc993299843beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc45d0b115740a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7173eb23849712d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20220104135452-resume.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb2afbaa804470b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20220104135452-resume.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d25b8f476c4551c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfc013a07c6120b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20220104135452-resume.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a61b556656eb724",
+  "lastOpenFiles": [
+    "2021-09-01--06-51-48Z--career.md",
+    "20201006072053-networking.md",
+    "_index.md"
+  ]
+}
