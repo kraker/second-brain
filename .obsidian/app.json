@@ -1,5 +1,13 @@
 {
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "vimMode": true
+  "vimMode": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "tabSize": 2,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "trashOption": "none"
 }
