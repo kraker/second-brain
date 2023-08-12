@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb060686dfe83d7",
+        "id": "2b16f4f01d0d2419",
         "type": "tabs",
         "children": [
           {
-            "id": "4a61b556656eb724",
+            "id": "4631fbba1556c446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20220104135452-resume.md",
+                "file": "_index.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resume",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220104135452-resume.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220104135452-resume.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +127,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220104135452-resume.md"
+                "file": "_index.md"
               }
+            }
+          },
+          {
+            "id": "30e7a6286d898c6e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,11 +153,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4a61b556656eb724",
+  "active": "6c013f5f2ddf7879",
   "lastOpenFiles": [
+    "20220104135452-resume.md",
+    "202308121503.md",
+    "202308121505.md",
+    "new_note_template.md~",
+    "202308121501.md",
+    "202308121502.md",
+    "new_note_template.md",
     "2021-09-01--06-51-48Z--career.md",
     "20201006072053-networking.md",
     "_index.md"
