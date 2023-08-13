@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "20220623214742-cool-dev-shit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "20220623214742-cool-dev-shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "20220623214742-cool-dev-shit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "20220623214742-cool-dev-shit.md"
               }
             }
           },
@@ -158,8 +157,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6c013f5f2ddf7879",
+  "active": "4631fbba1556c446",
   "lastOpenFiles": [
+    "_index.md",
     "20220104135452-resume.md",
     "202308121503.md",
     "202308121505.md",
@@ -168,7 +168,6 @@
     "202308121502.md",
     "new_note_template.md",
     "2021-09-01--06-51-48Z--career.md",
-    "20201006072053-networking.md",
-    "_index.md"
+    "20201006072053-networking.md"
   ]
 }
