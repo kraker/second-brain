@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +158,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4631fbba1556c446",
+  "active": "de9d323e73dfe237",
   "lastOpenFiles": [
     "_index.md",
     "20220104135452-resume.md",
