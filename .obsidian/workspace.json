@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20220623214742-cool-dev-shit.md",
+                "file": "20220104135452-resume.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "resume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220623214742-cool-dev-shit.md",
+                "file": "20220104135452-resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220623214742-cool-dev-shit.md",
+                "file": "20220104135452-resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220623214742-cool-dev-shit.md"
+                "file": "20220104135452-resume.md"
               }
             }
           },
@@ -158,8 +159,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "de9d323e73dfe237",
+  "active": "4631fbba1556c446",
   "lastOpenFiles": [
+    "20220623214742-cool-dev-shit.md",
     "_index.md",
     "20220104135452-resume.md",
     "202308121503.md",
