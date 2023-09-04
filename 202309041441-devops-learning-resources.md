@@ -6,8 +6,6 @@ tags:
 - 'learn'
 ---
 
-# DevOps Learning Resources
-
 This is a collection of recommended DevOps learning resources.
 
 Those with a ✅ green check-mark are author recommended.
@@ -22,14 +20,14 @@ Those with a ✅ green check-mark are author recommended.
 
 ## Books
 
-* ✅ [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://itrevolution.com/product/the-phoenix-project/ "https://itrevolution.com/product/the-phoenix-project/") by Gene Kim
-* [The Unicorn Project: A Novel about Digital Disruption, Developers, and Overthrowing the Ancient Powerful Order](https://itrevolution.com/product/the-unicorn-project/ "https://itrevolution.com/product/the-unicorn-project/") by Gene Kim
+* ✅ [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://itrevolution.com/product/the-phoenix-project/) by Gene Kim
+* [The Unicorn Project: A Novel about Digital Disruption, Developers, and Overthrowing the Ancient Powerful Order](https://itrevolution.com/product/the-unicorn-project/) by Gene Kim
 
 # Cloud Native
 
 ## AWS
 
-- [Hands-On AWS Troubleshooting](https://learn.acloud.guru/course/hands-on-aws-troubleshooting/overview "https://learn.acloud.guru/course/hands-on-aws-troubleshooting/overview") - A Cloud Guru
+* [Hands-On AWS Troubleshooting](https://learn.acloud.guru/course/hands-on-aws-troubleshooting/overview) - A Cloud Guru
 
 ## Azure
 
@@ -41,9 +39,9 @@ Those with a ✅ green check-mark are author recommended.
 
 ### Docker
 
-* [CLI Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf "https://docs.docker.com/get-started/docker_cheatsheet.pdf") - Docker
-* [Docker Mastery](https://www.udemy.com/course/docker-mastery/ "https://www.udemy.com/course/docker-mastery/") - Udemy
-* [Docker Deep Dive](https://nigelpoulton.com/books/ "https://nigelpoulton.com/books/") by Nigel Poulton
+* [CLI Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf) - Docker
+* [Docker Mastery](https://www.udemy.com/course/docker-mastery/) - Udemy
+* [Docker Deep Dive](https://nigelpoulton.com/books/) by Nigel Poulton
 
 ### Orchestration
 
@@ -55,7 +53,7 @@ Those with a ✅ green check-mark are author recommended.
 
 ##### kubectl
 
-- [Kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes
+* [Kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes
 
 # Automation
 
@@ -113,88 +111,83 @@ Programming, scripting, source code management (SCM), and CLI.
 
 ### Books
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [Automate the Boring Stuff](https://automatetheboringstuff.com/ "https://automatetheboringstuff.com") by Al Sweigart
-- [Learn Python the Hard Way](https://learncodethehardway.org/python/ "https://learncodethehardway.org/python/") by Zed Shaw
-- [Think Python](https://open.umn.edu/opentextbooks/textbooks/43 "https://open.umn.edu/opentextbooks/textbooks/43") by Allen B. Downey
+* ✅ [Automate the Boring Stuff](https://automatetheboringstuff.com/) by Al Sweigart
+* [Learn Python the Hard Way](https://learncodethehardway.org/python/ "https://learncodethehardway.org/python/") by Zed Shaw
+* [Think Python](https://open.umn.edu/opentextbooks/textbooks/43 "https://open.umn.edu/opentextbooks/textbooks/43") by Allen B. Downey
 
 ### Tutorials
 
-- [Official Tutorial](https://docs.python.org/3/tutorial/index.html "https://docs.python.org/3/tutorial/index.html")
-- [Python Challenge](http://www.pythonchallenge.com/ "http://www.pythonchallenge.com")
+* [Official Tutorial](https://docs.python.org/3/tutorial/index.html)
+* [Python Challenge](http://www.pythonchallenge.com/)
 
 ### Helpers
 
-- [Python Tutor](https://pythontutor.com/ "https://pythontutor.com")
+- [Python Tutor](https://pythontutor.com/)
 
 ## Bash & Linux CLI
 
 ### Videos
 
-- [The Shell](https://missing.csail.mit.edu/2020/course-shell/ "https://missing.csail.mit.edu/2020/course-shell/") – MIT: _Missing Semester_
-- [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ "https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ") - LearnLinuxTV
-- [Linux Crash Course - Public Key Authentication (SSH)](https://youtu.be/bfwfRCCFTVI "https://youtu.be/bfwfRCCFTVI") - LearnLinuxTV
+* [The Shell](https://missing.csail.mit.edu/2020/course-shell/ "https://missing.csail.mit.edu/2020/course-shell/") – MIT: _Missing Semester_
+* [Linux Commands for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ "https://youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ") - LearnLinuxTV
+* [Linux Crash Course - Public Key Authentication (SSH)](https://youtu.be/bfwfRCCFTVI "https://youtu.be/bfwfRCCFTVI") - LearnLinuxTV
 
 ### Books
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [The Linux Command Line](https://linuxcommand.org/tlcl.php "https://linuxcommand.org/tlcl.php") by William Shotts
-- [Linux Command Line and Shell Scripting Bible](https://www.wiley.com/en-us/Linux+Command+Line+and+Shell+Scripting+Bible,+4th+Edition-p-9781119700937 "https://www.wiley.com/en-us/Linux+Command+Line+and+Shell+Scripting+Bible,+4th+Edition-p-9781119700937")
+* ✅ [The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts
+* [Linux Command Line and Shell Scripting Bible](https://www.wiley.com/en-us/Linux+Command+Line+and+Shell+Scripting+Bible,+4th+Edition-p-9781119700937)
 
 ### Guides/Tutorials
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html "https://learnpythonthehardway.org/book/appendixa.html") – Learn Python the Hard Way
-- [Learning the Shell](https://linuxcommand.org/lc3_learning_the_shell.php "https://linuxcommand.org/lc3_learning_the_shell.php") by William Shotts
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [Shell Style Guide](https://google.github.io/styleguide/shellguide.html "https://google.github.io/styleguide/shellguide.html") - Google
-  - Recommended Bash style guide for NUCO projects
+* ✅ [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) – Learn Python the Hard Way
+* [Learning the Shell](https://linuxcommand.org/lc3_learning_the_shell.php) by William Shotts
+* ✅ [Shell Style Guide](https://google.github.io/styleguide/shellguide.html "https://google.github.io/styleguide/shellguide.html") - Google
 
 ## PowerShell
 
-- [Learn Windows PowerShell in a Month of Lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches "https://www.manning.com/books/learn-powershell-in-a-month-of-lunches")
+* [Learn Windows PowerShell in a Month of Lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches "https://www.manning.com/books/learn-powershell-in-a-month-of-lunches")
 
 ## SCM
 
 _Source Code Manegement_
 
-- [Semantic Versioning](https://semver.org/ "https://semver.org/")
+* [Semantic Versioning](https://semver.org/)
 
 ### Git
 
-- Official [Git Documentation](https://git-scm.com/docs "https://git-scm.com/docs")
+* Official [Git Documentation](https://git-scm.com/docs)
 
 #### Cheat Sheets
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet "https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet") – Atlassian
+* ✅ [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) – Atlassian
 
-#### Vidoes
+#### Videos
 
-- [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/ "https://missing.csail.mit.edu/2020/version-control/") – MIT: _Missing Semester_
+* [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) – MIT: _Missing Semester_
 
 #### Books
 
-- [Pro Git](https://git-scm.com/book/en/v2 "https://git-scm.com/book/en/v2") – Git
+* [Pro Git](https://git-scm.com/book/en/v2) – Git
 
-#### Tutorials
+#### Guides/Tutorials
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [git - the simple guide](https://rogerdudler.github.io/git-guide/ "https://rogerdudler.github.io/git-guide/") by Roger Dudler
-- [How to Write a Git Commit Message](https://cbea.ms/git-commit/ "https://cbea.ms/git-commit/")
-- [gittutorial](https://git-scm.com/docs/gittutorial "https://git-scm.com/docs/gittutorial") – Git
-- [giteveryday](https://git-scm.com/docs/giteveryday "https://git-scm.com/docs/giteveryday") – Git
-
-### BitBucket
-
-- [How to Use Bitbucket Cloud](https://bitbucket.org/product/guides "https://bitbucket.org/product/guides")
+* ✅ [git - the simple guide](https://rogerdudler.github.io/git-guide/) by Roger Dudler
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+* [gittutorial](https://git-scm.com/docs/gittutorial) – Git
+* [giteveryday](https://git-scm.com/docs/giteveryday) – Git
 
 ## Regular Expressions
 
 ### Tutorials
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [RegexOne](https://regexone.com/ "https://regexone.com/")
+* ✅ [RegexOne](https://regexone.com/)
 
 # Networking
 
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [Computer Networking: A Top-Down Approach](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780136681557 "https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780136681557") - Textbook
-- [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/ "https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/") - Video Course
-- [Networking for System Administrators](https://mwl.io/nonfiction/networking "https://mwl.io/nonfiction/networking") by Michael W Lucas
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [Test-Out: Network Pro](https://w3.testout.com/courseware/network-pro "https://w3.testout.com/courseware/network-pro") - Online Course & Lab
+* ✅ [Computer Networking: A Top-Down Approach](https://www.pearson.com/en-us/subject-catalog/p/computer-networking/P200000003334/9780136681557) - Textbook
+* [Professor Messer’s CompTIA N10-008 Network+ Course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/) - Video Course
+* [Networking for System Administrators](https://mwl.io/nonfiction/networking) by Michael W Lucas
+* ✅ [Test-Out: Network Pro](https://w3.testout.com/courseware/network-pro) - Online Course & Lab
 
 ## TCP/IP
 
@@ -204,11 +197,11 @@ _AKA the Internet Protocol suite._
 
 #### NAT
 
-- [What is NAT?](https://www.comptia.org/content/guides/what-is-network-address-translation "https://www.comptia.org/content/guides/what-is-network-address-translation") - CompTIA
+* [What is NAT?](https://www.comptia.org/content/guides/what-is-network-address-translation "https://www.comptia.org/content/guides/what-is-network-address-translation") - CompTIA
 
 ### Subnetting
 
-- [![](https://www.cloudflare.com/favicon.ico)What is a subnet? | How subnetting works | Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
+- [What is a subnet? | How subnetting works | Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/) - Cloudflare
 - [Seven-Second Subnetting](https://youtu.be/SWy0MRfkXpQ "https://youtu.be/SWy0MRfkXpQ") by Professor Messer - YouTube
 - [What is a DMZ Network?](https://www.fortinet.com/resources/cyberglossary/what-is-dmz "https://www.fortinet.com/resources/cyberglossary/what-is-dmz") - Fortinet
 
@@ -222,15 +215,15 @@ _Classless Inter-Domain Routing_
 
 ## DNS
 
-CloudFlare has published some quality articles on DNS from a conceptual overview standpoint.
+Cloudflare has published some quality articles on DNS from a conceptual overview standpoint.
 
 Start with these:
 
-- [![](https://www.cloudflare.com/favicon.ico)What is DNS? | How DNS works | Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
-- [![](https://www.cloudflare.com/favicon.ico)What is a domain name? | Domain name vs. URL | Cloudflare](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
-- [![](https://www.cloudflare.com/favicon.ico)DNS server types | Cloudflare](https://www.cloudflare.com/learning/dns/dns-server-types/)
-- [![](https://www.cloudflare.com/favicon.ico)What is a DNS zone? | Cloudflare](https://www.cloudflare.com/learning/dns/glossary/dns-zone/)
-- [![](https://www.cloudflare.com/favicon.ico)What are DNS records? | Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/)
+* [What is DNS? | How DNS works | Cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
+* [What is a domain name? | Domain name vs. URL | Cloudflare](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/)
+* [DNS server types | Cloudflare](https://www.cloudflare.com/learning/dns/dns-server-types/)
+* [What is a DNS zone? | Cloudflare](https://www.cloudflare.com/learning/dns/glossary/dns-zone/)
+* [What are DNS records? | Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/)
 
 # Monitoring
 
@@ -246,19 +239,18 @@ Start with these:
 
 ## Docs as Code
 
-- [Write the Docs: Docs as Code](https://www.writethedocs.org/guide/docs-as-code/ "https://www.writethedocs.org/guide/docs-as-code/")
-- [Docs as Code at Linode](https://www.linode.com/blog/linode/docs-as-code-at-linode/#:~:text=Docs%20as%20code%20is%20a,Writing%20plain%2Dtext%20documentation%20files "https://www.linode.com/blog/linode/docs-as-code-at-linode/#:~:text=Docs%20as%20code%20is%20a,Writing%20plain%2Dtext%20documentation%20files")
+* [Write the Docs: Docs as Code](https://www.writethedocs.org/guide/docs-as-code/ "https://www.writethedocs.org/guide/docs-as-code/")
+* ✅ [Docs as Code at Linode](https://www.linode.com/blog/linode/docs-as-code-at-linode/#:~:text=Docs%20as%20code%20is%20a,Writing%20plain%2Dtext%20documentation%20files)
 
 ## Markdown
 
-- [Official Markdown Specification](https://daringfireball.net/projects/markdown/ "https://daringfireball.net/projects/markdown/")
-- ![:white_check_mark:](https://pf-emoji-service--cdn.us-east-1.prod.public.atl-paas.net/standard/caa27a19-fc09-4452-b2b4-a301552fd69c/32x32/2705.png) [The Markdown Guide](https://www.markdownguide.org/ "https://www.markdownguide.org/")
+* [Official Markdown Specification](https://daringfireball.net/projects/markdown/)
+* ✅ [The Markdown Guide](https://www.markdownguide.org/)
 
 # Meta
 
 Looking beyond just DevOps.
 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/ "https://teachyourselfcs.com/") - Best in-class books and courses for learning computer science
-- [Open Source Society University (OSSU)](https://github.com/ossu "https://github.com/ossu") - GitHub
-- [brilliant.org](https://brilliant.org/ "https://brilliant.org/") - Online learning platform
-- [Code](https://www.charlespetzold.com/books/ "https://www.charlespetzold.com/books/") by Charles Petzold
+* ✅ [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Best in-class books and courses for learning Computer Science (CS)
+* [Open Source Society University (OSSU)](https://github.com/ossu) - GitHub
+* [Code](https://www.charlespetzold.com/books/) by Charles Petzold
