@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a9c2772a5c7e334b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210905065308-sysadmin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28a4c7c4a6ba295d",
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "devops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "right": {
     "id": "b7cc993299843beb",
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309041636-linux-ts-non-sa.md",
+                "file": "20210905065308-sysadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309041636-linux-ts-non-sa.md",
+                "file": "20210905065308-sysadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202309041636-linux-ts-non-sa.md"
+                "file": "20210905065308-sysadmin.md"
               }
             }
           },
@@ -178,12 +192,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0e74dcafb8495fdc",
+  "active": "a9c2772a5c7e334b",
   "lastOpenFiles": [
+    "_index.md",
+    "20220603085449-devops.md",
     "202309041636-linux-ts-non-sa.md",
     "202309041441-devops-learning-resources.md",
     "2021-08-11--10-18-57Z--wiki.md",
-    "_index.md",
     "20220104135452-resume.md",
     "20220623214742-cool-dev-shit.md",
     "202308121503.md",
