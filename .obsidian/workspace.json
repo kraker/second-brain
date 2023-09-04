@@ -11,13 +11,8 @@
             "id": "ff9dcd7a5159531c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309041441-devops-learning-resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -30,13 +25,8 @@
             "id": "810163c9b5a7e84d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309041441-devops-learning-resources.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -106,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309041441-devops-learning-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309041441-devops-learning-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202309041441-devops-learning-resources.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,10 +164,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ff9dcd7a5159531c",
+  "active": "810163c9b5a7e84d",
   "lastOpenFiles": [
-    "2021-08-11--10-18-57Z--wiki.md",
     "202309041441-devops-learning-resources.md",
+    "2021-08-11--10-18-57Z--wiki.md",
     "_index.md",
     "20220104135452-resume.md",
     "20220623214742-cool-dev-shit.md",
