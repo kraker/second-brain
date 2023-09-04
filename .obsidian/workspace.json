@@ -4,17 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2b16f4f01d0d2419",
+        "id": "687aeb38354d4bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "4631fbba1556c446",
+            "id": "088a0b21d407d064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20220104135452-resume.md",
+                "file": "2021-08-11--10-18-57Z--wiki.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff9dcd7a5159531c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202309041441-devops-learning-resources.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "62690fdf182d0097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "810163c9b5a7e84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202309041441-devops-learning-resources.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -49,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resume",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b7cc993299843beb",
@@ -87,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220104135452-resume.md",
+                "file": "202309041441-devops-learning-resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220104135452-resume.md",
+                "file": "202309041441-devops-learning-resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220104135452-resume.md"
+                "file": "202309041441-devops-learning-resources.md"
               }
             }
           },
@@ -159,11 +192,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4631fbba1556c446",
+  "active": "810163c9b5a7e84d",
   "lastOpenFiles": [
-    "20220623214742-cool-dev-shit.md",
+    "2021-08-11--10-18-57Z--wiki.md",
+    "202309041441-devops-learning-resources.md",
     "_index.md",
     "20220104135452-resume.md",
+    "20220623214742-cool-dev-shit.md",
     "202308121503.md",
     "202308121505.md",
     "new_note_template.md~",
