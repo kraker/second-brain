@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd95f6e057441e7",
+        "id": "05d12e1ef1f2d548",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7b8cf4ab79400b",
+            "id": "3fe6daa5a68eb7bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202309101543-linux-ts-non-sa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "devops",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202309101543-linux-ts-non-sa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202309101543-linux-ts-non-sa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202309101543-linux-ts-non-sa.md"
+              }
             }
           },
           {
@@ -150,14 +158,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "bf7b8cf4ab79400b",
+  "active": "3fe6daa5a68eb7bb",
   "lastOpenFiles": [
+    "202309101543-linux-ts-non-sa.md",
+    "2021-08-11--10-18-57Z--wiki.md",
+    "_index.md",
     "202309041636-linux-ts-non-sa.md",
     "20210905065308-sysadmin.md",
-    "_index.md",
     "20220603085449-devops.md",
     "202309041441-devops-learning-resources.md",
-    "2021-08-11--10-18-57Z--wiki.md",
     "20220104135452-resume.md",
     "20220623214742-cool-dev-shit.md",
     "202308121503.md",
