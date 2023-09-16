@@ -9,5 +9,6 @@
   "showUnsupportedFiles": true,
   "promptDelete": false,
   "readableLineLength": true,
-  "trashOption": "none"
+  "trashOption": "none",
+  "autoPairBrackets": false
 }
