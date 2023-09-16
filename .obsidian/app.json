@@ -10,5 +10,6 @@
   "promptDelete": false,
   "readableLineLength": true,
   "trashOption": "none",
-  "autoPairBrackets": false
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false
 }
