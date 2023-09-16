@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "05d12e1ef1f2d548",
+        "id": "8e830201cb21ceb4",
         "type": "tabs",
         "children": [
           {
-            "id": "17e4cd2ae4af08ee",
+            "id": "e14c59a57fdf3eeb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a5f92adcaef3fbc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309152312-data-compression.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309152312-data-compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309152312-data-compression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202309152312-data-compression.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,10 +160,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a5f92adcaef3fbc1",
+  "active": "e14c59a57fdf3eeb",
   "lastOpenFiles": [
-    "202309152312-data-compression.md",
     "_index.md",
+    "202309152312-data-compression.md",
     "README.md",
     "202309101543-linux-ts-non-sa.md",
     "2021-08-11--10-18-57Z--wiki.md",
