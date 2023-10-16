@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e830201cb21ceb4",
+        "id": "20da1c9708c5ea5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e14c59a57fdf3eeb",
+            "id": "9b879b283764e891",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309161114-pacemaker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4988c3336bc8b247",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86857ce95d06b610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309161114-pacemaker.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -68,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pacemaker",
+                "query": "dmarc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202309161114-pacemaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202309161114-pacemaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202309161114-pacemaker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +160,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "86857ce95d06b610",
+  "active": "9b879b283764e891",
   "lastOpenFiles": [
+    "2020-10-28--17-02-36Z--dmarc.md",
     "202309161114-pacemaker.md",
     "_index.md",
     "202309152312-data-compression.md",
