@@ -11,8 +11,13 @@
             "id": "220160d89a7b3a1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202311090854-rhcsa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202311090854-rhcsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202311090854-rhcsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202311090854-rhcsa.md"
+              }
             }
           },
           {
@@ -145,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,6 +169,7 @@
   },
   "active": "220160d89a7b3a1a",
   "lastOpenFiles": [
+    "202311090854-rhcsa.md",
     "20210913193531-git.md",
     "2020-10-28--17-02-36Z--dmarc.md",
     "202309161114-pacemaker.md",
