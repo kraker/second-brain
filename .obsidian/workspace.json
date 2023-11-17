@@ -11,11 +11,30 @@
             "id": "220160d89a7b3a1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2020-10-21--12-40-14Z--ipv4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4542ad890292208e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210910055625-python-notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20210910055625-python-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20210910055625-python-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20210910055625-python-notes.md"
+              }
             }
           },
           {
@@ -158,8 +182,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "220160d89a7b3a1a",
+  "active": "4542ad890292208e",
   "lastOpenFiles": [
+    "2021-08-30--13-16-37Z--python.md",
+    "20210905065308-sysadmin.md",
+    "202109050717-bash.md",
+    "20210910055625-python-notes.md",
+    "2020-10-21--12-40-14Z--ipv4.md",
+    "2020-10-21--12-40-26Z--ipv6.md",
+    "2020-10-09--14-43-56Z--frame.md",
     "202311090854-rhcsa.md",
     "20210913193531-git.md",
     "2020-10-28--17-02-36Z--dmarc.md",
@@ -170,7 +201,6 @@
     "202309101543-linux-ts-non-sa.md",
     "2021-08-11--10-18-57Z--wiki.md",
     "202309041636-linux-ts-non-sa.md",
-    "20210905065308-sysadmin.md",
     "20220603085449-devops.md",
     "202309041441-devops-learning-resources.md",
     "20220104135452-resume.md",
@@ -180,8 +210,6 @@
     "new_note_template.md~",
     "202308121501.md",
     "202308121502.md",
-    "new_note_template.md",
-    "2021-09-01--06-51-48Z--career.md",
-    "20201006072053-networking.md"
+    "new_note_template.md"
   ]
 }
