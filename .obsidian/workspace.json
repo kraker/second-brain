@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210910055625-python-notes.md",
+                "file": "2020-11-03--14-56-19Z--zeroconf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210910055625-python-notes.md",
+                "file": "2020-11-03--14-56-19Z--zeroconf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210910055625-python-notes.md",
+                "file": "2020-11-03--14-56-19Z--zeroconf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210910055625-python-notes.md"
+                "file": "2020-11-03--14-56-19Z--zeroconf.md"
               }
             }
           },
@@ -184,10 +184,14 @@
   },
   "active": "4542ad890292208e",
   "lastOpenFiles": [
+    "20201006072053-networking.md",
+    "_index.md",
+    "20210910201237-data-types.md",
+    "20210905101059-programming.md",
+    "20210910055625-python-notes.md",
     "2021-08-30--13-16-37Z--python.md",
     "20210905065308-sysadmin.md",
     "202109050717-bash.md",
-    "20210910055625-python-notes.md",
     "2020-10-21--12-40-14Z--ipv4.md",
     "2020-10-21--12-40-26Z--ipv6.md",
     "2020-10-09--14-43-56Z--frame.md",
@@ -195,7 +199,6 @@
     "20210913193531-git.md",
     "2020-10-28--17-02-36Z--dmarc.md",
     "202309161114-pacemaker.md",
-    "_index.md",
     "202309152312-data-compression.md",
     "README.md",
     "202309101543-linux-ts-non-sa.md",
@@ -207,9 +210,6 @@
     "20220623214742-cool-dev-shit.md",
     "202308121503.md",
     "202308121505.md",
-    "new_note_template.md~",
-    "202308121501.md",
-    "202308121502.md",
-    "new_note_template.md"
+    "new_note_template.md~"
   ]
 }
