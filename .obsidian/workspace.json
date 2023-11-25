@@ -8,25 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "220160d89a7b3a1a",
+            "id": "4542ad890292208e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-10-21--12-40-14Z--ipv4.md",
-                "mode": "source",
+                "file": "20220331075221-music.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           },
           {
-            "id": "4542ad890292208e",
+            "id": "05fafcda7a5e3b0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-11-03--14-56-19Z--zeroconf.md",
+                "file": "202311251634-edm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "networking",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-11-03--14-56-19Z--zeroconf.md",
+                "file": "202311251634-edm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2020-11-03--14-56-19Z--zeroconf.md",
+                "file": "202311251634-edm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2020-11-03--14-56-19Z--zeroconf.md"
+                "file": "202311251634-edm.md"
               }
             }
           },
@@ -182,10 +182,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4542ad890292208e",
+  "active": "05fafcda7a5e3b0c",
   "lastOpenFiles": [
-    "20201006072053-networking.md",
+    "202311251634-edm.md",
+    "20220331075221-music.md",
     "_index.md",
+    "2020-11-03--14-56-19Z--zeroconf.md",
+    "20201006072053-networking.md",
     "20210910201237-data-types.md",
     "20210905101059-programming.md",
     "20210910055625-python-notes.md",
@@ -207,9 +210,6 @@
     "20220603085449-devops.md",
     "202309041441-devops-learning-resources.md",
     "20220104135452-resume.md",
-    "20220623214742-cool-dev-shit.md",
-    "202308121503.md",
-    "202308121505.md",
     "new_note_template.md~"
   ]
 }
