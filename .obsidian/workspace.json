@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20220331075221-music.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -32,9 +32,48 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "56c9848217534bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202311260810-renoise.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c33dd9f3b207416c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202311260743-music-production.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1a35edd6301f8702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202311260747-daw.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "daw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202311251634-edm.md",
+                "file": "202311260810-renoise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202311251634-edm.md",
+                "file": "202311260810-renoise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202311251634-edm.md"
+                "file": "202311260810-renoise.md"
               }
             }
           },
@@ -182,8 +221,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "05fafcda7a5e3b0c",
+  "active": "56c9848217534bea",
   "lastOpenFiles": [
+    "202311260747-daw.md",
+    "202311260743-music-production.md",
+    "202311260810-renoise.md",
     "202311251634-edm.md",
     "20220331075221-music.md",
     "_index.md",
@@ -207,9 +249,6 @@
     "202309101543-linux-ts-non-sa.md",
     "2021-08-11--10-18-57Z--wiki.md",
     "202309041636-linux-ts-non-sa.md",
-    "20220603085449-devops.md",
-    "202309041441-devops-learning-resources.md",
-    "20220104135452-resume.md",
     "new_note_template.md~"
   ]
 }
