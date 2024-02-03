@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+                "file": "comptia-security-sy0-701-exam-objectives-(5-0).pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
+                "file": "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
+                "file": "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+                "file": "comptia-security-sy0-701-exam-objectives-(5-0).pdf"
               }
             }
           },
@@ -169,9 +169,10 @@
   },
   "active": "5f30cef517c7a867",
   "lastOpenFiles": [
+    "comptia-network-n10-008-exam-objectives-(5-0).pdf",
+    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
-    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
     "20210905104155-security.md",
     "20220321163659-root-pw-rotation.md",
