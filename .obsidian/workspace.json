@@ -1,18 +1,20 @@
 {
   "main": {
-    "id": "c961b1aea6753737",
+    "id": "fc7735bebd06ccba",
     "type": "split",
     "children": [
       {
-        "id": "91d65ce3da1e74d7",
+        "id": "698c4229e6e3e588",
         "type": "tabs",
         "children": [
           {
-            "id": "922dc40f7f8d98a0",
+            "id": "5f30cef517c7a867",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+              }
             }
           }
         ]
@@ -21,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0144ca90653d1dab",
+    "id": "f551709885b57d29",
     "type": "split",
     "children": [
       {
-        "id": "aa167c67580fd059",
+        "id": "a312c1e909e42121",
         "type": "tabs",
         "children": [
           {
-            "id": "de9d323e73dfe237",
+            "id": "99e84aa438577a69",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +41,12 @@
             }
           },
           {
-            "id": "6c013f5f2ddf7879",
+            "id": "15e5cc07ea2d3dca",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "car",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,139 +56,150 @@
             }
           },
           {
-            "id": "a7aa96458987df62",
+            "id": "990103283a23c1bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b50eef6ac4d814f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 371.5
   },
   "right": {
-    "id": "b7cc993299843beb",
+    "id": "3ee4a64e984ec9eb",
     "type": "split",
     "children": [
       {
-        "id": "dc45d0b115740a00",
+        "id": "222efed7847600d1",
         "type": "tabs",
         "children": [
           {
-            "id": "7173eb23849712d2",
+            "id": "c92ffae61e25109f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "eb2afbaa804470b5",
+            "id": "da723ec0647151ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d25b8f476c4551c4",
+            "id": "80d6d07680c6dbc0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "dfc013a07c6120b8",
+            "id": "86a1938b623d6a40",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+              }
             }
           },
           {
-            "id": "30e7a6286d898c6e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a492dddcc740eee1",
+            "id": "9bec2f0800a4c54e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6c013f5f2ddf7879",
+  "active": "5f30cef517c7a867",
   "lastOpenFiles": [
-    "202309161114-pacemaker.md",
-    "Pacemaker.md",
-    "20220331075221-music.md",
-    "202311251634-edm.md",
-    "202311260810-renoise.md",
-    "202311260743-music-production.md",
-    "202311260747-daw.md",
+    "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
+    "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
+    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
+    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
+    "20210905104155-security.md",
+    "20220321163659-root-pw-rotation.md",
     "_index.md",
-    "2020-11-03--14-56-19Z--zeroconf.md",
-    "20201006072053-networking.md",
-    "20210910201237-data-types.md",
-    "20210905101059-programming.md",
-    "20210910055625-python-notes.md",
-    "2021-08-30--13-16-37Z--python.md",
-    "20210905065308-sysadmin.md",
-    "202109050717-bash.md",
-    "2020-10-21--12-40-14Z--ipv4.md",
-    "2020-10-21--12-40-26Z--ipv6.md",
-    "2020-10-09--14-43-56Z--frame.md",
-    "202311090854-rhcsa.md",
+    "20211013061838-performance-and-optimization.md",
+    "20210905065406-linux.md",
+    "202304241454-aws.md",
+    "2021-02-10--06-52-20Z--load_balancing.md",
+    "20210908112801-tmux.md",
+    "2020-11-05--14-26-29Z--network_address_translation.md",
+    "20230222091100-kubernetes.md",
+    "20210905084350-markdown.md",
+    "2021-07-30--15-53-47Z--markdown-tutorial.md",
     "20210913193531-git.md",
-    "2020-10-28--17-02-36Z--dmarc.md",
-    "202309152312-data-compression.md",
-    "README.md",
-    "202309101543-linux-ts-non-sa.md",
-    "2021-08-11--10-18-57Z--wiki.md",
-    "new_note_template.md~"
+    "202304210901-eol.md",
+    "20210907222451-awk.md",
+    "2021-09-01--06-52-32Z--learning.md",
+    "2020-10-21--13-18-18Z--dns.md",
+    "2020-11-16--15-42-47Z--dns_servers.md",
+    "202304140932-powershell.md",
+    "20210905065007-regular-expressions.md",
+    "20210905065308-sysadmin.md",
+    "202303192021-windows.md",
+    "20220709202155-problem-solving.md",
+    "2020-11-17--15-21-14Z--fqdn.md",
+    "2023-04-13.md",
+    "851391798-MIT.pdf",
+    "Docker_CheatSheet_08.09.2016_0.pdf",
+    "Docker_CheatSheet_08.09.2016_0.pdf.crdownload"
   ]
 }
