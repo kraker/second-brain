@@ -11,9 +11,12 @@
             "id": "5f30cef517c7a867",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+                "file": "20210905104155-security.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
+                "file": "20210905104155-security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
+                "file": "20210905104155-security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+                "file": "20210905104155-security.md"
               }
             }
           },
@@ -169,14 +172,14 @@
   },
   "active": "5f30cef517c7a867",
   "lastOpenFiles": [
+    "_index.md",
+    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
     "comptia-network-n10-008-exam-objectives-(5-0).pdf",
-    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
     "20210905104155-security.md",
     "20220321163659-root-pw-rotation.md",
-    "_index.md",
     "20211013061838-performance-and-optimization.md",
     "20210905065406-linux.md",
     "202304241454-aws.md",
