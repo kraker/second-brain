@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "698c4229e6e3e588",
+        "id": "77bc8a6b344a4a30",
         "type": "tabs",
         "children": [
           {
-            "id": "5f30cef517c7a867",
+            "id": "1e557cc2820fd8cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905104155-security.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210905104155-security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210905104155-security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20210905104155-security.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,15 +161,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5f30cef517c7a867",
+  "active": "1e557cc2820fd8cd",
   "lastOpenFiles": [
+    "20210905104155-security.md",
     "_index.md",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
     "comptia-network-n10-008-exam-objectives-(5-0).pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
-    "20210905104155-security.md",
     "20220321163659-root-pw-rotation.md",
     "20211013061838-performance-and-optimization.md",
     "20210905065406-linux.md",
