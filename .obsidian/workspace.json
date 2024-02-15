@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "77bc8a6b344a4a30",
+        "id": "5ed7d3ba0e0e17b4",
         "type": "tabs",
         "children": [
           {
-            "id": "1e557cc2820fd8cd",
+            "id": "a1ae65f6c4a8a614",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +161,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1e557cc2820fd8cd",
+  "active": "a1ae65f6c4a8a614",
   "lastOpenFiles": [
+    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "20210905104155-security.md",
     "_index.md",
-    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
     "comptia-network-n10-008-exam-objectives-(5-0).pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
