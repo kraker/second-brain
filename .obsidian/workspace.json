@@ -11,8 +11,13 @@
             "id": "a1ae65f6c4a8a614",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202311090854-rhcsa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202311090854-rhcsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202311090854-rhcsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202311090854-rhcsa.md"
+              }
             }
           },
           {
@@ -163,16 +173,16 @@
   },
   "active": "a1ae65f6c4a8a614",
   "lastOpenFiles": [
+    "20210905065406-linux.md",
+    "_index.md",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
     "20210905104155-security.md",
-    "_index.md",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
     "comptia-network-n10-008-exam-objectives-(5-0).pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
     "20220321163659-root-pw-rotation.md",
     "20211013061838-performance-and-optimization.md",
-    "20210905065406-linux.md",
     "202304241454-aws.md",
     "2021-02-10--06-52-20Z--load_balancing.md",
     "20210908112801-tmux.md",
