@@ -27,14 +27,48 @@
               "type": "markdown",
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1cd32d37113499cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210919173649-linux-utilities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "5ac74535809621c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202402170855-tty.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "47b004b120ff11b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rhcsa",
+                "query": "linux utilities",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "20210919173649-linux-utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "20210919173649-linux-utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402170826-rhcsa-notes.md"
+                "file": "20210919173649-linux-utilities.md"
               }
             }
           },
@@ -185,12 +219,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "58ad2e702a2ab7eb",
+  "active": "1cd32d37113499cd",
   "lastOpenFiles": [
+    "202402170826-rhcsa-notes.md",
+    "20210919173649-linux-utilities.md",
+    "202402170855-tty.md",
+    "202402170850-tree.md",
     "20210905134830-linux-filesysm.md",
     "202402170820-linux-filesystem.md",
     "Pasted image 20240217082937.png",
-    "202402170826-rhcsa-notes.md",
     "202311090854-rhcsa.md",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
     "iGroupQuickReference.pdf",
@@ -224,9 +261,6 @@
     "2020-10-21--13-18-18Z--dns.md",
     "2020-11-16--15-42-47Z--dns_servers.md",
     "202304140932-powershell.md",
-    "20210905065007-regular-expressions.md",
-    "20210905065308-sysadmin.md",
-    "202303192021-windows.md",
     "851391798-MIT.pdf"
   ]
 }
