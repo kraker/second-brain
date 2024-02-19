@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed7d3ba0e0e17b4",
+        "id": "f3f56e17260ddabf",
         "type": "tabs",
         "children": [
           {
-            "id": "a1ae65f6c4a8a614",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905134830-linux-filesysm.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "58ad2e702a2ab7eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202402170826-rhcsa-notes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1cd32d37113499cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210919173649-linux-utilities.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5ac74535809621c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202402170855-tty.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "47b004b120ff11b3",
+            "id": "b78d99c50dd38f6c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210919173649-linux-utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210919173649-linux-utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20210919173649-linux-utilities.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,13 +162,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1cd32d37113499cd",
+  "active": "b78d99c50dd38f6c",
   "lastOpenFiles": [
+    "20210905134830-linux-filesysm.md",
     "202402170826-rhcsa-notes.md",
     "20210919173649-linux-utilities.md",
     "202402170855-tty.md",
     "202402170850-tree.md",
-    "20210905134830-linux-filesysm.md",
     "202402170820-linux-filesystem.md",
     "Pasted image 20240217082937.png",
     "202311090854-rhcsa.md",
