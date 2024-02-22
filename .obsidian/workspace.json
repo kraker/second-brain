@@ -14,6 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "202311090854-rhcsa.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7c3294aa36425f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202402170826-rhcsa-notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -32,9 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0640702d2b6e70ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20200628184910-chmod.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "octal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210905134830-linux-filesystem.md",
+                "file": "20200628184910-chmod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210905134830-linux-filesystem.md",
+                "file": "20200628184910-chmod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210905134830-linux-filesystem.md"
+                "file": "20200628184910-chmod.md"
               }
             }
           },
@@ -169,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,15 +211,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "826959e2b0fe7e2e",
+  "active": "0640702d2b6e70ed",
   "lastOpenFiles": [
+    "20210905134830-linux-filesystem.md",
     "202402170826-rhcsa-notes.md",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "_index.md",
     "20210905065308-sysadmin.md",
     "20210905104155-security.md",
-    "20210905134830-linux-filesystem.md",
     "20210919173649-linux-utilities.md",
     "202402170855-tty.md",
     "202402170850-tree.md",
