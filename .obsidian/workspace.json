@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "25a619281fcbb580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210905135721-file-permissions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0640702d2b6e70ed",
             "type": "leaf",
             "state": {
@@ -84,22 +97,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "25a619281fcbb580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905135721-file-permissions.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,12 +153,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -235,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -252,9 +252,9 @@
   },
   "active": "25a619281fcbb580",
   "lastOpenFiles": [
-    "20200628184910-chmod.md",
-    "20210905135721-file-permissions.md",
     "20210919173649-linux-utilities.md",
+    "20210905135721-file-permissions.md",
+    "20200628184910-chmod.md",
     "20210905082726-umask.md",
     "2021-02-08--08-31-30Z--tagging.md",
     "2021-02-06--11-07-41Z--vlan.md",
