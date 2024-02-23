@@ -11,5 +11,8 @@
   "readableLineLength": true,
   "trashOption": "none",
   "autoPairBrackets": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "showIndentGuide": false,
+  "smartIndentList": false,
+  "useTab": false
 }
