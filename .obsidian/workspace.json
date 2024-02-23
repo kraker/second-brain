@@ -47,32 +47,6 @@
             }
           },
           {
-            "id": "0640702d2b6e70ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20200628184910-chmod.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "21f735ab48982544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-02-08--08-31-30Z--tagging.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "41bfd9c318b06071",
             "type": "leaf",
             "state": {
@@ -84,9 +58,48 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0640702d2b6e70ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20200628184910-chmod.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bc182f98a3a25e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210905082726-umask.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "25a619281fcbb580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210905135721-file-permissions.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vlan",
+                "query": "file permiss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-08--08-31-30Z--tagging.md",
+                "file": "20210905135721-file-permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-02-08--08-31-30Z--tagging.md",
+                "file": "20210905135721-file-permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-02-08--08-31-30Z--tagging.md"
+                "file": "20210905135721-file-permissions.md"
               }
             }
           },
@@ -237,16 +250,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "21f735ab48982544",
+  "active": "25a619281fcbb580",
   "lastOpenFiles": [
+    "20200628184910-chmod.md",
+    "20210905135721-file-permissions.md",
+    "20210919173649-linux-utilities.md",
+    "20210905082726-umask.md",
+    "2021-02-08--08-31-30Z--tagging.md",
     "2021-02-06--11-07-41Z--vlan.md",
     "_index.md",
-    "20210905082726-umask.md",
-    "20200628184910-chmod.md",
     "20210905134830-linux-filesystem.md",
     "202402170826-rhcsa-notes.md",
     "202311090854-rhcsa.md",
-    "20210919173649-linux-utilities.md",
     "20210905065406-linux.md",
     "20210905065308-sysadmin.md",
     "20210905104155-security.md",
@@ -277,8 +292,6 @@
     "20210905084350-markdown.md",
     "2021-07-30--15-53-47Z--markdown-tutorial.md",
     "20210913193531-git.md",
-    "202304210901-eol.md",
-    "20210907222451-awk.md",
     "851391798-MIT.pdf"
   ]
 }
