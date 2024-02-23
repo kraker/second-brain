@@ -58,9 +58,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "21f735ab48982544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210905082726-umask.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "41bfd9c318b06071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210919173649-linux-utilities.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -89,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "octal",
+                "query": "umask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20200628184910-chmod.md",
+                "file": "20210919173649-linux-utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20200628184910-chmod.md",
+                "file": "20210919173649-linux-utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20200628184910-chmod.md"
+                "file": "20210919173649-linux-utilities.md"
               }
             }
           },
@@ -211,16 +237,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0640702d2b6e70ed",
+  "active": "41bfd9c318b06071",
   "lastOpenFiles": [
     "20210905134830-linux-filesystem.md",
+    "20210919173649-linux-utilities.md",
+    "20210905082726-umask.md",
+    "20200628184910-chmod.md",
     "202402170826-rhcsa-notes.md",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "_index.md",
     "20210905065308-sysadmin.md",
     "20210905104155-security.md",
-    "20210919173649-linux-utilities.md",
     "202402170855-tty.md",
     "202402170850-tree.md",
     "202402170820-linux-filesystem.md",
@@ -251,8 +279,6 @@
     "202304210901-eol.md",
     "20210907222451-awk.md",
     "2021-09-01--06-52-32Z--learning.md",
-    "2020-10-21--13-18-18Z--dns.md",
-    "2020-11-16--15-42-47Z--dns_servers.md",
     "851391798-MIT.pdf"
   ]
 }
