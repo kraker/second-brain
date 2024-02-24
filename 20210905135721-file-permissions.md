@@ -94,12 +94,6 @@ Combination of letters (ugo/rwx) and symbols (+,-,=).
 | 6           | 110             | rw-               | Read and write permissions           |
 | 7           | 111             | rwx               | Read, write, and execute permissions |
 
-### Utilities
-
-* [Utilities](20210919173649-linux-utilities.md)
-* [chmod](20200628184910-chmod.md)
-* [umask](20210905082726-umask.md)
-
 ## Special File Permissions
 
 ### setuid
@@ -136,3 +130,10 @@ drwxrwxrwt. 12 root root 4096 Feb 23 16:03 /var/tmp
 1777
 1777
 ```
+
+## Utilities
+
+* [Utilities](20210919173649-linux-utilities.md)
+* [chmod](20200628184910-chmod.md)
+* [umask](20210905082726-umask.md)
+* [find](20210905081005-find.md)
