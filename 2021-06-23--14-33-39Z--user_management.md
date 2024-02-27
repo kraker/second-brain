@@ -1,7 +1,11 @@
 ---
-title: User management
+title: User Management
 date: 2021-06-23 14:33
+tags:
+- 'sysadmin'
 ---
+
+# User Management
 
 * List users currently logged in: `who`
 * List all existing user accounts w/properties: `passwd -Sa` (as root)
@@ -40,3 +44,4 @@ Source: https://wiki.archlinux.org/title/Users_and_groups#User_management
 ## Additional Resources
 
 https://www.redhat.com/sysadmin/linux-user-account-management
+* [Local User Authentication Files](202402262058-local-user-auth-files.md)

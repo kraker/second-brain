@@ -107,9 +107,48 @@
                 "file": "comptia-linux-xk0-005-exam-objectives-(3-0).pdf"
               }
             }
+          },
+          {
+            "id": "3c4b21a0915c02f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-23--14-27-42Z--users_and_groups.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "85b4018cd6a0e57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-23--14-33-39Z--user_management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6417fc564807b303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202402262058-local-user-auth-files.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -138,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file permiss",
+                "query": "file:user",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +202,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210905082726-umask.md",
+                "file": "202402262058-local-user-auth-files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210905082726-umask.md",
+                "file": "202402262058-local-user-auth-files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210905082726-umask.md"
+                "file": "202402262058-local-user-auth-files.md"
               }
             }
           },
@@ -259,19 +299,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "bc182f98a3a25e3f",
+  "active": "6417fc564807b303",
   "lastOpenFiles": [
-    "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
-    "20210905081005-find.md",
+    "2021-06-23--14-33-39Z--user_management.md",
+    "2021-07-17--11-57-33Z--privileged_user_agreement.md",
+    "202402262058-local-user-auth-files.md",
+    "2021-06-23--14-27-42Z--users_and_groups.md",
+    "202402170826-rhcsa-notes.md",
+    "20210905134830-linux-filesystem.md",
+    "20210919173649-linux-utilities.md",
     "20210905135721-file-permissions.md",
     "20200628184910-chmod.md",
-    "20210919173649-linux-utilities.md",
     "20210905082726-umask.md",
+    "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
+    "20210905081005-find.md",
     "2021-02-08--08-31-30Z--tagging.md",
     "2021-02-06--11-07-41Z--vlan.md",
     "_index.md",
-    "20210905134830-linux-filesystem.md",
-    "202402170826-rhcsa-notes.md",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "20210905065308-sysadmin.md",
@@ -297,10 +341,6 @@
     "20211013061838-performance-and-optimization.md",
     "202304241454-aws.md",
     "2021-02-10--06-52-20Z--load_balancing.md",
-    "20210908112801-tmux.md",
-    "2020-11-05--14-26-29Z--network_address_translation.md",
-    "20230222091100-kubernetes.md",
-    "20210905084350-markdown.md",
-    "851391798-MIT.pdf"
+    "20210908112801-tmux.md"
   ]
 }
