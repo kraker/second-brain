@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402262058-local-user-auth-files.md",
+                "file": "2021-06-23--14-33-39Z--user_management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402262058-local-user-auth-files.md",
+                "file": "2021-06-23--14-33-39Z--user_management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402262058-local-user-auth-files.md"
+                "file": "2021-06-23--14-33-39Z--user_management.md"
               }
             }
           },
@@ -299,11 +299,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6417fc564807b303",
+  "active": "85b4018cd6a0e57b",
   "lastOpenFiles": [
+    "202402262058-local-user-auth-files.md",
     "2021-06-23--14-33-39Z--user_management.md",
     "2021-07-17--11-57-33Z--privileged_user_agreement.md",
-    "202402262058-local-user-auth-files.md",
     "2021-06-23--14-27-42Z--users_and_groups.md",
     "202402170826-rhcsa-notes.md",
     "20210905134830-linux-filesystem.md",
