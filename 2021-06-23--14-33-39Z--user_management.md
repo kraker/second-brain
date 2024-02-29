@@ -88,12 +88,16 @@ CREATE_HOME	yes
 HMAC_CRYPTO_ALGO SHA512
 ```
 
-## User Management Commands
+## User & Group Management Commands
 
 * useradd
 * userdel
 * usermod
+* groupadd
+* groupdel
+* groupmod
 * passwd
+* chage
 
 ## No-Login User Account
 

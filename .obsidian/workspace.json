@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-06-23--14-33-39Z--user_management.md",
+                "file": "20210919173649-linux-utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-06-23--14-33-39Z--user_management.md",
+                "file": "20210919173649-linux-utilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-06-23--14-33-39Z--user_management.md"
+                "file": "20210919173649-linux-utilities.md"
               }
             }
           },
@@ -299,24 +299,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "85b4018cd6a0e57b",
+  "active": "41bfd9c318b06071",
   "lastOpenFiles": [
-    "202402262058-local-user-auth-files.md",
-    "2021-06-23--14-33-39Z--user_management.md",
-    "2021-07-17--11-57-33Z--privileged_user_agreement.md",
-    "2021-06-23--14-27-42Z--users_and_groups.md",
-    "202402170826-rhcsa-notes.md",
     "20210905134830-linux-filesystem.md",
+    "202402170826-rhcsa-notes.md",
     "20210919173649-linux-utilities.md",
-    "20210905135721-file-permissions.md",
-    "20200628184910-chmod.md",
-    "20210905082726-umask.md",
+    "2021-06-23--14-33-39Z--user_management.md",
+    "2021-06-23--14-27-42Z--users_and_groups.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
+    "20210905082726-umask.md",
+    "20200628184910-chmod.md",
+    "20210905135721-file-permissions.md",
+    "202311090854-rhcsa.md",
+    "202402262058-local-user-auth-files.md",
+    "2021-07-17--11-57-33Z--privileged_user_agreement.md",
     "20210905081005-find.md",
     "2021-02-08--08-31-30Z--tagging.md",
     "2021-02-06--11-07-41Z--vlan.md",
     "_index.md",
-    "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "20210905065308-sysadmin.md",
     "20210905104155-security.md",
@@ -340,7 +340,6 @@
     "20220321163659-root-pw-rotation.md",
     "20211013061838-performance-and-optimization.md",
     "202304241454-aws.md",
-    "2021-02-10--06-52-20Z--load_balancing.md",
-    "20210908112801-tmux.md"
+    "2021-02-10--06-52-20Z--load_balancing.md"
   ]
 }
