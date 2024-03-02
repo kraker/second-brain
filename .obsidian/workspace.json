@@ -60,61 +60,12 @@
             }
           },
           {
-            "id": "25a619281fcbb580",
+            "id": "ce82b6fa5f1ac542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210905135721-file-permissions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0640702d2b6e70ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20200628184910-chmod.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bc182f98a3a25e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905082726-umask.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f67fea293e3b1334",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "comptia-linux-xk0-005-exam-objectives-(3-0).pdf"
-              }
-            }
-          },
-          {
-            "id": "3c4b21a0915c02f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-23--14-27-42Z--users_and_groups.md",
+                "file": "202109050717-bash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -127,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-06-23--14-33-39Z--user_management.md",
+                "file": "202106-23143339-user_management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -135,12 +86,12 @@
             }
           },
           {
-            "id": "6417fc564807b303",
+            "id": "14bd9c4295497554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202402262058-local-user-auth-files.md",
+                "file": "202403021207-shell-startup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -148,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -223,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210919173649-linux-utilities.md",
+                "file": "202403021207-shell-startup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210919173649-linux-utilities.md",
+                "file": "202403021207-shell-startup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210919173649-linux-utilities.md"
+                "file": "202403021207-shell-startup.md"
               }
             }
           },
@@ -299,19 +250,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "41bfd9c318b06071",
+  "active": "14bd9c4295497554",
   "lastOpenFiles": [
+    "202403021207-shell-startup.md",
+    "202106-23143339-user_management.md",
+    "202402262058-local-user-auth-files.md",
+    "202109050717-bash.md",
+    "20210905135721-file-permissions.md",
+    "20210919173649-linux-utilities.md",
     "20210905134830-linux-filesystem.md",
     "202402170826-rhcsa-notes.md",
-    "20210919173649-linux-utilities.md",
-    "2021-06-23--14-33-39Z--user_management.md",
     "2021-06-23--14-27-42Z--users_and_groups.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "20210905082726-umask.md",
     "20200628184910-chmod.md",
-    "20210905135721-file-permissions.md",
     "202311090854-rhcsa.md",
-    "202402262058-local-user-auth-files.md",
     "2021-07-17--11-57-33Z--privileged_user_agreement.md",
     "20210905081005-find.md",
     "2021-02-08--08-31-30Z--tagging.md",
@@ -339,7 +292,6 @@
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
     "20220321163659-root-pw-rotation.md",
     "20211013061838-performance-and-optimization.md",
-    "202304241454-aws.md",
-    "2021-02-10--06-52-20Z--load_balancing.md"
+    "202304241454-aws.md"
   ]
 }

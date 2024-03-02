@@ -7,7 +7,7 @@ Users and groups are used on GNU/Linux for [access control](2021-06-23--14-31-49
 that is, to control access to the system's files, directories, and peripherals.
 Linux offers relatively simple/coarse access control mechanisms by default.
 
-## [User management](2021-06-23--14-33-39Z--user_management.md)
+## [User management](202106-23143339-user_management.md)
 
 **Source:**
 Arch wiki: [Users and groups](https://wiki.archlinux.org/title/Users_and_groups)
