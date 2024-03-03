@@ -102,12 +102,30 @@
             "id": "bd02caccb49445b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202403030918-ps.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0b5ed83cc86280f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202403030942-job-control.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:user",
+                "query": "file:control",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210919173649-linux-utilities.md",
+                "file": "202403030942-job-control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210919173649-linux-utilities.md",
+                "file": "202403030942-job-control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210919173649-linux-utilities.md"
+                "file": "202403030942-job-control.md"
               }
             }
           },
@@ -258,14 +276,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "41bfd9c318b06071",
+  "active": "b0b5ed83cc86280f",
   "lastOpenFiles": [
+    "202403030942-job-control.md",
+    "202403030918-ps.md",
+    "20210919173649-linux-utilities.md",
     "20210905134830-linux-filesystem.md",
     "202402170826-rhcsa-notes.md",
     "202311090854-rhcsa.md",
     "202106-23143339-user_management.md",
     "202403021207-shell-startup.md",
-    "20210919173649-linux-utilities.md",
     "202109050717-bash.md",
     "202402262058-local-user-auth-files.md",
     "20210905135721-file-permissions.md",
@@ -298,8 +318,6 @@
     "comptia-network-n10-008-exam-objectives-(5-0).pdf",
     "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
     "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload",
-    "20220321163659-root-pw-rotation.md",
-    "20211013061838-performance-and-optimization.md",
-    "202304241454-aws.md"
+    "20220321163659-root-pw-rotation.md"
   ]
 }
