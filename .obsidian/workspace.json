@@ -8,39 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b78d99c50dd38f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202311090854-rhcsa.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7c3294aa36425f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "826959e2b0fe7e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905134830-linux-filesystem.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -60,84 +34,6 @@
             }
           },
           {
-            "id": "ce82b6fa5f1ac542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202109050717-bash.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "85b4018cd6a0e57b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202106-23143339-user_management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "14bd9c4295497554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403021207-shell-startup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bd02caccb49445b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403030918-ps.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b0b5ed83cc86280f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403030942-job-control.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "987a10ff055fc447",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403031050-job-scheduling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "175e5bb3c24e172e",
             "type": "leaf",
             "state": {
@@ -149,9 +45,34 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9e23af59a63f09e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202403200949-package-management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "56eeeb66904569e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202403200951-dnf.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:rpm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20220525072458-rpm.md",
+                "file": "202402170826-rhcsa-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20220525072458-rpm.md",
+                "file": "202402170826-rhcsa-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20220525072458-rpm.md"
+                "file": "202402170826-rhcsa-notes.md"
               }
             }
           },
@@ -302,18 +223,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "175e5bb3c24e172e",
+  "active": "7c3294aa36425f2f",
   "lastOpenFiles": [
+    "20210919173649-linux-utilities.md",
+    "20220525072458-rpm.md",
+    "202403200949-package-management.md",
+    "202403200951-dnf.md",
+    "202403200953-zypper.md",
+    "202403200955-apt.md",
+    "202403200959-dpkg.md",
+    "202403201000-pacman.md",
+    "202402170826-rhcsa-notes.md",
     "202403031050-job-scheduling.md",
     "202403030942-job-control.md",
     "202403030918-ps.md",
-    "20210919173649-linux-utilities.md",
-    "20210905134830-linux-filesystem.md",
-    "202402170826-rhcsa-notes.md",
-    "202311090854-rhcsa.md",
-    "202106-23143339-user_management.md",
     "202403021207-shell-startup.md",
     "202109050717-bash.md",
+    "202106-23143339-user_management.md",
+    "20210905134830-linux-filesystem.md",
+    "202311090854-rhcsa.md",
     "202402262058-local-user-auth-files.md",
     "20210905135721-file-permissions.md",
     "2021-06-23--14-27-42Z--users_and_groups.md",
@@ -324,13 +252,6 @@
     "20210905081005-find.md",
     "2021-02-08--08-31-30Z--tagging.md",
     "2021-02-06--11-07-41Z--vlan.md",
-    "_index.md",
-    "20210905065406-linux.md",
-    "20210905065308-sysadmin.md",
-    "20210905104155-security.md",
-    "202402170855-tty.md",
-    "202402170850-tree.md",
-    "202402170820-linux-filesystem.md",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
     "iGroupQuickReference.pdf",
