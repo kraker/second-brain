@@ -4,72 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f56e17260ddabf",
+        "id": "e08e7986b9a92f00",
         "type": "tabs",
         "children": [
           {
-            "id": "7c3294aa36425f2f",
+            "id": "92b7237352d481ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202402170826-rhcsa-notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41bfd9c318b06071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210919173649-linux-utilities.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "175e5bb3c24e172e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220525072458-rpm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e23af59a63f09e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403200949-package-management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "56eeeb66904569e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403200951-dnf.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -147,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202402170826-rhcsa-notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,17 +162,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7c3294aa36425f2f",
+  "active": "92b7237352d481ab",
   "lastOpenFiles": [
-    "20210919173649-linux-utilities.md",
-    "20220525072458-rpm.md",
-    "202403200949-package-management.md",
     "202403200951-dnf.md",
+    "202403200949-package-management.md",
+    "20220525072458-rpm.md",
+    "20210919173649-linux-utilities.md",
+    "202402170826-rhcsa-notes.md",
     "202403200953-zypper.md",
     "202403200955-apt.md",
     "202403200959-dpkg.md",
     "202403201000-pacman.md",
-    "202402170826-rhcsa-notes.md",
     "202403031050-job-scheduling.md",
     "202403030942-job-control.md",
     "202403030918-ps.md",
