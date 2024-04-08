@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202403200949-package-management.md",
+                "file": "202403200951-dnf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202403200949-package-management.md",
+                "file": "202403200951-dnf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202403200949-package-management.md"
+                "file": "202403200951-dnf.md"
               }
             }
           },
@@ -197,11 +197,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5abbd679c799f87c",
+  "active": "6bba3f0527d09619",
   "lastOpenFiles": [
-    "202403200951-dnf.md",
     "202403200949-package-management.md",
     "202402170826-rhcsa-notes.md",
+    "202403200951-dnf.md",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "_index.md",
