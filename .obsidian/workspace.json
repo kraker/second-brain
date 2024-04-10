@@ -45,9 +45,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9c0ea0352dc7ae53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202403200951-dnf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202403200951-dnf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202403200951-dnf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,11 +201,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6bba3f0527d09619",
+  "active": "9c0ea0352dc7ae53",
   "lastOpenFiles": [
+    "202403200951-dnf.md",
     "202403200949-package-management.md",
     "202402170826-rhcsa-notes.md",
-    "202403200951-dnf.md",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "_index.md",
