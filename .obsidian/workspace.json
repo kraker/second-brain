@@ -84,9 +84,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9c92642e8b0fa544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202309161114-pacemaker.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bios",
+                "query": "pacema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404180922-grub2.md",
+                "file": "202309161114-pacemaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404180922-grub2.md",
+                "file": "202309161114-pacemaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404180922-grub2.md"
+                "file": "202309161114-pacemaker.md"
               }
             }
           },
@@ -237,14 +250,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "80c0d0aa544e40ac",
+  "active": "9c92642e8b0fa544",
   "lastOpenFiles": [
+    "202404180922-grub2.md",
     "20220525072201-unix-and-linux-sa-handbook.md",
     "202404180918-linux-boot-process.md",
     "202403200951-dnf.md",
     "202403200949-package-management.md",
     "202402170826-rhcsa-notes.md",
-    "202404180922-grub2.md",
     "Pasted image 20240418092112.png",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
