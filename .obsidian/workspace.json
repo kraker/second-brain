@@ -50,12 +50,43 @@
             "id": "9c0ea0352dc7ae53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202404180918-linux-boot-process.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a9404a0d071552f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220525072201-unix-and-linux-sa-handbook.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "80c0d0aa544e40ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202404180922-grub2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -84,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +140,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202404180922-grub2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202404180922-grub2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402170826-rhcsa-notes.md"
+                "file": "202404180922-grub2.md"
               }
             }
           },
@@ -205,11 +237,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9c0ea0352dc7ae53",
+  "active": "80c0d0aa544e40ac",
   "lastOpenFiles": [
+    "20220525072201-unix-and-linux-sa-handbook.md",
+    "202404180918-linux-boot-process.md",
     "202403200951-dnf.md",
     "202403200949-package-management.md",
     "202402170826-rhcsa-notes.md",
+    "202404180922-grub2.md",
+    "Pasted image 20240418092112.png",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "_index.md",
@@ -231,9 +267,6 @@
     "20210905135721-file-permissions.md",
     "2021-06-23--14-27-42Z--users_and_groups.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
-    "20210905082726-umask.md",
-    "20200628184910-chmod.md",
-    "2021-07-17--11-57-33Z--privileged_user_agreement.md",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
     "iGroupQuickReference.pdf",
