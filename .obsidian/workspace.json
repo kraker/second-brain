@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fd8694ac456d0f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202311090854-rhcsa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pacema",
+                "query": "rhcs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "202311090854-rhcsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-18.md",
+                "file": "202311090854-rhcsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-18.md"
+                "file": "202311090854-rhcsa.md"
               }
             }
           },
@@ -170,11 +185,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9c92642e8b0fa544",
+  "active": "fd8694ac456d0f2d",
   "lastOpenFiles": [
+    "202311090854-rhcsa.md",
+    "20210905065406-linux.md",
+    "2024-04-18.md",
     "202404180922-grub2.md",
     "20220525072201-unix-and-linux-sa-handbook.md",
-    "2024-04-18.md",
     "202404180918-linux-boot-process.md",
     "202403200951-dnf.md",
     "202403200949-package-management.md",
@@ -182,8 +199,6 @@
     "2023-04-13.md",
     "202309161114-pacemaker.md",
     "Pasted image 20240418092112.png",
-    "202311090854-rhcsa.md",
-    "20210905065406-linux.md",
     "_index.md",
     "20210905104155-security.md",
     "20220525072458-rpm.md",
