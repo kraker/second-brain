@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5bf47d3c93159a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202311090854-rhcsa.md",
+                "file": "2024-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202311090854-rhcsa.md",
+                "file": "2024-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202311090854-rhcsa.md"
+                "file": "2024-04-23.md"
               }
             }
           },
@@ -185,8 +198,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fd8694ac456d0f2d",
+  "active": "5bf47d3c93159a35",
   "lastOpenFiles": [
+    "2024-04-23.md",
     "202311090854-rhcsa.md",
     "20210905065406-linux.md",
     "2024-04-18.md",
@@ -213,7 +227,6 @@
     "202403021207-shell-startup.md",
     "202109050717-bash.md",
     "202106-23143339-user_management.md",
-    "20210905134830-linux-filesystem.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
