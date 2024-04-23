@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "202311090854-rhcsa.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-23.md",
+                "file": "202311090854-rhcsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-23.md",
+                "file": "202311090854-rhcsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-23.md"
+                "file": "202311090854-rhcsa.md"
               }
             }
           },
@@ -198,7 +198,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5bf47d3c93159a35",
+  "active": "fd8694ac456d0f2d",
   "lastOpenFiles": [
     "2024-04-23.md",
     "202311090854-rhcsa.md",
