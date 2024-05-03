@@ -8,39 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6898cdea768fbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202402170826-rhcsa-notes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d68a00546d9ab268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "202010261345-subnetting.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b7cf92f74014cb8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202106271022-subnetwork.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -121,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202010261345-subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202010261345-subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402170826-rhcsa-notes.md"
+                "file": "202010261345-subnetting.md"
               }
             }
           },
@@ -197,11 +171,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e6898cdea768fbec",
+  "active": "d68a00546d9ab268",
   "lastOpenFiles": [
+    "202402170826-rhcsa-notes.md",
     "202010261345-subnetting.md",
     "202106271022-subnetwork.md",
-    "202402170826-rhcsa-notes.md",
     "202404240919-private-network.md",
     "20201103150544-special_ip_addresses.md",
     "202311090854-rhcsa.md",
