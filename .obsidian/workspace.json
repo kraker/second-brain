@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7065ee4d8a0b792b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subnett",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202010261345-subnetting.md",
+                "file": "2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202010261345-subnetting.md",
+                "file": "2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202010261345-subnetting.md"
+                "file": "2024-05-06.md"
               }
             }
           },
@@ -171,10 +185,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d68a00546d9ab268",
+  "active": "7065ee4d8a0b792b",
   "lastOpenFiles": [
-    "202402170826-rhcsa-notes.md",
+    "2024-05-06.md",
     "202010261345-subnetting.md",
+    "202402170826-rhcsa-notes.md",
     "202106271022-subnetwork.md",
     "202404240919-private-network.md",
     "20201103150544-special_ip_addresses.md",
@@ -199,7 +214,6 @@
     "202403200959-dpkg.md",
     "202403201000-pacman.md",
     "202403031050-job-scheduling.md",
-    "202403030942-job-control.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
