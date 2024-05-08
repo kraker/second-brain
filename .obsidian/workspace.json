@@ -32,9 +32,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "022d7c37fa69cdcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202405081005-cron.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "85d89f418dce2eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202405081011-prometheus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-06.md",
+                "file": "202405081005-cron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-06.md",
+                "file": "202405081005-cron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-06.md"
+                "file": "202405081005-cron.md"
               }
             }
           },
@@ -185,10 +211,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7065ee4d8a0b792b",
+  "active": "022d7c37fa69cdcd",
   "lastOpenFiles": [
-    "2024-05-06.md",
+    "202405081011-prometheus.md",
+    "202405081005-cron.md",
     "202010261345-subnetting.md",
+    "2024-05-06.md",
     "202402170826-rhcsa-notes.md",
     "202106271022-subnetwork.md",
     "202404240919-private-network.md",
@@ -212,8 +240,6 @@
     "202403200953-zypper.md",
     "202403200955-apt.md",
     "202403200959-dpkg.md",
-    "202403201000-pacman.md",
-    "202403031050-job-scheduling.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
