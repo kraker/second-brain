@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-12.md",
+                "file": "202405121207-systemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-12.md",
+                "file": "202405121207-systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-12.md"
+                "file": "202405121207-systemd.md"
               }
             }
           },
@@ -224,7 +224,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4afe3267a5adb916",
+  "active": "8428ea0050bf0a63",
   "lastOpenFiles": [
     "2024-05-12.md",
     "202405121207-systemd.md",
