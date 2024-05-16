@@ -23,6 +23,10 @@ Most useful journalctl options:
 | -p     | Filter logs for messages with a specific priority    |
 | -e     | Go to end of logs                                    |
 
+## Conf
+
+Systemd-journald conf: `/etc/systemd/journald.conf`
+
 # See also
 
 * [202405130914-logger](202405130914-logger.md)
