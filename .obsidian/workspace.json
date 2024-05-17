@@ -84,9 +84,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9c8abfdde412d83f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220318080038-syslog.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b27a518b93c2d93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -115,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405130909-systemd-journald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405130909-systemd-journald.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202405130909-systemd-journald.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,14 +254,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a71ca36343d5df5a",
+  "active": "15e5cc07ea2d3dca",
   "lastOpenFiles": [
+    "20220318080038-syslog.md",
+    "202405130909-systemd-journald.md",
     "202402170826-rhcsa-notes.md",
     "202405121207-systemd.md",
     "202405081005-cron.md",
     "202010261345-subnetting.md",
     "202405130914-logger.md",
-    "202405130909-systemd-journald.md",
     "2024-05-12.md",
     "202311090854-rhcsa.md",
     "2024-05-06.md",
@@ -265,7 +283,6 @@
     "Pasted image 20240418092112.png",
     "_index.md",
     "20210905104155-security.md",
-    "20220525072458-rpm.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
