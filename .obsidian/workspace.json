@@ -102,12 +102,30 @@
             "id": "1b27a518b93c2d93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a1f8512cb6fbaa79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202405191352-cooking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202405191352-cooking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202405191352-cooking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402170826-rhcsa-notes.md"
+                "file": "202405191352-cooking.md"
               }
             }
           },
@@ -258,10 +276,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fe92db6431083ee9",
+  "active": "a1f8512cb6fbaa79",
   "lastOpenFiles": [
-    "202311090854-rhcsa.md",
+    "202405191352-cooking.md",
+    "_index.md",
+    "Untitled.md",
     "202402170826-rhcsa-notes.md",
+    "202311090854-rhcsa.md",
     "202405130909-systemd-journald.md",
     "202405130914-logger.md",
     "20220318080038-syslog.md",
@@ -283,10 +304,7 @@
     "202403200951-dnf.md",
     "202403200949-package-management.md",
     "2023-04-13.md",
-    "202309161114-pacemaker.md",
     "Pasted image 20240418092112.png",
-    "_index.md",
-    "20210905104155-security.md",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
