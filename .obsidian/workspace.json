@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405191352-cooking.md",
+                "file": "202107151455-install_python_2x.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -154,7 +154,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:python",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405191352-cooking.md",
+                "file": "202107151455-install_python_2x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405191352-cooking.md",
+                "file": "202107151455-install_python_2x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405191352-cooking.md"
+                "file": "202107151455-install_python_2x.md"
               }
             }
           },
