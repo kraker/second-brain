@@ -11,8 +11,10 @@
             "id": "cdb9e3c995bd75e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
