@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8cb317fabec99e0",
+        "id": "2854a6cf84f6f98e",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb9e3c995bd75e0",
+            "id": "b6936b08eb57b8f9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -167,7 +165,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "99e84aa438577a69",
+  "active": "b6936b08eb57b8f9",
   "lastOpenFiles": [
     "202405191352-cooking.md",
     "_index.md",
