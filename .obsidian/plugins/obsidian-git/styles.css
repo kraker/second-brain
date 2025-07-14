@@ -8,15 +8,20 @@
     }
 }
 
-.workspace-leaf-content[data-type='git-view'] .view-content {
+.workspace-leaf-content[data-type="git-view"] .button-border {
+    border: 2px solid var(--interactive-accent);
+    border-radius: var(--radius-s);
+}
+
+.workspace-leaf-content[data-type="git-view"] .view-content {
     padding: 0;
 }
 
-.workspace-leaf-content[data-type='git-history-view'] .view-content {
+.workspace-leaf-content[data-type="git-history-view"] .view-content {
     padding: 0;
 }
 
-.loading>svg {
+.loading > svg {
     animation: 2s linear infinite loading;
     transform-origin: 50% 50%;
     display: inline-block;
@@ -32,6 +37,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.obsidian-git-disabled {
+    opacity: 0.5;
 }
 
 .obsidian-git-center-button {
@@ -70,6 +79,22 @@
 .git-tools .buttons > * {
     padding: 0 0;
     height: auto;
+}
+
+.is-active .git-tools .buttons > * {
+    color: var(--nav-item-color-active);
+}
+
+.git-author {
+    color: var(--text-accent);
+}
+
+.git-date {
+    color: var(--text-accent);
+}
+
+.git-ref {
+    color: var(--text-accent);
 }
 
 .workspace-leaf-content[data-type="diff-view"] .d2h-d-none {
@@ -223,12 +248,18 @@
 }
 
 .theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    del {
     background-color: #ffb6ba;
 }
 
 .theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line del,
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line del {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    del {
     background-color: #8d232881;
 }
 
@@ -244,13 +275,19 @@
 }
 
 .theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    ins {
     background-color: #97f295;
     text-align: left;
 }
 
 .theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-line ins,
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-code-side-line ins {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-code-side-line
+    ins {
     background-color: #1d921996;
     text-align: left;
 }
@@ -371,19 +408,31 @@
     color: var(--text-normal);
 }
 
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-del.d2h-change {
     background-color: #fdf2d0;
 }
 
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-del.d2h-change {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-del.d2h-change {
     background-color: #55492480;
 }
 
-.theme-light .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
+.theme-light
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-ins.d2h-change {
     background-color: #ded;
 }
 
-.theme-dark .workspace-leaf-content[data-type="diff-view"] .d2h-file-diff .d2h-ins.d2h-change {
+.theme-dark
+    .workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-diff
+    .d2h-ins.d2h-change {
     background-color: rgba(37, 78, 37, 0.418);
 }
 
@@ -396,7 +445,9 @@
     text-decoration: none;
 }
 
-.workspace-leaf-content[data-type="diff-view"] .d2h-file-list-wrapper a:visited {
+.workspace-leaf-content[data-type="diff-view"]
+    .d2h-file-list-wrapper
+    a:visited {
     color: #3572b0;
 }
 
@@ -422,13 +473,13 @@
     padding: 0;
 }
 
-.workspace-leaf-content[data-type="diff-view"] .d2h-file-list>li {
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list > li {
     border-bottom: 1px solid var(--background-modifier-border);
     margin: 0;
     padding: 5px 10px;
 }
 
-.workspace-leaf-content[data-type="diff-view"] .d2h-file-list>li:last-child {
+.workspace-leaf-content[data-type="diff-view"] .d2h-file-list > li:last-child {
     border-bottom: none;
 }
 
@@ -496,12 +547,59 @@
     background-color: var(--background-secondary);
 }
 
-.cm-gutterElement.obs-git-blame-gutter > div, .line-author-settings-preview {
+.cm-gutterElement.obs-git-blame-gutter > div,
+.line-author-settings-preview {
     /* delegate text color to settings */
-    color: var(--obs-git-gutter-text); 
+    color: var(--obs-git-gutter-text);
     font-family: monospace;
     height: 100%; /* ensure, that age-based background color occupies entire parent */
     text-align: right;
     padding: 0px 6px 0px 6px;
     white-space: pre; /* Keep spaces and do not collapse them. */
+}
+
+@media (max-width: 800px) {
+    /* hide git blame gutter not to superpose text */
+    .cm-gutterElement.obs-git-blame-gutter {
+        display: none;
+    }
+}
+
+.git-unified-diff-view,
+.git-split-diff-view .cm-deletedLine .cm-changedText {
+    background-color: #ee443330;
+}
+
+.git-unified-diff-view,
+.git-split-diff-view .cm-insertedLine .cm-changedText {
+    background-color: #22bb2230;
+}
+
+/* Limits the scrollbar to the view body */
+.git-view {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+}
+
+.git-obscure-prompt[git-is-obscured="true"] #git-show-password:after {
+    -webkit-mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-eye"><path d="M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0"></path><circle cx="12" cy="12" r="3"></circle></svg>');
+}
+
+.git-obscure-prompt[git-is-obscured="false"] #git-show-password:after {
+    -webkit-mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-eye-off"><path d="M10.733 5.076a10.744 10.744 0 0 1 11.205 6.575 1 1 0 0 1 0 .696 10.747 10.747 0 0 1-1.444 2.49"></path><path d="M14.084 14.158a3 3 0 0 1-4.242-4.242"></path><path d="M17.479 17.499a10.75 10.75 0 0 1-15.417-5.151 1 1 0 0 1 0-.696 10.75 10.75 0 0 1 4.446-5.143"></path><path d="m2 2 20 20"></path></svg>');
+}
+
+/* Override styling of Codemirror merge view "collapsed lines" indicator */
+.git-split-diff-view .ͼ2 .cm-collapsedLines {
+    background: var(--interactive-normal);
+    border-radius: var(--radius-m);
+    color: var(--text-accent);
+    font-size: var(--font-small);
+    padding: var(--size-4-1) var(--size-4-1);
+}
+.git-split-diff-view .ͼ2 .cm-collapsedLines:hover {
+    background: var(--interactive-hover);
+    color: var(--text-accent-hover);
 }

@@ -11,8 +11,26 @@
             "id": "b6936b08eb57b8f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202311090854-rhcsa.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d8bab913a14d28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202507140845-rhcsa-exam-objectives.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -89,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202107151455-install_python_2x.md",
+                "file": "202311090854-rhcsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202107151455-install_python_2x.md",
+                "file": "202311090854-rhcsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202107151455-install_python_2x.md"
+                "file": "202311090854-rhcsa.md"
               }
             }
           },
@@ -161,16 +179,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b6936b08eb57b8f9",
   "lastOpenFiles": [
-    "202405191352-cooking.md",
-    "_index.md",
-    "Untitled.md",
-    "202402170826-rhcsa-notes.md",
+    "202507140845-rhcsa-exam-objectives.md",
     "202311090854-rhcsa.md",
+    "202402170826-rhcsa-notes.md",
+    "Untitled 1.md",
+    "20210905065406-linux.md",
+    "_index.md",
+    "202405191352-cooking.md",
+    "Untitled.md",
     "202405130909-systemd-journald.md",
     "202405130914-logger.md",
     "20220318080038-syslog.md",
@@ -185,13 +208,10 @@
     "20201103150544-special_ip_addresses.md",
     "2024-04-18.md",
     "2024-04-23.md",
-    "20210905065406-linux.md",
     "202404180922-grub2.md",
     "20220525072201-unix-and-linux-sa-handbook.md",
     "202404180918-linux-boot-process.md",
     "202403200951-dnf.md",
-    "202403200949-package-management.md",
-    "2023-04-13.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
