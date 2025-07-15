@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "202311090854-rhcsa.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202311090854-rhcsa.md",
+                "file": "202507140845-rhcsa-exam-objectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202311090854-rhcsa.md",
+                "file": "202507140845-rhcsa-exam-objectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202311090854-rhcsa.md"
+                "file": "202507140845-rhcsa-exam-objectives.md"
               }
             }
           },
@@ -184,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6936b08eb57b8f9",
+  "active": "9d8bab913a14d28a",
   "lastOpenFiles": [
-    "202507140845-rhcsa-exam-objectives.md",
     "202311090854-rhcsa.md",
+    "202507140845-rhcsa-exam-objectives.md",
     "202402170826-rhcsa-notes.md",
     "Untitled 1.md",
     "20210905065406-linux.md",
