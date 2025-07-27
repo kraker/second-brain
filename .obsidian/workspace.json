@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2854a6cf84f6f98e",
+        "id": "230eaa89824a120a",
         "type": "tabs",
         "children": [
           {
-            "id": "b6936b08eb57b8f9",
+            "id": "ddfa336131d25f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "5a2fa924a03088b0",
+            "id": "e1f3c09684417c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "9d8bab913a14d28a",
+            "id": "c311e4291e6043ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,61 +45,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "76c87192c7630d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905135721-file-permissions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "913d3a520fa4e43d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210628143348-access-control-list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c24b2b78e3312280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905082726-umask.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "41b9b407462fdb1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507262125-file-attributes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -174,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202507262125-file-attributes.md",
+                "file": "202402170826-rhcsa-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202507262125-file-attributes.md",
+                "file": "202402170826-rhcsa-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202507262125-file-attributes.md"
+                "file": "202402170826-rhcsa-notes.md"
               }
             }
           },
@@ -251,15 +198,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41b9b407462fdb1a",
+  "active": "e1f3c09684417c81",
   "lastOpenFiles": [
+    "202311090854-rhcsa.md",
+    "202402170826-rhcsa-notes.md",
+    "202507140845-rhcsa-exam-objectives.md",
+    "202507262125-file-attributes.md",
     "20210905135721-file-permissions.md",
     "20210628143348-access-control-list.md",
     "20210905082726-umask.md",
-    "202507262125-file-attributes.md",
-    "202507140845-rhcsa-exam-objectives.md",
-    "202311090854-rhcsa.md",
-    "202402170826-rhcsa-notes.md",
     "Untitled 1.md",
     "20210905065406-linux.md",
     "_index.md",
