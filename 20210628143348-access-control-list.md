@@ -1,6 +1,7 @@
 ---
-title: Access-control list
+title: Access Control Lists
 date: 2021-06-28 14:33
+tags:
 ---
 
 In [computer security](2021-06-28--14-34-37Z--computer_security.md), an
@@ -13,6 +14,10 @@ that contains _(Alice: read,write; Bob: read)_, this would give _Alice_
 permission to read and write the file and only give _Bob_ permission to read it.
 
 [Source](https://en.wikipedia.org/wiki/Access-control_list)
+
+## References
+
+* [Access Control Lists](https://wiki.archlinux.org/title/Access_Control_Lists)
 
 ## Security
 

@@ -96,7 +96,15 @@ Combination of letters (ugo/rwx) and symbols (+,-,=).
 
 ## Special File Permissions
 
-### setuid
+Summary of special file permissions:
+
+| Permission | Octal Value | Relative Value | On Files                                           | On Directories                                      |
+| ---------- | ----------- | -------------- | -------------------------------------------------- | --------------------------------------------------- |
+| SUID       | 4           | u+s            | User executes file with permissions of file owner  | No meaning                                          |
+| SGID       | 2           | g+s            | User executes file with permissions of group owner | Files created in directory get the same group owner |
+| Sticky bit | 1           | +t             | No meaning                                         | Prevents users from deleting files from other users |
+
+### SUID - setuid
 
 Execute binary files with the same privileges as the owner.
 
@@ -107,7 +115,7 @@ Execute binary files with the same privileges as the owner.
 4755
 ```
 
-### setgid
+### SGID - setgid
 
 Execute binary files with the same privileges as the group.
 
@@ -118,7 +126,7 @@ Execute binary files with the same privileges as the group.
 2755
 ```
 
-### sticky
+### Sticky bit
 
 The "sticky bit" is set on public or shared writable directories to protect files and subdirectories owned by normal users from being deleted or moved by other normal users.
 
@@ -131,9 +139,20 @@ drwxrwxrwt. 12 root root 4096 Feb 23 16:03 /var/tmp
 1777
 ```
 
+## Access Control Lists
+
+* [Access Control Lists](20210628143348-access-control-list.md)
+
+## Umask
+
+* [umask](20210905082726-umask.md)
+
+## File attributes
+
+* [File attributes](202507262125-file-attributes.md)
+
 ## Utilities
 
 * [Utilities](20210919173649-linux-utilities.md)
 * [chmod](20200628184910-chmod.md)
-* [umask](20210905082726-umask.md)
 * [find](20210905081005-find.md)
