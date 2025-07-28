@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "202311090854-rhcsa.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -27,7 +27,20 @@
               "type": "markdown",
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e31308748a1d2454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202106-23143339-user_management.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202106-23143339-user_management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "202106-23143339-user_management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402170826-rhcsa-notes.md"
+                "file": "202106-23143339-user_management.md"
               }
             }
           },
@@ -198,10 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1f3c09684417c81",
+  "active": "e31308748a1d2454",
   "lastOpenFiles": [
-    "202311090854-rhcsa.md",
     "202402170826-rhcsa-notes.md",
+    "202106-23143339-user_management.md",
+    "202311090854-rhcsa.md",
     "202507140845-rhcsa-exam-objectives.md",
     "202507262125-file-attributes.md",
     "20210905135721-file-permissions.md",
@@ -225,7 +239,6 @@
     "202404240919-private-network.md",
     "20201103150544-special_ip_addresses.md",
     "2024-04-18.md",
-    "2024-04-23.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
