@@ -8,7 +8,7 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "trashOption": "none",
   "autoPairBrackets": true,
   "autoPairMarkdown": false,
