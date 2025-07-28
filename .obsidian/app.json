@@ -8,11 +8,12 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "trashOption": "none",
   "autoPairBrackets": true,
   "autoPairMarkdown": false,
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "smartIndentList": false,
-  "useTab": false
+  "useTab": false,
+  "strictLineBreaks": true
 }

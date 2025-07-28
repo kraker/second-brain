@@ -10,6 +10,7 @@
           {
             "id": "ddfa336131d25f6c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,12 +18,14 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "e1f3c09684417c81",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -30,50 +33,40 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "e31308748a1d2454",
+            "id": "8b1e0a60b65f57ad",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210623143339-users-groups.md",
+                "file": "202507281714-rhcsa-review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "c311e4291e6043ba",
+            "id": "6bd98f703a2abfe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202507140845-rhcsa-exam-objectives.md",
+                "file": "202405121207-systemd.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "292979961d78d389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507281552-linux-kernel.md",
-                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20210623143339-users-groups.md",
+                "file": "202405121207-systemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20210623143339-users-groups.md",
+                "file": "202405121207-systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20210623143339-users-groups.md"
+                "file": "202405121207-systemd.md"
               }
             }
           },
@@ -209,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20210623143339-users-groups.md"
+                "file": "202405121207-systemd.md"
               }
             }
           }
@@ -234,13 +227,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e31308748a1d2454",
+  "active": "6bd98f703a2abfe4",
   "lastOpenFiles": [
+    "202507281714-rhcsa-review.md",
     "202402170826-rhcsa-notes.md",
-    "20210623143339-users-groups.md",
-    "202507140845-rhcsa-exam-objectives.md",
-    "202507281552-linux-kernel.md",
     "202311090854-rhcsa.md",
+    "202507140845-rhcsa-exam-objectives.md",
+    "202405121207-systemd.md",
+    "202507281552-linux-kernel.md",
+    "20210623143339-users-groups.md",
+    "202402262058-local-user-auth-files.md",
     "202507262125-file-attributes.md",
     "20210905135721-file-permissions.md",
     "20210628143348-access-control-list.md",
@@ -254,14 +250,11 @@
     "202405130914-logger.md",
     "20220318080038-syslog.md",
     "202010261345-subnetting.md",
-    "202405121207-systemd.md",
     "202405081005-cron.md",
     "2024-05-12.md",
     "2024-05-06.md",
     "202405081011-prometheus.md",
     "202106271022-subnetwork.md",
-    "202404240919-private-network.md",
-    "20201103150544-special_ip_addresses.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
