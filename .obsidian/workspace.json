@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202106-23143339-user_management.md",
-                "mode": "preview",
+                "file": "20210623143339-users-groups.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -58,9 +58,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "292979961d78d389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202507281552-linux-kernel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "20210623143339-users-groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402170826-rhcsa-notes.md",
+                "file": "20210623143339-users-groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202402170826-rhcsa-notes.md"
+                "file": "20210623143339-users-groups.md"
               }
             }
           },
@@ -189,9 +202,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c4b6b5ae9020b552",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "20210623143339-users-groups.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,12 +234,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1f3c09684417c81",
+  "active": "e31308748a1d2454",
   "lastOpenFiles": [
-    "202311090854-rhcsa.md",
-    "202106-23143339-user_management.md",
     "202402170826-rhcsa-notes.md",
+    "20210623143339-users-groups.md",
     "202507140845-rhcsa-exam-objectives.md",
+    "202507281552-linux-kernel.md",
+    "202311090854-rhcsa.md",
     "202507262125-file-attributes.md",
     "20210905135721-file-permissions.md",
     "20210628143348-access-control-list.md",
@@ -238,7 +262,6 @@
     "202106271022-subnetwork.md",
     "202404240919-private-network.md",
     "20201103150544-special_ip_addresses.md",
-    "2024-04-18.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
