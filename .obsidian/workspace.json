@@ -43,7 +43,7 @@
               "type": "markdown",
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -77,61 +77,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "68aba734ec3028ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507281925-rsyslog.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5ac1bfe2d650a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507281947-logrotate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "279c2d9af3c96625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202405130914-logger.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2536ff7a9d6db448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202405130909-systemd-journald.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -205,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405130909-systemd-journald.md",
+                "file": "202507281714-rhcsa-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405130909-systemd-journald.md",
+                "file": "202507281714-rhcsa-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405130909-systemd-journald.md"
+                "file": "202507281714-rhcsa-review.md"
               }
             }
           },
@@ -267,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405130909-systemd-journald.md"
+                "file": "202507281714-rhcsa-review.md"
               }
             }
           }
@@ -292,17 +241,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2536ff7a9d6db448",
+  "active": "8b1e0a60b65f57ad",
   "lastOpenFiles": [
-    "202402170826-rhcsa-notes.md",
-    "202507140845-rhcsa-exam-objectives.md",
+    "202405121207-systemd.md",
     "202405130909-systemd-journald.md",
+    "202402170826-rhcsa-notes.md",
+    "202507281714-rhcsa-review.md",
     "202405130914-logger.md",
     "202507281947-logrotate.md",
     "202507281925-rsyslog.md",
-    "202405121207-systemd.md",
+    "202507140845-rhcsa-exam-objectives.md",
     "202311090854-rhcsa.md",
-    "202507281714-rhcsa-review.md",
     "20220318080038-syslog.md",
     "202507281846-at.md",
     "202404180922-grub2.md",
