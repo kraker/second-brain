@@ -1,9 +1,10 @@
 ---
 title: systemd-journald
-date: 2024-05-13 09:09
+date: 2024-10-02 16:40:45 -05:00
 tags:
 - 'sysadmin'
 - 'linux'
+modified: 2025-07-28 20:09:24 -05:00
 ---
 
 # systemd-journald

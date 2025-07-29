@@ -1,13 +1,13 @@
 ---
 title: RHCSA Exam Objectives
-date: 2025-07-14
+date: 2025-07-14 08:45:31 -05:00
 tags:
   - sysadmin
   - learn
   - linux
   - rhel
+modified: 2025-07-28 19:44:57 -05:00
 ---
-
 
 # RHCSA Exam Objectives
 
