@@ -43,7 +43,7 @@
               "type": "markdown",
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -66,12 +66,25 @@
             }
           },
           {
-            "id": "eb96d4ab5a9d0cb4",
+            "id": "442d32d987c1586a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405121207-systemd.md",
+                "file": "202404180918-linux-boot-process.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9938d5e31b59ad39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202507282221-uefi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -79,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202507281714-rhcsa-review.md",
+                "file": "202507282221-uefi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202507281714-rhcsa-review.md",
+                "file": "202507282221-uefi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202507281714-rhcsa-review.md"
+                "file": "202507282221-uefi.md"
               }
             }
           },
@@ -216,7 +229,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202507281714-rhcsa-review.md"
+                "file": "202507282221-uefi.md"
               }
             }
           }
@@ -241,16 +254,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b1e0a60b65f57ad",
+  "active": "9938d5e31b59ad39",
   "lastOpenFiles": [
-    "202405121207-systemd.md",
-    "202405130909-systemd-journald.md",
-    "202402170826-rhcsa-notes.md",
+    "202404180918-linux-boot-process.md",
+    "202507282221-uefi.md",
+    "202507282215-bios.md",
     "202507281714-rhcsa-review.md",
+    "202402170826-rhcsa-notes.md",
+    "202507140845-rhcsa-exam-objectives.md",
+    "202405121207-systemd.md",
+    "202507282146-tuned.md",
+    "202405130909-systemd-journald.md",
     "202405130914-logger.md",
     "202507281947-logrotate.md",
     "202507281925-rsyslog.md",
-    "202507140845-rhcsa-exam-objectives.md",
     "202311090854-rhcsa.md",
     "20220318080038-syslog.md",
     "202507281846-at.md",
@@ -265,10 +282,6 @@
     "20210905135721-file-permissions.md",
     "20210628143348-access-control-list.md",
     "20210905082726-umask.md",
-    "Untitled 1.md",
-    "20210905065406-linux.md",
-    "202405191352-cooking.md",
-    "Untitled.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
