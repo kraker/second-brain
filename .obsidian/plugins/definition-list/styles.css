@@ -1,0 +1,36 @@
+/* reading mode */
+dl dt {
+  font-weight: bold;
+  padding-block-start: var(--list-spacing);
+}
+
+dd {
+  margin-inline-start: var(--list-indent);
+  padding-block-end: var(--list-spacing);
+  padding-left: 1em;
+  margin-left: 0;
+}
+
+/* live preview */
+.dl-dt {
+  font-weight: bold;
+  padding-block-start: var(--list-spacing);
+}
+
+.markdown-source-view.mod-cm6 .cm-line.dl-dd-reg, .markdown-source-view.mod-cm6 .cm-line.dl-dd-indent {
+  padding-inline-start: var(--list-indent-editing);
+  padding-block-end: var(--list-spacing); /* to add space between definitions, must use padding */
+}
+
+.markdown-source-view.mod-cm6 .cm-line.dl-dd-indent {
+  text-indent: 0;
+}
+
+.dl-hidden-marker {
+  display: none;
+}
+
+dl {
+  margin: 0;
+  padding: 0;
+}

@@ -1,6 +1,6 @@
 ---
 title: Index
-date: 2021-08-28
+date: 2024-10-02 16:40:45 -05:00
 tags:
 - 'index'
 - 'networking'
@@ -10,6 +10,7 @@ tags:
 - 'work'
 - 'misc'
 - 'linux'
+modified: 2025-07-28 19:18:56 -05:00
 ---
 
 # Index
