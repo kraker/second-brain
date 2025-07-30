@@ -72,6 +72,19 @@
               "type": "markdown",
               "state": {
                 "file": "202404180918-linux-boot-process.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b61b3d3d4442e9c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202404180922-grub2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -167,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202507282221-uefi.md",
+                "file": "202404180922-grub2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202507282221-uefi.md",
+                "file": "202404180922-grub2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202507282221-uefi.md"
+                "file": "202404180922-grub2.md"
               }
             }
           },
@@ -229,7 +242,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202507282221-uefi.md"
+                "file": "202404180922-grub2.md"
               }
             }
           }
@@ -254,13 +267,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9938d5e31b59ad39",
+  "active": "b61b3d3d4442e9c4",
   "lastOpenFiles": [
+    "202402170826-rhcsa-notes.md",
+    "202507281714-rhcsa-review.md",
+    "202404180922-grub2.md",
     "202404180918-linux-boot-process.md",
     "202507282221-uefi.md",
     "202507282215-bios.md",
-    "202507281714-rhcsa-review.md",
-    "202402170826-rhcsa-notes.md",
     "202507140845-rhcsa-exam-objectives.md",
     "202405121207-systemd.md",
     "202507282146-tuned.md",
@@ -271,7 +285,6 @@
     "202311090854-rhcsa.md",
     "20220318080038-syslog.md",
     "202507281846-at.md",
-    "202404180922-grub2.md",
     "_index.md",
     "202405081005-cron.md",
     "20210906070833-vim.md",
