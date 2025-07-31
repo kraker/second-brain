@@ -72,19 +72,6 @@
               "type": "markdown",
               "state": {
                 "file": "202404180918-linux-boot-process.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b61b3d3d4442e9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202404180922-grub2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -92,12 +79,38 @@
             }
           },
           {
-            "id": "9938d5e31b59ad39",
+            "id": "0eabd8fb8e20b2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202507282221-uefi.md",
+                "file": "202507302023-mbr.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ad26eef4b9203e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202507302024-gpt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "257382402ae6ca41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202507302029-guid.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -105,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404180922-grub2.md",
+                "file": "202507302024-gpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404180922-grub2.md",
+                "file": "202507302024-gpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404180922-grub2.md"
+                "file": "202507302024-gpt.md"
               }
             }
           },
@@ -242,7 +255,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202404180922-grub2.md"
+                "file": "202507302024-gpt.md"
               }
             }
           }
@@ -267,13 +280,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b61b3d3d4442e9c4",
+  "active": "3ad26eef4b9203e4",
   "lastOpenFiles": [
-    "202402170826-rhcsa-notes.md",
+    "202404180918-linux-boot-process.md",
+    "202507302023-mbr.md",
+    "202507302029-guid.md",
+    "202507302024-gpt.md",
     "202507281714-rhcsa-review.md",
     "202404180922-grub2.md",
-    "202404180918-linux-boot-process.md",
     "202507282221-uefi.md",
+    "202402170826-rhcsa-notes.md",
     "202507282215-bios.md",
     "202507140845-rhcsa-exam-objectives.md",
     "202405121207-systemd.md",
@@ -292,9 +308,6 @@
     "20210623143339-users-groups.md",
     "202402262058-local-user-auth-files.md",
     "202507262125-file-attributes.md",
-    "20210905135721-file-permissions.md",
-    "20210628143348-access-control-list.md",
-    "20210905082726-umask.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",

@@ -1,7 +1,7 @@
 ---
 title: Linux Boot Process
 date: 2024-10-02 16:40:45 -05:00
-modified: 2025-07-28 22:24:40 -05:00
+modified: 2025-07-30 20:26:27 -05:00
 tags:
 - 'linux'
 - 'sysadmin'
@@ -13,7 +13,7 @@ tags:
 
 1. Power on
 2. _Firmware_: [BIOS](202507282215-bios.md)/[UEFI](202507282221-uefi.md)
-3. MBR/GPT
+3. [MBR](202507302023-mbr.md)/[GPT](202507302024-gpt.md)
 4. GRUB/[GRUB2](202404180922-grub2.md)
 5. [Kernel](202507281552-linux-kernel.md)
 6. initd/[systemd](202405121207-systemd.md)
