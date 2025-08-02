@@ -16,10 +16,21 @@
               "state": {
                 "file": "202311090854-rhcsa.md",
                 "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202311090854-rhcsa"
             }
           },
           {
@@ -30,9 +41,20 @@
               "state": {
                 "file": "202507140845-rhcsa-exam-objectives.md",
                 "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202507140845-rhcsa-exam-objectives"
             }
           },
           {
@@ -44,10 +66,21 @@
               "state": {
                 "file": "202402170826-rhcsa-notes.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202402170826-rhcsa-notes"
             }
           },
           {
@@ -59,10 +92,21 @@
               "state": {
                 "file": "202507281714-rhcsa-review.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202507281714-rhcsa-review"
             }
           },
           {
@@ -72,10 +116,21 @@
               "type": "markdown",
               "state": {
                 "file": "202404180918-linux-boot-process.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
-                "source": true
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202404180918-linux-boot-process"
             }
           },
           {
@@ -86,9 +141,20 @@
               "state": {
                 "file": "202507302023-mbr.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202507302023-mbr"
             }
           },
           {
@@ -99,9 +165,20 @@
               "state": {
                 "file": "202507302024-gpt.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202507302024-gpt"
             }
           },
           {
@@ -112,13 +189,36 @@
               "state": {
                 "file": "202507302029-guid.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202507302029-guid"
+            }
+          },
+          {
+            "id": "8a39d9b80a4886ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -137,8 +237,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -153,7 +256,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -161,7 +266,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -169,7 +276,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -193,7 +302,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202507302024-gpt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +309,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -210,10 +320,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202507302024-gpt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -223,8 +334,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -233,8 +348,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202507302024-gpt.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -246,7 +365,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -254,9 +375,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "202507302024-gpt.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           }
         ],
@@ -280,13 +401,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ad26eef4b9203e4",
+  "active": "8a39d9b80a4886ce",
   "lastOpenFiles": [
-    "202404180918-linux-boot-process.md",
-    "202507302023-mbr.md",
-    "202507302029-guid.md",
     "202507302024-gpt.md",
+    "202507302023-mbr.md",
+    "202404180918-linux-boot-process.md",
     "202507281714-rhcsa-review.md",
+    "202507302029-guid.md",
     "202404180922-grub2.md",
     "202507282221-uefi.md",
     "202402170826-rhcsa-notes.md",
