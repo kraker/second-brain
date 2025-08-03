@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-11-10T14:46:48Z
 ---
 
 # Rules for determining good vs bad connections

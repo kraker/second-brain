@@ -1,6 +1,6 @@
 ---
 title: Socket Pairs
-date: 
+date: 2020-11-10T14:19:03Z
 ---
 
 TCP/IP connection information is a combination of the IP address and port
