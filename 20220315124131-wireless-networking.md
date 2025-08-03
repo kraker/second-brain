@@ -5,15 +5,15 @@ tags:
 - 'networking'
 ---
 
-* [Wireless Network](2021-06-26--15-15-41Z--wireless_network.md)
-* [WiFi](2021-06-26--07-55-55Z--wi-fi.md)
+* [Wireless Network](20210626151541-wireless-network.md)
+* [WiFi](20210626075555-wi-fi.md)
 
 ## Encryption/Security
-* [WEP](2021-06-13--07-04-02Z--wired_equivalent_privacy.md)
-* [WPS](2021-06-26--15-08-34Z--wi-fi_protected_setup.md)
+* [WEP](20210613070402-wired-equivalent-privacy.md)
+* [WPS](20210626150834-wi-fi-protected-setup.md)
 
 ## Wireless Networking Standards
 
 _IEEE 802.11* standards_
 
-* [Wireless Networking Standards](2021-06-26--15-18-26Z--ieee_80211.md)
+* [Wireless Networking Standards](20210626151826-ieee-80211.md)

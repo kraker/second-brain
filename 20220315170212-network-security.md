@@ -16,7 +16,7 @@ tags:
 
 ## Access Restriction
 
-* [Access Control](2021-06-23--14-31-49Z--access_control.md)
+* [Access Control](20210623143149-access-control.md)
 
 ### 3 Access Restriction Concepts
 

@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "230eaa89824a120a",
+        "id": "1d349027f0480efa",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfa336131d25f6c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202311090854-rhcsa.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202311090854-rhcsa"
-            }
-          },
-          {
-            "id": "e1f3c09684417c81",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202402170826-rhcsa-notes.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202402170826-rhcsa-notes"
-            }
-          },
-          {
-            "id": "1705cd707a8eb47e",
+            "id": "80995e5acfb52fa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210623143339-users-groups.md",
+                "file": "20201006072053-networking.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -80,17 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20210623143339-users-groups"
+              "title": "20201006072053-networking"
             }
           },
           {
-            "id": "8b1e0a60b65f57ad",
+            "id": "bed9a04a2983f99e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202507281714-rhcsa-review.md",
+                "file": "20220216082453-dynamic-random-access-memory.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -104,140 +51,35 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "202507281714-rhcsa-review"
+              "title": "20220216082453-dynamic-random-access-memory"
+            }
+          },
+          {
+            "id": "172c20cbdaa056e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220216082500-static-random-access-memory.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20220216082500-static-random-access-memory"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "76276a49d0e0c1b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c98ea1a80fe38f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507281714-rhcsa-review.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507281714-rhcsa-review"
-            }
-          },
-          {
-            "id": "38f6e71059f563f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20200628170530-bg.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20200628170530-bg"
-            }
-          },
-          {
-            "id": "ead794b735f6f227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202403030942-job-control.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202403030942-job-control"
-            }
-          },
-          {
-            "id": "75da0dc25f2305a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250803143548-lvm.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250803143548-lvm"
-            }
-          },
-          {
-            "id": "d47551d18f15805a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250803143633-vdo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250803143633-vdo"
-            }
-          }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,7 +142,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -397,10 +240,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202507302029-guid.md"
+                "file": "20201006072053-networking.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202507302029-guid"
+              "title": "File properties for 20201006072053-networking"
             }
           }
         ],
@@ -408,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,34 +266,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b1e0a60b65f57ad",
+  "active": "80995e5acfb52fa1",
   "lastOpenFiles": [
-    "20210623143339-users-groups.md",
-    "202402170826-rhcsa-notes.md",
-    "202311090854-rhcsa.md",
-    "20250803143633-vdo.md",
-    "20250803143548-lvm.md",
-    "202403030942-job-control.md",
-    "202508031432.md",
-    "20200628170530-bg.md",
-    "202507281714-rhcsa-review.md",
-    "202405081005-cron.md",
-    "202508031325-fg.md",
-    "2021-08-14--07-57-46Z--jobs.md",
-    "202403031050-job-scheduling.md",
-    "202404180918-linux-boot-process.md",
-    "20210919173649-linux-utilities.md",
-    "202507140845-rhcsa-exam-objectives.md",
-    "202507302023-mbr.md",
-    "202507302024-gpt.md",
-    "202507302029-guid.md",
-    "202404180922-grub2.md",
-    "202507282221-uefi.md",
-    "202507282215-bios.md",
-    "202405121207-systemd.md",
-    "202507282146-tuned.md",
-    "202405130909-systemd-journald.md",
-    "202405130914-logger.md",
+    "20220216082500-static-random-access-memory.md",
+    "20220216082453-dynamic-random-access-memory.md",
+    "20201006072053-networking.md",
+    "broken links output.md",
+    "20210901064309-mental-health.md",
+    "20201103150544-special-ip-addresses.md",
+    "20201006074410-tcp-ip-model.md",
+    "20201006074200-osi-7-layer.md",
+    "20210830131649-learn-python.md",
+    "20230514110800-systems-theory.md",
+    "20210715145500-install-python-2x.md",
+    "20210901065028-personal-development.md",
+    "20210901062045-computer-science.md",
+    "20210831115428-green-energy.md",
+    "20210830131752-learn-python-the-hard-way.md",
+    "20210830064705-climate-change.md",
+    "20210829112524-development-strategies.md",
+    "20210828122101-big-five-personality-traits.md",
+    "20210825152130-im-wiki.md",
+    "20210820074300-proposed-work-flow-for-authoring-wiki-articles-using-markdown-and-pandoc.md",
+    "20210814080514-jobs-of-interest.md",
+    "20210814075811-companies-of-interest.md",
+    "20210812070928-install-apache-svn.md",
+    "20210811101908-introduction-to-vi.md",
+    "20210727092438-install-php-ffmpeg.md",
+    "20210724131544-to-review-pt1-2021-07-24.md",
+    "normalize_filenames.py",
+    "fix_timestamps.py",
+    "backup_20250803_152246",
+    "rename_timestamps.py",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
@@ -463,10 +309,6 @@
     "Pasted image 20240217082430.png",
     "Pasted image 20240217082211.png",
     "Pasted image 20240217082227.png",
-    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf",
-    "comptia-security-sy0-701-exam-objectives-(5-0).pdf",
-    "comptia-network-n10-008-exam-objectives-(5-0).pdf",
-    "comptia-security-sy0-701-exam-objectives-(5-0).pdf.crdownload",
-    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf.crdownload"
+    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
   ]
 }
