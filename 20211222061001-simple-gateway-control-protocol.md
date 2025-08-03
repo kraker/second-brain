@@ -5,9 +5,9 @@ tags:
 - 'networking'
 ---
 
-The **Simple Gateway Control Protocol (SGCP)** is [communications protocol](2021-06-25--06-08-56Z--communication_protocol.md)
-used within a [VoIP](2020-10-21--12-57-45Z--voip.md) system. It has been
-superseded by the [Media Gateway Control Protocol](2021-06-26--10-40-16Z--media_gateway_control_protocol.md) (MGCP).
+The **Simple Gateway Control Protocol (SGCP)** is [communications protocol](20210625060856-communication-protocol.md)
+used within a [VoIP](20201021125745-voip.md) system. It has been
+superseded by the [Media Gateway Control Protocol](20210626104016-media-gateway-control-protocol.md) (MGCP).
 
 ## Source
 

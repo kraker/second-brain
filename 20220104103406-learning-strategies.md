@@ -7,7 +7,7 @@ tags:
 
 # Learning Strategies
 
-* [Spaced Repetition Memory (SRS)](202304110820-srs.md)
+* [Spaced Repetition Memory (SRS)](20230411082000-srs.md)
 
 ### Learning things fast
 

@@ -149,7 +149,7 @@ drwxrwxrwt. 12 root root 4096 Feb 23 16:03 /var/tmp
 
 ## File attributes
 
-* [File attributes](202507262125-file-attributes.md)
+* [File attributes](20250726212500-file-attributes.md)
 
 ## Utilities
 

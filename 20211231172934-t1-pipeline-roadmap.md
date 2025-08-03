@@ -248,7 +248,7 @@ thisinterestingmind.com. 900    IN      TXT     "v=spf1 +a +mx +ip4:209.182.195.
 
 #### DNS Records
 
-* [DNS Record Types](2020-11-17--15-28-31Z--dns_record.md) 
+* [DNS Record Types](20201117152831-dns-record.md) 
 
 ## Learn HTML/CSS (Optional)
 

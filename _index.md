@@ -19,7 +19,7 @@ _All of my notes can now be found on my [github](https://github.com/kraker/secon
 
 Search by [tag](tags/).
 
-## [Computer Science](2021-09-01--06-20-45Z--computer_science.md)
+## [Computer Science](20210901062045-computer-science.md)
 
 ### [Development](20210905064934-development.md)
 
@@ -27,7 +27,7 @@ Search by [tag](tags/).
 2. [Editors](20210905101447-text-editors.md)
 3. [Markup](20210905101559-markup.md)
 5. [Documentation](20210906094909-documentation.md)
-6. [Strategies](2021-08-29--11-25-24Z--development_strategies.md)
+6. [Strategies](20210829112524-development-strategies.md)
 
 ### [System Administration](20210905065308-sysadmin.md)
 
@@ -41,12 +41,12 @@ Search by [tag](tags/).
 
 1. [Automation](20210906071136-automation.md)
 
-## [Personal Development](2021-09-01--06-50-28Z--personal_development.md)
+## [Personal Development](20210901065028-personal-development.md)
 
-1. [Learning](2021-09-01--06-52-32Z--learning.md)
-2. [Career](2021-09-01--06-51-48Z--career.md)
+1. [Learning](20210901065232-learning.md)
+2. [Career](20210901065148-career.md)
 3. [Finance](20210905094835-finance.md)
-4. [Mental Health](20210901064309-mental_health.md)
+4. [Mental Health](20210901064309-mental-health.md)
 5. [Fitness](20210919134314-physical-fitness.md)
 6. [Productivity](20210905145113-productivity.md)
 
@@ -67,16 +67,16 @@ Search by [tag](tags/).
 
 ## Environment
 
-1. [Climate Change](2021-08-30--06-47-05Z--climate_change.md)
+1. [Climate Change](20210830064705-climate-change.md)
 2. [Sustainability](20210905101950-sustainability.md)
 3. [Clean Energy](20211105133635-clean-energy.md)
 
 ## Work
 
-1. [Notes](2021-06-15--09-50-58Z--notes.md)
-2. [Playbooks](2021-06-02--13-13-14Z--playbooks.md)
+1. [Notes](20210615095058-notes.md)
+2. [Playbooks](20210602131314-playbooks.md)
 3. [Training](20210905095201-work-training.md)
-4. [Wiki](2021-08-11--10-18-57Z--wiki.md)
+4. [Wiki](20210811101857-wiki.md)
 5. [Pipeline](20210917075135-pipeline.md)
 
 ## Miscellaneous
