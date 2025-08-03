@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "6d20f5c9991f3a76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507140845-rhcsa-exam-objectives.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507140845-rhcsa-exam-objectives"
-            }
-          },
-          {
             "id": "e1f3c09684417c81",
             "type": "leaf",
             "pinned": true,
@@ -81,6 +57,30 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "202402170826-rhcsa-notes"
+            }
+          },
+          {
+            "id": "1705cd707a8eb47e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210623143339-users-groups.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20210623143339-users-groups"
             }
           },
           {
@@ -108,105 +108,111 @@
               "icon": "lucide-file",
               "title": "202507281714-rhcsa-review"
             }
-          },
-          {
-            "id": "442d32d987c1586a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202404180918-linux-boot-process.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202404180918-linux-boot-process"
-            }
-          },
-          {
-            "id": "0eabd8fb8e20b2ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507302023-mbr.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507302023-mbr"
-            }
-          },
-          {
-            "id": "3ad26eef4b9203e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507302024-gpt.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507302024-gpt"
-            }
-          },
-          {
-            "id": "257382402ae6ca41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202507302029-guid.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202507302029-guid"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
+      },
+      {
+        "id": "76276a49d0e0c1b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d4751f13b9a4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202405081005-cron.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202405081005-cron"
+            }
+          },
+          {
+            "id": "c98ea1a80fe38f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202507281714-rhcsa-review.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202507281714-rhcsa-review"
+            }
+          },
+          {
+            "id": "38f6e71059f563f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20200628170530-bg.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20200628170530-bg"
+            }
+          },
+          {
+            "id": "ead794b735f6f227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202403030942-job-control.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "202403030942-job-control"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -394,34 +400,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "257382402ae6ca41",
+  "active": "e1f3c09684417c81",
   "lastOpenFiles": [
-    "202507302024-gpt.md",
-    "202507302023-mbr.md",
-    "202404180918-linux-boot-process.md",
+    "202405081005-cron.md",
+    "202402170826-rhcsa-notes.md",
+    "202403030942-job-control.md",
+    "202508031325-fg.md",
+    "20200628170530-bg.md",
+    "2021-08-14--07-57-46Z--jobs.md",
     "202507281714-rhcsa-review.md",
+    "202403031050-job-scheduling.md",
+    "202404180918-linux-boot-process.md",
+    "20210623143339-users-groups.md",
+    "20210919173649-linux-utilities.md",
+    "202311090854-rhcsa.md",
+    "202507140845-rhcsa-exam-objectives.md",
+    "202507302023-mbr.md",
+    "202507302024-gpt.md",
     "202507302029-guid.md",
     "202404180922-grub2.md",
     "202507282221-uefi.md",
-    "202402170826-rhcsa-notes.md",
     "202507282215-bios.md",
-    "202507140845-rhcsa-exam-objectives.md",
     "202405121207-systemd.md",
     "202507282146-tuned.md",
     "202405130909-systemd-journald.md",
     "202405130914-logger.md",
     "202507281947-logrotate.md",
     "202507281925-rsyslog.md",
-    "202311090854-rhcsa.md",
     "20220318080038-syslog.md",
-    "202507281846-at.md",
-    "_index.md",
-    "202405081005-cron.md",
-    "20210906070833-vim.md",
-    "202507281552-linux-kernel.md",
-    "20210623143339-users-groups.md",
-    "202402262058-local-user-auth-files.md",
-    "202507262125-file-attributes.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",

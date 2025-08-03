@@ -1,19 +1,18 @@
 ---
 title: Job Scheduling
-date: 2024-03-03 10:50
+date: 2024-10-02 16:40:45 -05:00
 tags:
 - 'linux'
 - 'sysadmin'
+modified: 2025-08-03 13:19:17 -05:00
 ---
 
 # Job Scheduling
 
 Job scheduling and execution is taken care of by two service daemons:
 
-* at (1)               - queue, examine, or delete jobs for later execution
-* atd (8)              - run jobs queued for later execution
-* cron (8)             - daemon to execute scheduled commands
-* crond (8)            - daemon to execute scheduled commands
+* [at](202507281846-at.md)
+* [cron](202405081005-cron.md)
 
 ```bash
 [root@server1 ~]# ls -ld /etc/{at,cron}*
@@ -28,6 +27,3 @@ drwxr-xr-x. 2 root root   6 Mar 23  2022 /etc/cron.weekly
 ```
 
 By default all users are allowed to schedule jobs with the `at` and `cron` services, but this can be controlled with the `/etc/at.{allow,deny}` and `/etc/cron.{allow,deny}` files specifically.
-
-## at
-
