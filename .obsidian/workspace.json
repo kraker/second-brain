@@ -110,36 +110,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "76276a49d0e0c1b6",
         "type": "tabs",
         "children": [
-          {
-            "id": "60d4751f13b9a4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202405081005-cron.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "202405081005-cron"
-            }
-          },
           {
             "id": "c98ea1a80fe38f11",
             "type": "leaf",
@@ -211,8 +187,57 @@
               "icon": "lucide-file",
               "title": "202403030942-job-control"
             }
+          },
+          {
+            "id": "75da0dc25f2305a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250803143548-lvm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250803143548-lvm"
+            }
+          },
+          {
+            "id": "d47551d18f15805a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250803143633-vdo.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250803143633-vdo"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -279,8 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -400,20 +424,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1f3c09684417c81",
+  "active": "8b1e0a60b65f57ad",
   "lastOpenFiles": [
-    "202405081005-cron.md",
+    "20210623143339-users-groups.md",
     "202402170826-rhcsa-notes.md",
+    "202311090854-rhcsa.md",
+    "20250803143633-vdo.md",
+    "20250803143548-lvm.md",
     "202403030942-job-control.md",
-    "202508031325-fg.md",
+    "202508031432.md",
     "20200628170530-bg.md",
-    "2021-08-14--07-57-46Z--jobs.md",
     "202507281714-rhcsa-review.md",
+    "202405081005-cron.md",
+    "202508031325-fg.md",
+    "2021-08-14--07-57-46Z--jobs.md",
     "202403031050-job-scheduling.md",
     "202404180918-linux-boot-process.md",
-    "20210623143339-users-groups.md",
     "20210919173649-linux-utilities.md",
-    "202311090854-rhcsa.md",
     "202507140845-rhcsa-exam-objectives.md",
     "202507302023-mbr.md",
     "202507302024-gpt.md",
@@ -425,9 +452,6 @@
     "202507282146-tuned.md",
     "202405130909-systemd-journald.md",
     "202405130914-logger.md",
-    "202507281947-logrotate.md",
-    "202507281925-rsyslog.md",
-    "20220318080038-syslog.md",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
