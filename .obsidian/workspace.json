@@ -204,21 +204,9 @@
               "icon": "lucide-file",
               "title": "202507302029-guid"
             }
-          },
-          {
-            "id": "8a39d9b80a4886ce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -302,6 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202507302029-guid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +300,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 202507302029-guid"
             }
           },
           {
@@ -320,11 +309,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202507302029-guid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 202507302029-guid"
             }
           },
           {
@@ -348,12 +338,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "202507302029-guid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 202507302029-guid"
             }
           },
           {
@@ -375,9 +366,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "202507302029-guid.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202507302029-guid"
             }
           }
         ],
@@ -401,7 +394,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a39d9b80a4886ce",
+  "active": "257382402ae6ca41",
   "lastOpenFiles": [
     "202507302024-gpt.md",
     "202507302023-mbr.md",
