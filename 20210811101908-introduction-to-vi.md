@@ -1,6 +1,6 @@
 ---
 title: Introduction to Vi
-date: 2021-08-11 10:19
+date: 2021-08-11T10:19:00Z
 tags:
 - 'vim'
 ---

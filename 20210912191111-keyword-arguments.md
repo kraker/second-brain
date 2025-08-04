@@ -1,6 +1,6 @@
 ---
 title: Keyword Arguments
-date: 2021-09-12 19:11
+date: 2021-09-12T19:11:00Z
 tags:
 - 'python'
 ---

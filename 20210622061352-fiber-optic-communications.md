@@ -1,6 +1,6 @@
 ---
 title: Fiber-optic communication
-date: 2021-06-22 06:13
+date: 2021-06-22T06:13:00Z
 ---
 
 **Fiber-optic communication** is a method of transmitting information from one

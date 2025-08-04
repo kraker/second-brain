@@ -1,6 +1,6 @@
 ---
 title: Command Substitution
-date: 2021-09-05 13:54
+date: 2021-09-05T13:54:00Z
 tags:
 ---
 

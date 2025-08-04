@@ -1,6 +1,6 @@
 ---
 title: VLAN Trunking Protocol
-date: 2021-02-08 08:46
+date: 2021-02-08T08:46:00Z
 ---
 _VTP_
 Used to automate the the updating of multiple

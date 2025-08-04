@@ -1,6 +1,6 @@
 ---
 title: Code-division multiple access
-date: 2021-06-13 08:05
+date: 2021-06-13T08:05:00Z
 ---
 
 **Code-division multiple access (CDMA)** is a channel access method used by

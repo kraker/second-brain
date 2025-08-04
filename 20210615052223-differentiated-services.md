@@ -1,6 +1,6 @@
 ---
 title: Differentiated services
-date: 2021-06-15 05:22
+date: 2021-06-15T05:22:00Z
 tags:
 - 'networking'
 ---

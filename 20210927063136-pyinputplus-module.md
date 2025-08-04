@@ -1,6 +1,6 @@
 ---
 title: Pyinputplus Module
-date: 2021-09-27 06:31
+date: 2021-09-27T06:31:00Z
 tags:
 - 'python'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Big Five personality traits
-date: 2021-08-28 12:21
+date: 2021-08-28T12:21:00Z
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Big_Five_personality_traits)

@@ -1,6 +1,6 @@
 ---
 title: Arithmetic Expressions
-date: 2021-09-18 07:56
+date: 2021-09-18T07:56:00Z
 tags:
 - 'bash'
 ---

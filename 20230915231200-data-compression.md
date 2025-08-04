@@ -1,6 +1,6 @@
 ---
 title: Data Compression
-date: 2023-09-15
+date: 2023-09-15T00:00:00Z
 tags:
 - 'dev'
 - 'cs'

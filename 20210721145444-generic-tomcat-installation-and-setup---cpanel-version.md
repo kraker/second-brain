@@ -1,6 +1,6 @@
 ---
 title: Generic Tomcat Installation and Setup - cPanel version
-date: 2021-07-21 14:54
+date: 2021-07-21T14:54:00Z
 ---
 
 ## Resources

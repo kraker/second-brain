@@ -1,6 +1,6 @@
 ---
 title: Functions In Bash
-date: 2021-09-17 18:16
+date: 2021-09-17T18:16:00Z
 tags:
 - 'bash'
 ---

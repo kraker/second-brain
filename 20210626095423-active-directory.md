@@ -1,6 +1,6 @@
 ---
 title: Active Directory
-date: 2021-06-26 09:54
+date: 2021-06-26T09:54:00Z
 ---
 
 https://en.wikipedia.org/wiki/Active_Directory

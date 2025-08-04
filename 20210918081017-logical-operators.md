@@ -1,6 +1,6 @@
 ---
 title: Logical and Comparison Operators
-date: 2021-09-18 08:10
+date: 2021-09-18T08:10:00Z
 tags:
 - 'bash'
 ---

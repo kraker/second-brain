@@ -1,6 +1,6 @@
 ---
 title: Install GCC for gRPC dependency
-date: 2021-06-15 10:52
+date: 2021-06-15T10:52:00Z
 ---
 
 _Credit: Roger Sm._

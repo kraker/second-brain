@@ -1,6 +1,6 @@
 ---
 title: Encapsulation (networking)
-date: 2021-06-26 10:45
+date: 2021-06-26T10:45:00Z
 ---
 
 https://en.wikipedia.org/wiki/Encapsulation_(networking)

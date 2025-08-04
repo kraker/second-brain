@@ -1,6 +1,6 @@
 ---
 title: Boolean Operators
-date: 2021-09-10 21:27
+date: 2021-09-10T21:27:00Z
 tags:
 - 'python'
 ---

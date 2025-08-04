@@ -1,6 +1,6 @@
 ---
 title: Local And Global Scope
-date: 2021-09-12 19:44
+date: 2021-09-12T19:44:00Z
 tags:
 - 'python'
 ---

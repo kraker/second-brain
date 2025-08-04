@@ -1,6 +1,6 @@
 ---
 title: RSA (cryptosystem)
-date: 2021-06-27 07:00
+date: 2021-06-27T07:00:00Z
 ---
 
 **RSA (Rivest-Shamir-Adleman)**

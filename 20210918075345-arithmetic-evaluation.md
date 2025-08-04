@@ -1,6 +1,6 @@
 ---
 title: Arithmetic Evaluation
-date: 2021-09-18 07:54
+date: 2021-09-18T07:54:00Z
 tags:
 - 'bash'
 ---

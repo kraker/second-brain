@@ -1,6 +1,6 @@
 ---
 title: InterVLAN Routing
-date: 2021-02-08 08:53
+date: 2021-02-08T08:53:00Z
 ---
 The process of making a router work between two
 [VLANs](20210206110741-vlan.md) is called _interVLAN routing_.

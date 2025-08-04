@@ -1,6 +1,6 @@
 ---
 title: String Concatenation And Replication
-date: 2021-09-10 20:16
+date: 2021-09-10T20:16:00Z
 tags:
 - 'python'
 ---

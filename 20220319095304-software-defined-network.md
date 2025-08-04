@@ -1,6 +1,6 @@
 ---
 title: 20220319095304-software-defined-network
-date: 2022-03-19 09:53
+date: 2022-03-19T09:53:00Z
 tags:
 - "networking"
 ---

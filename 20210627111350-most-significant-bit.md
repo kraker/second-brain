@@ -1,6 +1,6 @@
 ---
 title: Most significant bit
-date: 2021-06-27 11:13
+date: 2021-06-27T11:13:00Z
 ---
 
 In computing, the **most significant bit (MSB)** is the bit position in a binary

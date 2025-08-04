@@ -1,6 +1,6 @@
 ---
 title: Host-based intrusion detection system
-date: 2021-06-26 08:54
+date: 2021-06-26T08:54:00Z
 ---
 
 https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system

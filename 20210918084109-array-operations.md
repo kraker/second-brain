@@ -1,6 +1,6 @@
 ---
 title: Array Operations
-date: 2021-09-18 08:41
+date: 2021-09-18T08:41:00Z
 tags:
 - 'bash'
 ---

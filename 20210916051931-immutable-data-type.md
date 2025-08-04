@@ -1,6 +1,6 @@
 ---
 title: Immutable Data Type
-date: 2021-09-16 05:19
+date: 2021-09-16T05:19:00Z
 tags:
 - 'python'
 ---

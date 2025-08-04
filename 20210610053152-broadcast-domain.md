@@ -1,6 +1,6 @@
 ---
 title: broadcast domain
-date: 2021-06-10 05:31
+date: 2021-06-10T05:31:00Z
 ---
 
 A **broadcast domain** is a logical division of a [computer network](20210610054021-computer-network.md), in which all

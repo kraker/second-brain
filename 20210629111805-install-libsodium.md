@@ -1,6 +1,6 @@
 ---
 title: install libsodium
-date: 2021-06-29 11:18
+date: 2021-06-29T11:18:00Z
 ---
 
 ## Installation

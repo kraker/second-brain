@@ -1,6 +1,6 @@
 ---
 title: Passing References
-date: 2021-09-16 06:17
+date: 2021-09-16T06:17:00Z
 tags:
 - 'python'
 ---

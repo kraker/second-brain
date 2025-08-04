@@ -1,6 +1,6 @@
 ---
 title: Built In Functions
-date: 2021-09-11 14:44
+date: 2021-09-11T14:44:00Z
 tags:
 ---
 

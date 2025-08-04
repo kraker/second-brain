@@ -1,6 +1,6 @@
 ---
 title: Simple And Sinister
-date: 2022-01-08 17:05
+date: 2022-01-08T17:05:00Z
 tags:
 - 'fitness'
 ---

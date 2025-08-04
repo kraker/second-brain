@@ -1,6 +1,6 @@
 ---
 title: Making Scripts Executable
-date: 2021-09-17 15:17
+date: 2021-09-17T15:17:00Z
 tags:
 - 'python'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Foward Lookup Zone
-date: 2021-02-02 06:56
+date: 2021-02-02T06:56:00Z
 ---
 Where IPs and FQDNs are stored on a DNS server.
 

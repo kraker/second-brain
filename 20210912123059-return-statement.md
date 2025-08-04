@@ -1,6 +1,6 @@
 ---
 title: Return Statement
-date: 2021-09-12 12:31
+date: 2021-09-12T12:31:00Z
 tags:
 - 'python'
 ---

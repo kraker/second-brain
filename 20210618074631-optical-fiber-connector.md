@@ -1,6 +1,6 @@
 ---
 title: Optical fiber connector
-date: 2021-06-18 07:46
+date: 2021-06-18T07:46:00Z
 ---
 
 An **optical fiber connector** terminates the end of an 

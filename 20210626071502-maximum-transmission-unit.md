@@ -1,6 +1,6 @@
 ---
 title: Maximum transmission unit
-date: 2021-06-26 07:15
+date: 2021-06-26T07:15:00Z
 ---
 
 In [computer networking](20210610054021-computer-network.md), the

@@ -1,6 +1,6 @@
 ---
 title: Arithmetic Operators
-date: 2021-09-18 08:00
+date: 2021-09-18T08:00:00Z
 tags:
 ---
 

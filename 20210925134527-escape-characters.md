@@ -1,6 +1,6 @@
 ---
 title: Escape Characters
-date: 2021-09-25 13:45
+date: 2021-09-25T13:45:00Z
 tags:
 - 'python'
 ---

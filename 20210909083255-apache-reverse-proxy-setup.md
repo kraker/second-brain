@@ -1,6 +1,6 @@
 ---
 title: Apache Reverse Proxy Setup
-date: 2021-09-09 08:32
+date: 2021-09-09T08:32:00Z
 tags:
  - 'wiki'
 ---

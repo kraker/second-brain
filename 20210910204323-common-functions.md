@@ -1,6 +1,6 @@
 ---
 title: Common Functions
-date: 2021-09-10 20:43
+date: 2021-09-10T20:43:00Z
 tags:
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mandatory Access Control
-date: 2022-03-15 17:41
+date: 2022-03-15T17:41:00Z
 tags:
 - 'networking'
 - 'security'

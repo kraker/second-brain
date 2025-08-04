@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting Strategies
-date: 2021-09-17 19:29
+date: 2021-09-17T19:29:00Z
 tags:
 - 'bash'
 ---

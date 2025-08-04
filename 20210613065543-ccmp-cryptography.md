@@ -1,6 +1,6 @@
 ---
 title: CCMP (cryptography)
-date: 2021-06-13 06:55
+date: 2021-06-13T06:55:00Z
 ---
 
 **Counter Mode Cipher Block Chaining Message Authentication Code Protocol**

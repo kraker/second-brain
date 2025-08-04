@@ -1,6 +1,6 @@
 ---
 title: Network Operations and Management
-date: 2022-03-18 07:58
+date: 2022-03-18T07:58:00Z
 tags:
 - 'networking'
 - 'sysadmin'

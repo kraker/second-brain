@@ -1,6 +1,6 @@
 ---
 title: Random Access Memory
-date: 2022-02-16 08:14
+date: 2022-02-16T08:14:00Z
 tags:
 - 'compsci'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Defensive Programming
-date: 2021-09-17 19:31
+date: 2021-09-17T19:31:00Z
 tags:
 ---
 

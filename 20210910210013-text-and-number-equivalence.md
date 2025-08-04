@@ -1,6 +1,6 @@
 ---
 title: Text And Number Equivalence
-date: 2021-09-10 21:00
+date: 2021-09-10T21:00:00Z
 tags:
 - 'python'
 ---

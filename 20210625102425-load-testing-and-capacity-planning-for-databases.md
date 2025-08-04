@@ -1,6 +1,6 @@
 ---
 title: Load Testing and Capacity Planning for Databases
-date: 2021-06-25 10:24
+date: 2021-06-25T10:24:00Z
 ---
 
 > Planning disk and memory capacity for a database server is a black art. More

@@ -1,6 +1,6 @@
 ---
 title: Install Elasticsearch
-date: 2021-10-15 12:38
+date: 2021-10-15T12:38:00Z
 tags:
 - 'work'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Remote access service
-date: 2021-06-27 06:40
+date: 2021-06-27T06:40:00Z
 ---
 
 A **remote access service (RAS)** is any combination of hardware and software to

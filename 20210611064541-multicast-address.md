@@ -1,6 +1,6 @@
 ---
 title: multicast address
-date: 2021-06-11 06:45
+date: 2021-06-11T06:45:00Z
 ---
 
 A **multicast address** is a logical identifier for a group of hosts in a

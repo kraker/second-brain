@@ -1,6 +1,6 @@
 ---
 title: symmetric digital subscriber line
-date: 2021-06-24 05:34
+date: 2021-06-24T05:34:00Z
 ---
 
 A **symmetric digital subscriber line (SDSL)** is a 

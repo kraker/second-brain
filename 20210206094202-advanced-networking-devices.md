@@ -1,6 +1,6 @@
 ---
 title: Advanced Networking Devices
-date: 2021-02-06 09:42
+date: 2021-02-06T09:42:00Z
 ---
 
 ## [Virtual Private Networks](20210205074906-vpn.md)

@@ -1,6 +1,6 @@
 ---
 title: Acceptable Use Policy
-date: 2021-07-17 11:53
+date: 2021-07-17T11:53:00Z
 ---
 
 The **acceptible use policy (AUP)** defines what is and what is not acceptable

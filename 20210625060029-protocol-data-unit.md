@@ -1,6 +1,6 @@
 ---
 title: Protocol data unit
-date: 2021-06-25 06:00
+date: 2021-06-25T06:00:00Z
 tags:
 - 'networking'
 ---

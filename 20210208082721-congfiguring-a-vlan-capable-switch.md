@@ -1,6 +1,6 @@
 ---
 title: Congfiguring a VLAN-Capable Switch
-date: 2021-02-08 08:27
+date: 2021-02-08T08:27:00Z
 ---
 * Uses web-based or SSH CLI interface
 * Assign ports to [VLANs](20210206110741-vlan.md)

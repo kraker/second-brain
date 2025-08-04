@@ -1,6 +1,6 @@
 ---
 title: While Loop Statements
-date: 2021-09-11 08:36
+date: 2021-09-11T08:36:00Z
 tags:
 - 'python'
 ---

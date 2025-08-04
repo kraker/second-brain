@@ -1,6 +1,6 @@
 ---
 title: Single-mode optical fiber
-date: 2021-06-23 06:02
+date: 2021-06-23T06:02:00Z
 ---
 
 In [fiber-optic communication](20210622061352-fiber-optic-communications.md),

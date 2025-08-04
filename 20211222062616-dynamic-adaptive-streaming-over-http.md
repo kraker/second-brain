@@ -1,6 +1,6 @@
 ---
 title: Dynamic Adaptive Streaming Over Http
-date: 2021-12-22 06:26
+date: 2021-12-22T06:26:00Z
 tags:
 - 'networking'
 ---

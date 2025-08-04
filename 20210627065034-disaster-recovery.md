@@ -1,6 +1,6 @@
 ---
 title: Disaster recovery
-date: 2021-06-27 06:50
+date: 2021-06-27T06:50:00Z
 ---
 
 **Disaster Recovery** involves a set of policies, tools and procedures to enable

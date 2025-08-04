@@ -1,6 +1,6 @@
 ---
 title: Deploying My Second Brain
-date: 2021-09-05 13:32
+date: 2021-09-05T13:32:00Z
 tags:
 - 'webdev'
 - 'zettelkasten'

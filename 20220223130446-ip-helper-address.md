@@ -1,6 +1,6 @@
 ---
 title: IP Helper Address
-date: 2022-02-23 13:04
+date: 2022-02-23T13:04:00Z
 tags:
 - 'networking'
 ---

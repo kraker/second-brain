@@ -1,6 +1,6 @@
 ---
 title: Application Service Provider
-date: 2021-06-13 06:50
+date: 2021-06-13T06:50:00Z
 ---
 
 An **application service provider (ASP)** is a business providing computer-based

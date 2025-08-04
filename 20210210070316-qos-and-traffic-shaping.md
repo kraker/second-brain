@@ -1,6 +1,6 @@
 ---
 title: QoS and Traffic Shaping
-date: 2021-02-10 07:03
+date: 2021-02-10T07:03:00Z
 ---
 Control how much bandwidth is used for certain devices or applications.
 * On many advanced routers and switches you can implement QoS through bandwidth

@@ -1,6 +1,6 @@
 ---
 title: Mutable Data Type
-date: 2021-09-16 05:12
+date: 2021-09-16T05:12:00Z
 tags:
 - 'python'
 ---

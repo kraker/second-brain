@@ -1,6 +1,6 @@
 ---
 title: Saving Variables With pprint.pformat() Function
-date: 2021-10-02 07:28
+date: 2021-10-02T07:28:00Z
 tags:
 - 'python'
 ---

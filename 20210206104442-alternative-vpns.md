@@ -1,6 +1,6 @@
 ---
 title: Alternative VPNs
-date: 2021-02-06 10:44
+date: 2021-02-06T10:44:00Z
 ---
 
 * OpenVPN

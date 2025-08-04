@@ -1,6 +1,6 @@
 ---
 title: Ethernet over twisted pair
-date: 2021-06-26 08:01
+date: 2021-06-26T08:01:00Z
 ---
 
 https://en.wikipedia.org/wiki/Ethernet_over_twisted_pair

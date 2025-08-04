@@ -1,6 +1,6 @@
 ---
 title: Package Management
-date: 2024-03-20 09:49
+date: 2024-03-20T09:49:00Z
 tags:
 - 'linux'
 - 'sysadmin'

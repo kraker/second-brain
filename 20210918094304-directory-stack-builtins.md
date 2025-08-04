@@ -1,6 +1,6 @@
 ---
 title: Directory Stack Builtins
-date: 2021-09-18 09:43
+date: 2021-09-18T09:43:00Z
 tags:
 - 'bash'
 ---

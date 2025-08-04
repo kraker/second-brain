@@ -1,6 +1,6 @@
 ---
 title: Exception Handling
-date: 2021-09-12 20:15
+date: 2021-09-12T20:15:00Z
 tags:
 - 'python'
 ---

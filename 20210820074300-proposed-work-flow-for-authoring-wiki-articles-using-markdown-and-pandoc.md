@@ -1,6 +1,6 @@
 ---
 title: Proposed Work-flow for Authoring Wiki Articles using Markdown and Pandoc
-date: 2021-08-20 07:43
+date: 2021-08-20T07:43:00Z
 ---
 
 # Overview

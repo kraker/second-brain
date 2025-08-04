@@ -1,6 +1,6 @@
 ---
 title: Companies of interest
-date: 2021-08-14 07:58
+date: 2021-08-14T07:58:00Z
 ---
 
 Ambient Energy

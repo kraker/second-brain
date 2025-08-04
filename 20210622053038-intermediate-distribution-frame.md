@@ -1,6 +1,6 @@
 ---
 title: Intermediate distribution frame
-date: 2021-06-22 05:30
+date: 2021-06-22T05:30:00Z
 tags:
 - 'networking'
 ---

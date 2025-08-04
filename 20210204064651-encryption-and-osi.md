@@ -1,6 +1,6 @@
 ---
 title: Encryption and OSI
-date: 2021-02-04 06:46
+date: 2021-02-04T06:46:00Z
 ---
 * **Layer 1**					No common encryption is done on this layer
 * **Layer 2**					No common encryption is done on this layer	

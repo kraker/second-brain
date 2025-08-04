@@ -1,6 +1,6 @@
 ---
 title: Service-level agreement
-date: 2021-07-02 07:18
+date: 2021-07-02T07:18:00Z
 ---
 
 https://en.wikipedia.org/wiki/Service-level_agreement

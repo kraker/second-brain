@@ -1,6 +1,6 @@
 ---
 title: Create subdomain with cPanel uapi
-date: 2021-06-29 08:59
+date: 2021-06-29T08:59:00Z
 ---
 
 ```

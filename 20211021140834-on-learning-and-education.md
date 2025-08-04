@@ -1,6 +1,6 @@
 ---
 title: On Learning and Education
-date: 2021-10-21 14:08
+date: 2021-10-21T14:08:00Z
 tags:
 - 'work'
 ---

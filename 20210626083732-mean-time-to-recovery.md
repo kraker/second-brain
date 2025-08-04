@@ -1,6 +1,6 @@
 ---
 title: Mean time to recovery
-date: 2021-06-26 08:37
+date: 2021-06-26T08:37:00Z
 ---
 
 **Mean time to recovery (MTTR)** is the average time that a device will take to

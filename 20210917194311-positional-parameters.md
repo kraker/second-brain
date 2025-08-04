@@ -1,6 +1,6 @@
 ---
 title: Positional Parameters
-date: 2021-09-17 19:43
+date: 2021-09-17T19:43:00Z
 tags:
 - 'bash'
 ---

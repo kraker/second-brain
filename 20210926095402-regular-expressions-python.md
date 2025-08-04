@@ -1,6 +1,6 @@
 ---
 title: Regular Expressions in Python
-date: 2021-09-26 09:54
+date: 2021-09-26T09:54:00Z
 tags:
 - 'python'
 ---

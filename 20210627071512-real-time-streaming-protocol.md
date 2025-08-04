@@ -1,6 +1,6 @@
 ---
 title: Real Time Streaming Protocol
-date: 2021-06-27 07:15
+date: 2021-06-27T07:15:00Z
 ---
 
 The **Real Time Streaming Protocol (RTSP)** is a network control protocol

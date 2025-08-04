@@ -1,6 +1,6 @@
 ---
 title: Optical time-domain reflectometer
-date: 2021-06-26 13:32
+date: 2021-06-26T13:32:00Z
 ---
 
 An **optical time-domain reflectometer (OTDR)** is an optoelectronic instrument

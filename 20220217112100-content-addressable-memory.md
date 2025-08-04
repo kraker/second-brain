@@ -1,6 +1,6 @@
 ---
 title: Content-addressable memory
-date: 2022-02-17 11:21
+date: 2022-02-17T11:21:00Z
 tags:
 - 'networking'
 ---

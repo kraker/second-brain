@@ -1,6 +1,6 @@
 ---
 title: Initial Thoughts On The Aps Pipeline
-date: 2021-10-12 09:25
+date: 2021-10-12T09:25:00Z
 tags:
 ---
 

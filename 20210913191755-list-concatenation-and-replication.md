@@ -1,6 +1,6 @@
 ---
 title: List Concatenation And Replication
-date: 2021-09-13 19:17
+date: 2021-09-13T19:17:00Z
 tags:
 - 'python'
 ---

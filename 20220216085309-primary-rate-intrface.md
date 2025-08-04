@@ -1,6 +1,6 @@
 ---
 title: Primary Rate Intrface
-date: 2022-02-16 08:53
+date: 2022-02-16T08:53:00Z
 tags:
 - 'networking'
 ---

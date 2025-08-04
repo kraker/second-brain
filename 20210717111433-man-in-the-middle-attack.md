@@ -1,6 +1,6 @@
 ---
 title: Man-in-the-middle attack
-date: 2021-07-17 11:14
+date: 2021-07-17T11:14:00Z
 ---
 
 In a **man-in-the-middle attack** an attacker taps into communications between

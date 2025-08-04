@@ -1,6 +1,6 @@
 ---
 title: Break Statements
-date: 2021-09-11 08:46
+date: 2021-09-11T08:46:00Z
 tags:
 - 'python'
 ---

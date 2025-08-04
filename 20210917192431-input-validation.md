@@ -1,6 +1,6 @@
 ---
 title: Input Validation
-date: 2021-09-17 19:24
+date: 2021-09-17T19:24:00Z
 tags:
 - 'bash'
 ---

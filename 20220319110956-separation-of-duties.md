@@ -1,6 +1,6 @@
 ---
 title: 20220319110956-separation-of-duties
-date: 2022-03-19 11:10
+date: 2022-03-19T11:10:00Z
 tags:
 - 'security'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Personal Development
-date: 2021-09-01 06:50
+date: 2021-09-01T06:50:00Z
 ---
 
 # Personal Development

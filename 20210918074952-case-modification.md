@@ -1,6 +1,6 @@
 ---
 title: Case Modification
-date: 2021-09-18 07:50
+date: 2021-09-18T07:50:00Z
 tags:
 - 'bash'
 ---

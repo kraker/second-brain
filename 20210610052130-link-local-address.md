@@ -1,6 +1,6 @@
 ---
 title: link-local address
-date: 2021-06-10 05:21
+date: 2021-06-10T05:21:00Z
 ---
 
 In computer networking, a link-local address is a network address that is valid

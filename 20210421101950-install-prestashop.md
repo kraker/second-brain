@@ -1,6 +1,6 @@
 ---
 title: Install PrestaShop
-date: 2021-04-21 10:19
+date: 2021-04-21T10:19:00Z
 ---
 
 1. Register/login and choose download at https://www.prestashop.com/en/versions

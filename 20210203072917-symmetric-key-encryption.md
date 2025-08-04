@@ -1,6 +1,6 @@
 ---
 title: Symmetric-Key Encryption
-date: 2021-02-03 07:29
+date: 2021-02-03T07:29:00Z
 ---
 Encryption that uses the same key for both encryption and decryption.
 

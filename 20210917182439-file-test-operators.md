@@ -1,6 +1,6 @@
 ---
 title: File Test Operators
-date: 2021-09-17 18:24
+date: 2021-09-17T18:24:00Z
 tags:
 - 'bash'
 ---

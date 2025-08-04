@@ -1,6 +1,6 @@
 ---
 title: pyperclip Module
-date: 2021-09-25 15:04
+date: 2021-09-25T15:04:00Z
 tags:
 - 'python'
 ---

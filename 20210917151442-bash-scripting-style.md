@@ -1,6 +1,6 @@
 ---
 title: Bash Scripting Style
-date: 2021-09-17 15:14
+date: 2021-09-17T15:14:00Z
 tags:
 - 'bash'
 ---

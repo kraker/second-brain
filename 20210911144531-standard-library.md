@@ -1,6 +1,6 @@
 ---
 title: Standard Library
-date: 2021-09-11 14:45
+date: 2021-09-11T14:45:00Z
 tags:
 ---
 

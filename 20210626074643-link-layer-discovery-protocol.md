@@ -1,6 +1,6 @@
 ---
 title: Link Layer Discovery Protocol
-date: 2021-06-26 07:46
+date: 2021-06-26T07:46:00Z
 ---
 
 The **Link Layer Discovery Protocol (LLDP)** is a vendor-neutral 

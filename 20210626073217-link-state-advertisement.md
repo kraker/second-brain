@@ -1,6 +1,6 @@
 ---
 title: Link-state advertisement
-date: 2021-06-26 07:32
+date: 2021-06-26T07:32:00Z
 ---
 
 The **link-state advertisement (LSA)** is a basic communication means of the 
