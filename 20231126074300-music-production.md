@@ -1,6 +1,6 @@
 ---
 title: Music Production
-date: 2023-26-23
+date: 2023-12-23T00:00:00Z
 tags:
 - 'music'
 ---
