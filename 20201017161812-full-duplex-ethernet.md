@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-10-17T16:18:12Z
 ---
 
 # Full-Duplex Ethernet

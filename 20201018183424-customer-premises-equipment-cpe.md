@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-10-18T18:34:24Z
 ---
 
 # Customer-Premises Equipment (CPE)

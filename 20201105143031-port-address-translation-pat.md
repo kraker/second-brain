@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-11-05T14:30:31Z
 ---
 
 This is the most common form of [NAT](20201105142629-network-address-translation.md).

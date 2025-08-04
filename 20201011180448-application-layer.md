@@ -1,6 +1,6 @@
 ---
 title: Application Layer
-date: 
+date: 2020-10-11T18:04:48Z
 ---
 
 Combines features of the top 3 layers of [OSI model](20201006074200-osi-7-layer.md).

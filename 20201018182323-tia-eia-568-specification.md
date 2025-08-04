@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-10-18T18:23:23Z
 ---
 
 # TIA/EIA 568 Specification

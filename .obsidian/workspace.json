@@ -30,54 +30,6 @@
               "icon": "lucide-file",
               "title": "20201006072053-networking"
             }
-          },
-          {
-            "id": "bed9a04a2983f99e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220216082453-dynamic-random-access-memory.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220216082453-dynamic-random-access-memory"
-            }
-          },
-          {
-            "id": "172c20cbdaa056e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220216082500-static-random-access-memory.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220216082500-static-random-access-memory"
-            }
           }
         ]
       }
@@ -268,35 +220,36 @@
   },
   "active": "80995e5acfb52fa1",
   "lastOpenFiles": [
-    "20220216082500-static-random-access-memory.md",
-    "20220216082453-dynamic-random-access-memory.md",
-    "20201006072053-networking.md",
+    "fix_dates.py",
+    "fix_yaml_frontmatter.py",
     "broken links output.md",
-    "20210901064309-mental-health.md",
-    "20201103150544-special-ip-addresses.md",
-    "20201006074410-tcp-ip-model.md",
-    "20201006074200-osi-7-layer.md",
-    "20210830131649-learn-python.md",
-    "20230514110800-systems-theory.md",
-    "20210715145500-install-python-2x.md",
-    "20210901065028-personal-development.md",
-    "20210901062045-computer-science.md",
-    "20210831115428-green-energy.md",
-    "20210830131752-learn-python-the-hard-way.md",
-    "20210830064705-climate-change.md",
-    "20210829112524-development-strategies.md",
-    "20210828122101-big-five-personality-traits.md",
-    "20210825152130-im-wiki.md",
-    "20210820074300-proposed-work-flow-for-authoring-wiki-articles-using-markdown-and-pandoc.md",
-    "20210814080514-jobs-of-interest.md",
-    "20210814075811-companies-of-interest.md",
-    "20210812070928-install-apache-svn.md",
-    "20210811101908-introduction-to-vi.md",
-    "20210727092438-install-php-ffmpeg.md",
-    "20210724131544-to-review-pt1-2021-07-24.md",
+    "backup_20250803_152246/thedepressioncure.md",
+    "backup_20250803_152246/_index.md",
+    "backup_20250803_152246/Untitled.md",
+    "backup_20250803_152246/Untitled 1.md",
+    "backup_20250803_152246/README.md",
+    "backup_20250803_152246/20250803143633-vdo.md",
+    "backup_20250803_152246/20250803143548-lvm.md",
+    "backup_20250803_152246/202508031432.md",
+    "backup_20250803_152246/202508031325-fg.md",
+    "backup_20250803_152246/202507302029-guid.md",
+    "backup_20250803_152246/202507302024-gpt.md",
+    "backup_20250803_152246/202507302023-mbr.md",
+    "backup_20250803_152246/202507282221-uefi.md",
+    "backup_20250803_152246/202507282215-bios.md",
+    "backup_20250803_152246/202507282146-tuned.md",
+    "backup_20250803_152246/202507281947-logrotate.md",
+    "backup_20250803_152246/202507281925-rsyslog.md",
+    "backup_20250803_152246/202507281846-at.md",
+    "backup_20250803_152246/202507281714-rhcsa-review.md",
+    "backup_20250803_152246/202507281552-linux-kernel.md",
+    "backup_20250803_152246/202507262125-file-attributes.md",
+    "backup_20250803_152246/202507140845-rhcsa-exam-objectives.md",
+    "backup_20250803_152246/202405191352-cooking.md",
+    "backup_20250803_152246/202405130914-logger.md",
+    "backup_20250803_152246",
     "normalize_filenames.py",
     "fix_timestamps.py",
-    "backup_20250803_152246",
     "rename_timestamps.py",
     "Pasted image 20240418092112.png",
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
@@ -308,7 +261,6 @@
     "ksnip_20240217-082220.png",
     "Pasted image 20240217082430.png",
     "Pasted image 20240217082211.png",
-    "Pasted image 20240217082227.png",
-    "professor-messer-sy0-701-comptia-security-plus-course-notes-v106.pdf"
+    "Pasted image 20240217082227.png"
   ]
 }

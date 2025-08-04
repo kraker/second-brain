@@ -1,6 +1,6 @@
 ---
 title: 
-date: 
+date: 2020-11-07T15:38:21Z
 ---
 
 # Cisco Console Cable
