@@ -1,6 +1,6 @@
 ---
 title: Install WordPress
-date: 2021-04-20 17:23
+date: 2021-04-20T17:23:00Z
 ---
 
 Switch to their user

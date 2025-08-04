@@ -1,6 +1,6 @@
 ---
 title: Check If Key Value Exists In A Dict
-date: 2021-09-23 05:57
+date: 2021-09-23T05:57:00Z
 tags:
 - 'python'
 ---

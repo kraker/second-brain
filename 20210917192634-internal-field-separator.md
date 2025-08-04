@@ -1,6 +1,6 @@
 ---
 title: Internal Field Separator
-date: 2021-09-17 19:27
+date: 2021-09-17T19:27:00Z
 tags:
 - 'bash'
 ---

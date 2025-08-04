@@ -1,6 +1,6 @@
 ---
 title: Plugin Philosophy
-date: 2021-09-05 09:54
+date: 2021-09-05T09:54:00Z
 tags:
 ---
 

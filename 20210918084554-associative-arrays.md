@@ -1,6 +1,6 @@
 ---
 title: Associative Arrays
-date: 2021-09-18 08:46
+date: 2021-09-18T08:46:00Z
 tags:
 - 'bash'
 ---

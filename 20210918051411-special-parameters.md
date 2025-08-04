@@ -1,6 +1,6 @@
 ---
 title: Special Parameters
-date: 2021-09-18 05:14
+date: 2021-09-18T05:14:00Z
 tags:
 - 'bash'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Multiprotocol Label Switching
-date: 2021-06-26 13:40
+date: 2021-06-26T13:40:00Z
 ---
 
 **Multiprotocol Label Switching (MPLS)** is a routing technique in

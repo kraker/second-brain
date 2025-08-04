@@ -1,6 +1,6 @@
 ---
 title: Anonymous Fox Hack
-date: 2022-01-25 07:51
+date: 2022-01-25T07:51:00Z
 tags:
 ---
 

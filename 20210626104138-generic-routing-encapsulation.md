@@ -1,6 +1,6 @@
 ---
 title: Generic Routing Encapsulation
-date: 2021-06-26 10:41
+date: 2021-06-26T10:41:00Z
 ---
 
 **Generic Routing Encapsulation (GRE)** is a 

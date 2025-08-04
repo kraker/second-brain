@@ -1,6 +1,6 @@
 ---
 title: in and not in Operators
-date: 2021-09-15 06:38
+date: 2021-09-15T06:38:00Z
 tags:
 - 'python'
 ---

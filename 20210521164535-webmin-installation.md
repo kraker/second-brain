@@ -1,6 +1,6 @@
 ---
 title: Webmin Installation
-date: 2021-05-21 16:45
+date: 2021-05-21T16:45:00Z
 ---
 
 https://doxfer.webmin.com/Webmin/Installation

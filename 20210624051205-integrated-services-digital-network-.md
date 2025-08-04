@@ -1,6 +1,6 @@
 ---
 title: Integrated Services Digital Network 
-date: 2021-06-24 05:12
+date: 2021-06-24T05:12:00Z
 ---
 
 **Integrated Services Digital Network (ISDN)** is a set of communication

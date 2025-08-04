@@ -1,6 +1,6 @@
 ---
 title: Next-generation firewall
-date: 2021-06-26 09:40
+date: 2021-06-26T09:40:00Z
 ---
 
 A **next-generation firewall (NGFW)** is a part of the third generation of

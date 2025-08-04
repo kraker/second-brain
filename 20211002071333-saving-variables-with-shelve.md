@@ -1,6 +1,6 @@
 ---
 title: Saving Variables
-date: 2021-10-02 07:13
+date: 2021-10-02T07:13:00Z
 tags:
 - 'python'
 ---

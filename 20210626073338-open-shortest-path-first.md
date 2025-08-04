@@ -1,6 +1,6 @@
 ---
 title: Open Shortest Path First
-date: 2021-06-26 07:33
+date: 2021-06-26T07:33:00Z
 tags:
 - 'networking'
 ---

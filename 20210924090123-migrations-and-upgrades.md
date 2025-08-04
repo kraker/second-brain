@@ -1,6 +1,6 @@
 ---
 title: Migrations And Upgrades
-date: 2021-09-24 09:01
+date: 2021-09-24T09:01:00Z
 tags:
 - 'work'
 ---

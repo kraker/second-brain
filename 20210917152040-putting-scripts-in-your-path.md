@@ -1,6 +1,6 @@
 ---
 title: Putting Scripts In Your Path
-date: 2021-09-17 15:20
+date: 2021-09-17T15:20:00Z
 tags:
 - 'bash'
 ---

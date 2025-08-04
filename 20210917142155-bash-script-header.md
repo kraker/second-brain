@@ -1,6 +1,6 @@
 ---
 title: Bash Script Header
-date: 2021-09-17 14:21
+date: 2021-09-17T14:21:00Z
 tags:
 - 'bash'
 ---

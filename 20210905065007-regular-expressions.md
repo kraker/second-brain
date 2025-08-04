@@ -1,6 +1,6 @@
 ---
 title: Regular Expressions
-date: 2021-09-05 06:50
+date: 2021-09-05T06:50:00Z
 tags:
 - 'dev'
 - 'linux'

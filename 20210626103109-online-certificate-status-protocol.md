@@ -1,6 +1,6 @@
 ---
 title: Online Certificate Status Protocol
-date: 2021-06-26 10:31
+date: 2021-06-26T10:31:00Z
 ---
 
 The **Online Certificate Status Protocol (OCSP)** is an 

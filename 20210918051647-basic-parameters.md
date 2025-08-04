@@ -1,6 +1,6 @@
 ---
 title: Basic Parameters
-date: 2021-09-18 05:16
+date: 2021-09-18T05:16:00Z
 tags:
 - 'bash'
 ---

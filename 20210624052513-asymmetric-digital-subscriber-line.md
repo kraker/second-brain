@@ -1,6 +1,6 @@
 ---
 title: Asymmetric digital subscriber line
-date: 2021-06-24 05:25
+date: 2021-06-24T05:25:00Z
 ---
 
 **Asymmetric digital subscriber line (ADSL)** is a type of 

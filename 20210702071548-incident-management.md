@@ -1,6 +1,6 @@
 ---
 title: Incident management (ITSM)
-date: 2021-07-02 07:15
+date: 2021-07-02T07:15:00Z
 ---
 
 **Incident management (IM)** is an IT service management (ITSM) process area.

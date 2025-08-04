@@ -1,6 +1,6 @@
 ---
 title: Mean time between failures
-date: 2021-06-26 08:44
+date: 2021-06-26T08:44:00Z
 ---
 
 **Mean time between failures (MTBF)** is the predicted elapsed time between

@@ -1,6 +1,6 @@
 ---
 title: Wi-Fi Protected Setup
-date: 2021-06-26 15:08
+date: 2021-06-26T15:08:00Z
 ---
 
 **Wi-Fi Protected Setup (WPS)** is a [network security](20220315170212-network-security.md)

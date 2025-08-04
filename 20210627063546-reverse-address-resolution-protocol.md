@@ -1,6 +1,6 @@
 ---
 title: Reverse Address Resolution Protocol
-date: 2021-06-27 06:35
+date: 2021-06-27T06:35:00Z
 ---
 
 The **Reverse Address Resolution Protocol (RARP)** is an obsolete computer

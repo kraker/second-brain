@@ -1,6 +1,6 @@
 ---
 title: Specialized Networks
-date: 2022-03-19 09:50
+date: 2022-03-19T09:50:00Z
 tags:
 - 'networking'
 ---

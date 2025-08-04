@@ -1,6 +1,6 @@
 ---
 title: The Practice Of System And Network Administration
-date: 2022-02-15 11:50
+date: 2022-02-15T11:50:00Z
 tags:
 - 'sysadmin'
 ---

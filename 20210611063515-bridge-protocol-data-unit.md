@@ -1,6 +1,6 @@
 ---
 title: Bridge Protocol Data Unit
-date: 2021-06-11 06:35
+date: 2021-06-11T06:35:00Z
 ---
 
 **Bridge Protocol Data Units** (BPDUs) are [frames](20201009144356-frame.md) 

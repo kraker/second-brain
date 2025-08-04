@@ -1,6 +1,6 @@
 ---
 title: String Operations
-date: 2021-09-18 07:47
+date: 2021-09-18T07:47:00Z
 tags:
 - 'bash'
 ---

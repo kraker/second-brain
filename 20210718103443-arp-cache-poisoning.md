@@ -1,6 +1,6 @@
 ---
 title: ARP cache poisoning
-date: 2021-07-18 10:34
+date: 2021-07-18T10:34:00Z
 ---
 
 **ARP cache poisoning** is when a malicious device sends false ARP frames to

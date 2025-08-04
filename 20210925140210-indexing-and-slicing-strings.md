@@ -1,6 +1,6 @@
 ---
 title: Indexing And Slicing Strings
-date: 2021-09-25 14:02
+date: 2021-09-25T14:02:00Z
 tags:
 - 'python'
 ---

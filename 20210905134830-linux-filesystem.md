@@ -1,6 +1,6 @@
 ---
 title: Linux File System
-date: 2021-09-05 13:48
+date: 2021-09-05T13:48:00Z
 tags:
 - linux
 - sysadmin

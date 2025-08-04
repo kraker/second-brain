@@ -1,6 +1,6 @@
 ---
 title: Virtual Routing And Forwarding
-date: 2022-02-17 08:59
+date: 2022-02-17T08:59:00Z
 tags:
 - 'networking'
 ---

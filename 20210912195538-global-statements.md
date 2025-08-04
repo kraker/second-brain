@@ -1,6 +1,6 @@
 ---
 title: Global Statements
-date: 2021-09-12 19:55
+date: 2021-09-12T19:55:00Z
 tags:
 - 'python'
 ---

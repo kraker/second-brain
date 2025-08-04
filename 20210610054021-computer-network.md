@@ -1,6 +1,6 @@
 ---
 title: Computer network
-date: 2021-06-10 05:40
+date: 2021-06-10T05:40:00Z
 ---
 
 A **computer network** is a group of computers that use a set of common

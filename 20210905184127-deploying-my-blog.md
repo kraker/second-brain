@@ -1,6 +1,6 @@
 ---
 title: Deploying My Blog
-date: 2021-09-05 18:41
+date: 2021-09-05T18:41:00Z
 tags:
 ---
 

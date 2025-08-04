@@ -1,6 +1,6 @@
 ---
 title: Social Engineering
-date: 2021-07-22 09:22
+date: 2021-07-22T09:22:00Z
 ---
 
 **Social engineering** is the process of using or manipulating people inside the

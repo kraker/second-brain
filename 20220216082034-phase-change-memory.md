@@ -1,6 +1,6 @@
 ---
 title: Phase Change Memory
-date: 2022-02-16 08:20
+date: 2022-02-16T08:20:00Z
 tags:
 - 'compsci'
 ---

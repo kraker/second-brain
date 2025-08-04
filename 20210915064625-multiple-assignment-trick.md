@@ -1,6 +1,6 @@
 ---
 title: Multiple Assignment Trick
-date: 2021-09-15 06:46
+date: 2021-09-15T06:46:00Z
 tags:
 - 'python'
 ---

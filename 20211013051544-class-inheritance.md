@@ -1,6 +1,6 @@
 ---
 title: Class Inheritance
-date: 2021-10-13 05:15
+date: 2021-10-13T05:15:00Z
 tags:
 - 'python'
 ---

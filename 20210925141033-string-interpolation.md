@@ -1,6 +1,6 @@
 ---
 title: String Interpolation
-date: 2021-09-25 14:10
+date: 2021-09-25T14:10:00Z
 tags:
 - 'python'
 ---

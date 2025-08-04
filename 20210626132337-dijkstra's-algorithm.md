@@ -1,6 +1,6 @@
 ---
 title: Dijkstra's algorithm
-date: 2021-06-26 13:23
+date: 2021-06-26T13:23:00Z
 ---
 
 **Dijkstra's algorithm** is an algorithm for finding the shortest paths between

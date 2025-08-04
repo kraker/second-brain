@@ -1,6 +1,6 @@
 ---
 title: Variable Name Expansion
-date: 2021-09-18 07:43
+date: 2021-09-18T07:43:00Z
 tags:
 - 'bash'
 ---

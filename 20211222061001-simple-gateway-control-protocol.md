@@ -1,6 +1,6 @@
 ---
 title: Simple Gateway Control Protocol
-date: 2021-12-22 06:10
+date: 2021-12-22T06:10:00Z
 tags:
 - 'networking'
 ---

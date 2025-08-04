@@ -1,6 +1,6 @@
 ---
 title: Creating and Using a Class
-date: 2021-10-08 05:49
+date: 2021-10-08T05:49:00Z
 tags:
 - 'python'
 ---

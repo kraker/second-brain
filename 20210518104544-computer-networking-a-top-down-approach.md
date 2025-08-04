@@ -1,6 +1,6 @@
 ---
 title: Computer Networking - a Top Down Approach
-date: 2021-05-18 10:45
+date: 2021-05-18T10:45:00Z
 ---
 
 * [Chapter 1 Review Questions](20210518104627-chapter-1-review-questions.md)

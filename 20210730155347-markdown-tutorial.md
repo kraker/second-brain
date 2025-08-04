@@ -1,6 +1,6 @@
 ---
 title: Markdown Tutorial
-date: 2021-07-30 15:53
+date: 2021-07-30T15:53:00Z
 tags:
 - 'dac'
 ---

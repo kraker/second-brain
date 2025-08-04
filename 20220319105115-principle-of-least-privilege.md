@@ -1,6 +1,6 @@
 ---
 title: 20220319105115-principle-of-least-privilege
-date: 2022-03-19 10:51
+date: 2022-03-19T10:51:00Z
 tags:
 - 'security'
 ---

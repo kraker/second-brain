@@ -1,6 +1,6 @@
 ---
 title: Switch Management
-date: 2021-02-06 10:59
+date: 2021-02-06T10:59:00Z
 ---
 1. Directly plug into a serial interface and use a virtual terminal program to
 	 connect to a command-line interface.

@@ -1,6 +1,6 @@
 ---
 title: Integer Comparison Operators
-date: 2021-09-17 18:36
+date: 2021-09-17T18:36:00Z
 tags:
 - 'bash'
 ---

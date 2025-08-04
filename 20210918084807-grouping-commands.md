@@ -1,6 +1,6 @@
 ---
 title: Grouping Commands
-date: 2021-09-18 08:48
+date: 2021-09-18T08:48:00Z
 tags:
 ---
 

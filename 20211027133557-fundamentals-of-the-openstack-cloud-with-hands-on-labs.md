@@ -1,6 +1,6 @@
 ---
 title: Fundamentals Of The Openstack Cloud
-date: 2021-10-27 13:35
+date: 2021-10-27T13:35:00Z
 tags:
 - 'work'
 ---

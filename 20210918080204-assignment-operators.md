@@ -1,6 +1,6 @@
 ---
 title: Assignment Operators
-date: 2021-09-18 08:03
+date: 2021-09-18T08:03:00Z
 tags:
 - 'bash'
 ---

@@ -1,6 +1,6 @@
 ---
 title: in and not in String Operators
-date: 2021-09-25 14:07
+date: 2021-09-25T14:07:00Z
 tags:
 - 'python'
 ---

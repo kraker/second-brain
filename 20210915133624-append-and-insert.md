@@ -1,6 +1,6 @@
 ---
 title: append() and insert()
-date: 2021-09-15 13:36
+date: 2021-09-15T13:36:00Z
 tags:
 - 'python'
 ---

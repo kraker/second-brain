@@ -1,6 +1,6 @@
 ---
 title: Work-Flow Optimization
-date: 2022-01-17 07:14
+date: 2022-01-17T07:14:00Z
 tags:
 - 'work'
 ---

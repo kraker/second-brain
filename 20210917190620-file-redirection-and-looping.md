@@ -1,6 +1,6 @@
 ---
 title: File Redirection And Looping
-date: 2021-09-17 19:06
+date: 2021-09-17T19:06:00Z
 tags:
 ---
 

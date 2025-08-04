@@ -1,6 +1,6 @@
 ---
 title: Intrusion detection system
-date: 2021-06-26 09:46
+date: 2021-06-26T09:46:00Z
 ---
 
 [Source](https://en.wikipedia.org/wiki/Intrusion_detection_system)

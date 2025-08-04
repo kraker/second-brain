@@ -1,6 +1,6 @@
 ---
 title: For C Language Form
-date: 2021-09-17 19:16
+date: 2021-09-17T19:16:00Z
 tags:
 - 'bash'
 ---

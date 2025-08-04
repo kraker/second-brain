@@ -1,6 +1,6 @@
 ---
 title: Converting Types With list() and tuple()
-date: 2021-09-16 05:35
+date: 2021-09-16T05:35:00Z
 tags:
 - 'python'
 ---

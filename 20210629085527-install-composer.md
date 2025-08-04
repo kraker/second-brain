@@ -1,6 +1,6 @@
 ---
 title: Install Composer
-date: 2021-06-29 08:55
+date: 2021-06-29T08:55:00Z
 ---
 
 ## Installation

@@ -1,6 +1,6 @@
 ---
 title: Managed Hosting Training
-date: 2021-09-05 09:51
+date: 2021-09-05T09:51:00Z
 tags:
 ---
 

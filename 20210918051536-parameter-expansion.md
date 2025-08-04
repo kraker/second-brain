@@ -1,6 +1,6 @@
 ---
 title: Parameter Expansion
-date: 2021-09-18 05:15
+date: 2021-09-18T05:15:00Z
 tags:
 - 'bash'
 ---

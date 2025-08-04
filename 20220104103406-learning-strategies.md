@@ -1,6 +1,6 @@
 ---
 title: Learning Strategies
-date: 2022-01-04 10:34
+date: 2022-01-04T10:34:00Z
 tags:
  - "learning"
 ---

@@ -1,6 +1,6 @@
 ---
 title: Qa Guidelines For Managed Hosting
-date: 2021-12-21 12:53
+date: 2021-12-21T12:53:00Z
 tags:
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Medium-dependent interface
-date: 2021-06-11 06:15
+date: 2021-06-11T06:15:00Z
 ---
 
 A **medium dependent interface (MDI)** describes the interface (both physical

@@ -1,6 +1,6 @@
 ---
 title: Digital subscriber line
-date: 2021-06-24 05:21
+date: 2021-06-24T05:21:00Z
 ---
 
 **Digital subscriber line (DSL)** is a family of technologies that are used to

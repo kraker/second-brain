@@ -1,6 +1,6 @@
 ---
 title: Manage Empty Variables
-date: 2021-09-18 07:36
+date: 2021-09-18T07:36:00Z
 tags:
 - 'bash'
 ---

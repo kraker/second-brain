@@ -1,6 +1,6 @@
 ---
 title: Development Strategies
-date: 2021-08-29 11:25
+date: 2021-08-29T11:25:00Z
 ---
 
 * [Thoughts after 6 years](https://chriskiehl.com/article/thoughts-after-6-years)

@@ -1,6 +1,6 @@
 ---
 title: Non Volatile Random Access Memory
-date: 2022-02-16 08:17
+date: 2022-02-16T08:17:00Z
 tags:
 - 'compsci'
 ---

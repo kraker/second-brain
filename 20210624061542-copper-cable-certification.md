@@ -1,6 +1,6 @@
 ---
 title: Copper cable certification
-date: 2021-06-24 06:15
+date: 2021-06-24T06:15:00Z
 ---
 
 ## Tests

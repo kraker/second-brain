@@ -1,6 +1,6 @@
 ---
 title: If Then Constructs
-date: 2021-09-17 18:21
+date: 2021-09-17T18:21:00Z
 tags:
 - 'python'
 ---

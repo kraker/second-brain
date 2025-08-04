@@ -1,6 +1,6 @@
 ---
 title: Managed Hosting FAQ
-date: 2021-09-15 10:24
+date: 2021-09-15T10:24:00Z
 tags:
 - 'mh'
 - 'work'

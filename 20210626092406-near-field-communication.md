@@ -1,6 +1,6 @@
 ---
 title: Near-field communication
-date: 2021-06-26 09:24
+date: 2021-06-26T09:24:00Z
 ---
 
 **Near-Field Communication (NFC)** is a set of 

@@ -1,6 +1,6 @@
 ---
 title: Dictionary Data Type
-date: 2021-09-23 05:18
+date: 2021-09-23T05:18:00Z
 tags:
 - 'python'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Challenge-Handshake Authentication Protocol
-date: 2021-06-13 08:29
+date: 2021-06-13T08:29:00Z
 ---
 
 In computing, the **Challenge-Handshake Authentication Protocol (CHAP)**

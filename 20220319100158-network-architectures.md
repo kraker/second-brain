@@ -1,6 +1,6 @@
 ---
 title: 20220319100158-network-architectures
-date: 2022-03-19 10:02
+date: 2022-03-19T10:02:00Z
 tags:
 - 'networking'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Denial-of-service attack
-date: 2021-07-18 12:39
+date: 2021-07-18T12:39:00Z
 ---
 
 In computing, a **denial-of-service attack (DoS attack)** is a cyber-attack in

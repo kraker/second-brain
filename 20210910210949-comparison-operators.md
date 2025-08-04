@@ -1,6 +1,6 @@
 ---
 title: Comparison Operators
-date: 2021-09-10 21:09
+date: 2021-09-10T21:09:00Z
 tags:
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Thoughts On Videos
-date: 2021-10-12 09:31
+date: 2021-10-12T09:31:00Z
 tags:
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting TCP/IP Networks
-date: 2021-02-02 07:51
+date: 2021-02-02T07:51:00Z
 ---
 1. Diagnose the NIC
 	+ Use control panel if available to see if it's working

@@ -1,6 +1,6 @@
 ---
 title: Computer science
-date: 2021-09-01 06:20
+date: 2021-09-01T06:20:00Z
 tags:
 - 'index'
 - 'compsci'

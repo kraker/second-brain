@@ -1,6 +1,6 @@
 ---
 title: 20220419114857-challenge-response-authentication
-date: 2022-04-19 11:49
+date: 2022-04-19T11:49:00Z
 tags:
 - 'security'
 ---

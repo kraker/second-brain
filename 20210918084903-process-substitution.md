@@ -1,6 +1,6 @@
 ---
 title: Process Substitution
-date: 2021-09-18 08:49
+date: 2021-09-18T08:49:00Z
 tags:
 - 'bash'
 ---

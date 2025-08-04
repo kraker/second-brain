@@ -1,6 +1,6 @@
 ---
 title: String Comparison Operators
-date: 2021-09-17 18:38
+date: 2021-09-17T18:38:00Z
 tags:
 - 'bash'
 ---

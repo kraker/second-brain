@@ -1,6 +1,6 @@
 ---
 title: Data Loss Prevention
-date: 2022-02-23 12:28
+date: 2022-02-23T12:28:00Z
 tags:
 - 'networking'
 - 'security'
