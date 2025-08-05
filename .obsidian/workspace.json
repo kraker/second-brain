@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1d349027f0480efa",
+        "id": "722edbaf7c221e43",
         "type": "tabs",
         "children": [
           {
-            "id": "80995e5acfb52fa1",
+            "id": "3e2522d128ddec13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20201006072053-networking.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20201006072053-networking"
+              "title": "New tab"
             }
           }
         ]
@@ -94,12 +80,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -191,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "20201006072053-networking.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 20201006072053-networking"
+              "title": "File properties"
             }
           }
         ],
@@ -214,17 +197,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80995e5acfb52fa1",
+  "active": "3e2522d128ddec13",
   "lastOpenFiles": [
+    "20200628165056-adduser.md",
+    "2025-08-03.md",
+    "851391798-MIT.pdf",
+    "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
+    "20250803214545.md",
+    "Untitled.canvas",
+    "20201006072053-networking.md",
+    "backup_20250803_152246/_index.md",
     "fix_dates.py",
     "fix_yaml_frontmatter.py",
     "broken links output.md",
     "backup_20250803_152246/thedepressioncure.md",
-    "backup_20250803_152246/_index.md",
     "backup_20250803_152246/Untitled.md",
     "backup_20250803_152246/Untitled 1.md",
     "backup_20250803_152246/README.md",
@@ -244,9 +233,6 @@
     "backup_20250803_152246/202507281714-rhcsa-review.md",
     "backup_20250803_152246/202507281552-linux-kernel.md",
     "backup_20250803_152246/202507262125-file-attributes.md",
-    "backup_20250803_152246/202507140845-rhcsa-exam-objectives.md",
-    "backup_20250803_152246/202405191352-cooking.md",
-    "backup_20250803_152246/202405130914-logger.md",
     "backup_20250803_152246",
     "normalize_filenames.py",
     "fix_timestamps.py",
@@ -255,9 +241,6 @@
     "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "LF_Training_WP_CertificationPrepGuide_October2018+(6).pdf",
-    "iGroupQuickReference.pdf",
-    "Docker_CheatSheet_08.09.2016_0.pdf",
-    "dm.pdf",
     "ksnip_20240217-082220.png",
     "Pasted image 20240217082430.png",
     "Pasted image 20240217082211.png",
