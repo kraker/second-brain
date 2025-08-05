@@ -65,7 +65,7 @@
       "date-modified": true,
       "date-modified-key": "modified",
       "date-modified-source-of-truth": "file system",
-      "format": "YYYY-MM-DD HH:mm:ss Z",
+      "format": "YYYY-MM-DDTHH:mm:ss[Z]",
       "convert-to-utc": false,
       "update-on-file-contents-updated": "never"
     },
