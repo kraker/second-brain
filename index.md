@@ -1,7 +1,7 @@
 ---
-title: Index
-date: 2024-10-02 16:40:45 -05:00
-modified: 2025-07-28 19:18:56 -05:00
+title: /index
+date: 2025-08-05T20:33:38Z
+modified: 2025-08-05T21:33:52Z
 tags:
 - 'index'
 - 'networking'
@@ -13,11 +13,7 @@ tags:
 - 'linux'
 ---
 
-# Index
-
-_All of my notes can now be found on my [github](https://github.com/kraker/second-brain)._
-
-Search by [tag](tags/).
+# /index
 
 ## [Computer Science](20210901062045-computer-science.md)
 

@@ -11,10 +11,48 @@
             "id": "3e2522d128ddec13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
+            }
+          },
+          {
+            "id": "c138219b68cb06be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "home"
             }
           }
         ]
@@ -176,9 +214,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "index.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for index"
             }
           }
         ],
@@ -202,6 +242,8 @@
   },
   "active": "3e2522d128ddec13",
   "lastOpenFiles": [
+    "home.md",
+    "index.md",
     "20200628165056-adduser.md",
     "2025-08-03.md",
     "851391798-MIT.pdf",
@@ -231,8 +273,6 @@
     "backup_20250803_152246/202507281925-rsyslog.md",
     "backup_20250803_152246/202507281846-at.md",
     "backup_20250803_152246/202507281714-rhcsa-review.md",
-    "backup_20250803_152246/202507281552-linux-kernel.md",
-    "backup_20250803_152246/202507262125-file-attributes.md",
     "backup_20250803_152246",
     "normalize_filenames.py",
     "fix_timestamps.py",
