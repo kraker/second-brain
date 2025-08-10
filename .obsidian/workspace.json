@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "722edbaf7c221e43",
+        "id": "5a4532fc88a4d7ac",
         "type": "tabs",
         "children": [
           {
-            "id": "3e2522d128ddec13",
+            "id": "ed4199aa4b751afd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220216070507-homelab.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20220216070507-homelab"
-            }
-          },
-          {
-            "id": "cb3daedee30ff34d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20211013061838-performance-and-optimization.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20211013061838-performance-and-optimization"
+              "title": "New tab"
             }
           }
         ]
@@ -215,11 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "20220216070507-homelab.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 20220216070507-homelab"
+              "title": "File properties"
             }
           }
         ],
@@ -241,13 +201,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e2522d128ddec13",
+  "active": "ed4199aa4b751afd",
   "lastOpenFiles": [
-    "20210521104917-performance-tuning.md",
+    "old-index.md",
     "20211013061838-performance-and-optimization.md",
-    "20220216070507-homelab.md",
-    "home.md",
     "index.md",
+    "20220216070507-homelab.md",
+    "20210521104917-performance-tuning.md",
     "20200628165056-adduser.md",
     "2025-08-03.md",
     "851391798-MIT.pdf",

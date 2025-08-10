@@ -1,80 +1,35 @@
 ---
-title: /index
-date: 2025-08-05T20:33:38Z
-modified: 2025-08-05T21:33:52Z
-tags:
-- 'index'
-- 'networking'
-- 'compsci'
-- 'sysadmin'
-- 'dev'
-- 'work'
-- 'misc'
-- 'linux'
+title: /home
+date: 2025-08-05T20:55:17Z
+modified: 2025-08-10T12:00:26Z
 ---
 
-# /index
+# /home
 
-## [Computer Science](20210901062045-computer-science.md)
+If you landed here, my name is Alex Kraker, and this is my "second brain" also known
+as my [zettelkasten](20210209083017-zettelkasten.md), or sometimes referred to as
+a _digital garden_. This is a collection of my notes, thoughts, ideas, and research on
+various things.
 
-### [Development](20210905064934-development.md)
+## point-of-entry
 
-1. [Programming](20210905101059-programming.md)
-2. [Editors](20210905101447-text-editors.md)
-3. [Markup](20210905101559-markup.md)
-5. [Documentation](20210906094909-documentation.md)
-6. [Strategies](20210829112524-development-strategies.md)
+The best entry point is probably the \[search\] button at the top; I've long ago given up on a more structured approach to organizing my notes. I work in IT so most of my notes are on those topics. Search terms along the lines of "bash", "python", "linux", "networking", "rhel", "ansible", etc. tend to yield results. Pick a topic and see where it takes you.
 
-### [System Administration](20210905065308-sysadmin.md)
+I also have a somewhat neglected [/index](old-index.md) page if you'd like to start there.
 
-1. [Linux](20210905065406-linux.md)
-2. [Networking](20201006072053-networking.md)
-3. [Security](20210905104155-security.md)
-4. [Servers](20220312104231-servers.md)
-5. [Data](20210905101924-database.md)
+# /home/akraker
 
-#### [DevOps](20220603085449-devops.md)
+If you're curious about the keeper of this digital garden, see [alexkraker.com](https://alexkraker.com) for my more "official" web presence.
 
-1. [Automation](20210906071136-automation.md)
+## sauce
 
-## [Personal Development](20210901065028-personal-development.md)
+All of my notes are open-source, and maintained as markdown files in my
+[second-brain](https://github.com/kraker/second-brain) repository on my GitHub.
+This site is hosted for free by GitHub Pages. If you're interested in that sort of thing,
+see my [notes](https://github.com/kraker/notes) repository for the source.
 
-1. [Learning](20210901065232-learning.md)
-2. [Career](20210901065148-career.md)
-3. [Finance](20210905094835-finance.md)
-4. [Mental Health](20210901064309-mental-health.md)
-5. [Fitness](20210919134314-physical-fitness.md)
-6. [Productivity](20210905145113-productivity.md)
+## note taking
 
-## Architecture
+These days I mostly use [Obsidian](https://obsidian.md/) to take notes. I use a Git plugin that automatically backs up my notes to GitHub at regular intervals.
 
-* [Architecture](20220105130017-architecture.md)
-
-### Home
-
-1. [Office](20211020083547-office.md)
-2. [Aesthetics](20211020084618-aesthetics.md)
-3. [Furniture](20211020084824-furniture.md)
-4. [Materials](20211024122444-materials.md)
-
-## Music
-
-* [Music](20220331075221-music.md)
-
-## Environment
-
-1. [Climate Change](20210830064705-climate-change.md)
-2. [Sustainability](20210905101950-sustainability.md)
-3. [Clean Energy](20211105133635-clean-energy.md)
-
-## Work
-
-1. [Notes](20210615095058-notes.md)
-2. [Playbooks](20210602131314-playbooks.md)
-3. [Training](20210905095201-work-training.md)
-4. [Wiki](20210811101857-wiki.md)
-5. [Pipeline](20210917075135-pipeline.md)
-
-## Miscellaneous
-
-1. [Automotive](20210905100839-automotive.md)
+If this topic interests you, I did a write up of my [note-taking methodology](https://alexkraker.com/posts/second-brain/) on my blog.
