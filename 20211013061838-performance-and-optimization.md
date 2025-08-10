@@ -1,6 +1,7 @@
 ---
 title: Performance & Optimization
 date: 2021-10-13T06:18:00Z
+modified: 2025-08-10T10:39:50Z
 tags:
 - 'sysadmin'
 - 'linux'
@@ -14,6 +15,9 @@ tags:
 * [Commands you should run in the first 60 seconds on a misbehaving server][2]
 * [In-depth analysis of Linux Performance tools][3]
 * [30 Linux monitoring tools every sysadmin should know][4]
+* [The USE Method](https://www.brendangregg.com/usemethod.html)
+  * [USE Method: Linux Performance Checklist](https://www.brendangregg.com/USEmethod/use-linux.html)
+* [The TSA Method](https://www.brendangregg.com/tsamethod.html)
 
 [1]: https://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
 [2]: https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
@@ -55,7 +59,7 @@ Blame someone else anti-method.
 2. Has this system **ever** performed well?
 3. What has **changed** recently?
   a. Software?
-  b. Hardware? 
+  b. Hardware?
   c. Load?
 4. Can the performance degradation be expressed in terms of **latency** or run
    time?
@@ -139,7 +143,7 @@ Objectives:
 * Have exposure to various observability tools:
   + Basic: vmstat, iostat, mpstat, ps, top
   + Intermediate: tcpdump, netstat, nicstat, pidstat, sar,
-  + Advnaced: ss, slaptop, perf_events, 
+  + Advnaced: ss, slaptop, perf_events,
 * Perform Active Benchmarking
 * Understand tuning risks
 * Perform Static Performance Tuning

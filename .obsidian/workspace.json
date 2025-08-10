@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "20220216070507-homelab.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "20220216070507-homelab"
             }
           },
           {
-            "id": "c138219b68cb06be",
+            "id": "cb3daedee30ff34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "20211013061838-performance-and-optimization.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "20211013061838-performance-and-optimization"
             }
           }
         ]
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homelab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "index.md"
+                "file": "20220216070507-homelab.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for index"
+              "title": "File properties for 20220216070507-homelab"
             }
           }
         ],
@@ -242,6 +243,9 @@
   },
   "active": "3e2522d128ddec13",
   "lastOpenFiles": [
+    "20210521104917-performance-tuning.md",
+    "20211013061838-performance-and-optimization.md",
+    "20220216070507-homelab.md",
     "home.md",
     "index.md",
     "20200628165056-adduser.md",
@@ -270,9 +274,6 @@
     "backup_20250803_152246/202507282215-bios.md",
     "backup_20250803_152246/202507282146-tuned.md",
     "backup_20250803_152246/202507281947-logrotate.md",
-    "backup_20250803_152246/202507281925-rsyslog.md",
-    "backup_20250803_152246/202507281846-at.md",
-    "backup_20250803_152246/202507281714-rhcsa-review.md",
     "backup_20250803_152246",
     "normalize_filenames.py",
     "fix_timestamps.py",
