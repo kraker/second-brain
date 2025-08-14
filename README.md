@@ -7,7 +7,7 @@ My notes on various things structured as a
 
 My notes are published to my notes website: [notes.kraker.dev](https://notes.kraker.dev)
 
-Or if you want to read on GitHub, this is the entry point: [Index](_index.md)
+Or if you want to read on GitHub, this is the entry point: [Index](index.md)
 
 Otherwise use the search at the top to keyword search the repo.
 

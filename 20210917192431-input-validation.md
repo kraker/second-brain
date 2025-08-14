@@ -40,14 +40,14 @@ if [[ "$REPLY" =~ ^[-[:alnum:]\._]+$ ]]; then
     fi
 
     # is input a floating point number?
-    if [[ "$REPLY" =~ ^-?[[:digit:]]*\.[[:digit:]]+$ ]]; then
+    if [[ "$REPLY" =~ ^-?[:digit:]*\.[:digit:]+$ ]]; then
         echo "'$REPLY' is a floating point number."
     else
         echo "'$REPLY' is not a floating point number."
     fi
 
     # is input an integer?
-    if [[ "$REPLY" =~ ^-?[[:digit:]]+$ ]]; then
+    if [[ "$REPLY" =~ ^-?[:digit:]+$ ]]; then
         echo "'$REPLY' is an integer."
     else
         echo "'$REPLY' is not an integer."

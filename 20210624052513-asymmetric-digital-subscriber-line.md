@@ -14,7 +14,7 @@ can provide. ADSL differs from the less common
 (SDSL). In ADSL [bandwidth](20210622062329-bandwidths.md) and 
 [bit rate](20210624053730-bit-rate.md) are said to be asymmetric, 
 meaning greater toward the customer premisis 
-([downstream](2021-06-24--05-38-56Z--downstream_networking.md)) than the reverse
+([downstream](20210624053857-downstream-networking.md)) than the reverse
 ([upstream](20210624054027-upstream-networking.md)). 
 
 Source: https://en.wikipedia.org/wiki/Digital_subscriber_line

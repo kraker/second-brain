@@ -75,12 +75,12 @@ Example: (nnn) nnn-nnnn or nnn nnn-nnnn ^\(?[0-9][0-9][0-9]\)?
 '\*' - Match an Element Zero or More Times
 
 Crude example to see whether a string is a sentence.
-`[[:upper:]][[:upper:][:lower:] ]*\.`
+`[:upper:][[:upper:][:lower:] ]*\.`
 
 '+' - Match an Element One or More Times
 
 Example of a line matching of one or more alphabetic characters
-separated by single spaces. `^([[:alpha:]]+ ?)+$`
+separated by single spaces. `^([:alpha:]+ ?)+$`
 
 '{}' - Match an Element a Specific Number of Times
 
