@@ -16,4 +16,10 @@ modified: 2025-08-20T11:08:58Z
 
 ## Rootful vs Rootless
 
-Containers can have root privs or not have.
+Containers can have root privs or not have. Rootless is better for security.
+
+## registries.conf
+
+`/etc/containers/registries.conf`
+
+
