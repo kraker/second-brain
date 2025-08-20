@@ -4,20 +4,162 @@
     "type": "split",
     "children": [
       {
-        "id": "5a4532fc88a4d7ac",
+        "id": "6580b9870070cf4e",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4199aa4b751afd",
+            "id": "aea3ea0ab533c96e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20250728171400-rhcsa-review.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20250728171400-rhcsa-review"
+            }
+          },
+          {
+            "id": "d0b557d725678baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20231109085400-rhcsa.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20231109085400-rhcsa"
+            }
+          },
+          {
+            "id": "3d207b3d675c3d61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240217082600-rhcsa-notes.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20240217082600-rhcsa-notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1d3a0a4dc2c52934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3d7206cac4de123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250815091039-ext.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250815091039-ext"
+            }
+          },
+          {
+            "id": "ef1b0038d398d781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250819093848-drm.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250819093848-drm"
+            }
+          },
+          {
+            "id": "9969b71400019b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250820101424-nvidia.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250820101424-nvidia"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homelab",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +208,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -85,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 200
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -177,9 +319,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "20250820101424-nvidia.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 20250820101424-nvidia"
             }
           }
         ],
@@ -191,6 +335,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,8 +346,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed4199aa4b751afd",
+  "active": "9969b71400019b11",
   "lastOpenFiles": [
+    "20250819093848-drm.md",
+    "20250820101424-nvidia.md",
+    "20250815091039-ext.md",
+    "20240217082600-rhcsa-notes.md",
+    "20231109085400-rhcsa.md",
+    "20250728171400-rhcsa-review.md",
+    "20250815091322-vfat.md",
+    "20220926182945-IT-aphorisms.md",
+    "20210209083017-zettelkasten.md",
+    "20210905134830-linux-filesystem.md",
+    "20250815091243-xfs.md",
+    "20250813231322-gnu.md",
+    "20250813231238-texinfo.md",
+    "20250813231222.md",
     "old-index.md",
     "20211013061838-performance-and-optimization.md",
     "index.md",
@@ -220,20 +379,6 @@
     "fix_yaml_frontmatter.py",
     "broken links output.md",
     "backup_20250803_152246/thedepressioncure.md",
-    "backup_20250803_152246/Untitled.md",
-    "backup_20250803_152246/Untitled 1.md",
-    "backup_20250803_152246/README.md",
-    "backup_20250803_152246/20250803143633-vdo.md",
-    "backup_20250803_152246/20250803143548-lvm.md",
-    "backup_20250803_152246/202508031432.md",
-    "backup_20250803_152246/202508031325-fg.md",
-    "backup_20250803_152246/202507302029-guid.md",
-    "backup_20250803_152246/202507302024-gpt.md",
-    "backup_20250803_152246/202507302023-mbr.md",
-    "backup_20250803_152246/202507282221-uefi.md",
-    "backup_20250803_152246/202507282215-bios.md",
-    "backup_20250803_152246/202507282146-tuned.md",
-    "backup_20250803_152246/202507281947-logrotate.md",
     "backup_20250803_152246",
     "normalize_filenames.py",
     "fix_timestamps.py",

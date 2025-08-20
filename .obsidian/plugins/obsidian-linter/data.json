@@ -180,7 +180,7 @@
       "inner-new-lines": false
     },
     "consecutive-blank-lines": {
-      "enabled": true
+      "enabled": false
     },
     "convert-spaces-to-tabs": {
       "enabled": false,
@@ -199,7 +199,7 @@
       "enabled": true
     },
     "empty-line-around-tables": {
-      "enabled": true
+      "enabled": false
     },
     "heading-blank-lines": {
       "enabled": true,

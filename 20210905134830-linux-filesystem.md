@@ -1,9 +1,10 @@
 ---
-title: Linux File System
+title: Linux Filesystem
 date: 2021-09-05T13:48:00Z
 tags:
 - linux
 - sysadmin
+modified: 2025-08-15T09:15:46Z
 ---
 
 # Linux Filesystem
@@ -61,4 +62,3 @@ FHS
 | 4         | Options          | e.g. read-only non-executable etc                                  |
 | 5         | Frequency        | Integer that specifies if/when file system is backed up/dump'd     |
 | 6         | Order            | Integer that specifies in what order file systems should be fsck'd |
-

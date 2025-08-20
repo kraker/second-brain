@@ -1,6 +1,8 @@
 [
-  "table-editor-obsidian",
   "find-unlinked-files",
   "obsidian-linter",
-  "definition-list"
+  "definition-list",
+  "supercharged-links-obsidian",
+  "obsidian-auto-link-title",
+  "table-editor-obsidian"
 ]
