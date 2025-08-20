@@ -2,6 +2,8 @@
 title: Containerization
 tags:
   - 'devops'
+date: 2025-08-03T15:39:54Z
+modified: 2025-08-20T11:08:58Z
 ---
 
 # Containerization
@@ -10,4 +12,8 @@ tags:
 
 ## OCI
 
-* [Open Container Initiative](https://opencontainers.org/about/overview/)
+* [Open Container Initiative (OCI)](20250820105426-oci.md)
+
+## Rootful vs Rootless
+
+Containers can have root privs or not have.

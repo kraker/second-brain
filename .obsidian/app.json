@@ -13,7 +13,7 @@
   "autoPairBrackets": true,
   "autoPairMarkdown": false,
   "showIndentGuide": true,
-  "smartIndentList": false,
+  "smartIndentList": true,
   "useTab": false,
   "strictLineBreaks": true
 }

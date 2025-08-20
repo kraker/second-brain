@@ -6,7 +6,32 @@
       {
         "id": "6580b9870070cf4e",
         "type": "tabs",
+        "dimension": 44.57040572792363,
         "children": [
+          {
+            "id": "9bf4e56b02d17dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          },
           {
             "id": "aea3ea0ab533c96e",
             "type": "leaf",
@@ -79,12 +104,12 @@
               "title": "20240217082600-rhcsa-notes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1d3a0a4dc2c52934",
         "type": "tabs",
+        "dimension": 55.42959427207638,
         "children": [
           {
             "id": "e3d7206cac4de123",
@@ -111,12 +136,12 @@
             }
           },
           {
-            "id": "ef1b0038d398d781",
+            "id": "fb6b9e2944036e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250819093848-drm.md",
+                "file": "20250820105426-oci.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -131,16 +156,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250819093848-drm"
+              "title": "20250820105426-oci"
             }
           },
           {
-            "id": "9969b71400019b11",
+            "id": "b9b3317f01a41aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250820101424-nvidia.md",
+                "file": "20250820105719-podman.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -155,11 +180,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250820101424-nvidia"
+              "title": "20250820105719-podman"
+            }
+          },
+          {
+            "id": "70b8071037309667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230319223600-containerization.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20230319223600-containerization"
+            }
+          },
+          {
+            "id": "ef55e1784578037d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220726085334-vagrant.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20220726085334-vagrant"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,18 +393,29 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20250820101424-nvidia.md"
+                "file": "20220726085334-vagrant.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250820101424-nvidia"
+              "title": "File properties for 20220726085334-vagrant"
+            }
+          },
+          {
+            "id": "ff0e72caf6cc443f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,15 +427,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9969b71400019b11",
+  "active": "ef55e1784578037d",
   "lastOpenFiles": [
+    "TODO.md",
+    "20220726085334-vagrant.md",
+    "20230319223600-containerization.md",
+    "20250820105719-podman.md",
+    "20250820105426-oci.md",
+    "20240217082600-rhcsa-notes.md",
+    "20250820105433.md",
+    "20250815091039-ext.md",
     "20250819093848-drm.md",
     "20250820101424-nvidia.md",
-    "20250815091039-ext.md",
-    "20240217082600-rhcsa-notes.md",
     "20231109085400-rhcsa.md",
     "20250728171400-rhcsa-review.md",
     "20250815091322-vfat.md",
@@ -368,17 +459,11 @@
     "20220216070507-homelab.md",
     "20210521104917-performance-tuning.md",
     "20200628165056-adduser.md",
-    "2025-08-03.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
-    "20250803214545.md",
     "Untitled.canvas",
-    "20201006072053-networking.md",
-    "backup_20250803_152246/_index.md",
     "fix_dates.py",
     "fix_yaml_frontmatter.py",
-    "broken links output.md",
-    "backup_20250803_152246/thedepressioncure.md",
     "backup_20250803_152246",
     "normalize_filenames.py",
     "fix_timestamps.py",
