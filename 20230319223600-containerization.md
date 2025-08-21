@@ -3,7 +3,7 @@ title: Containerization
 tags:
   - 'devops'
 date: 2025-08-03T15:39:54Z
-modified: 2025-08-20T11:08:58Z
+modified: 2025-08-21T11:53:41Z
 ---
 
 # Containerization
@@ -21,5 +21,3 @@ Containers can have root privs or not have. Rootless is better for security.
 ## registries.conf
 
 `/etc/containers/registries.conf`
-
-
