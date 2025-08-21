@@ -417,10 +417,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20250821115405-ssg.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250821115405-ssg"
+              "title": "File properties for TODO"
             }
           },
           {
@@ -455,7 +455,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97a3fcd5b646eb89",
+  "active": "9bf4e56b02d17dc1",
   "lastOpenFiles": [
     "20250821115405-ssg.md",
     "20230319223600-containerization.md",
