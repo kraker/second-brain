@@ -47,6 +47,37 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
 - How I publish my notes with git submodules and mkdocs
 - IT aphorisms
 
+## The real business value of AI
+
+Rather than focusing on AI as a workforce or labor replacement, focus on training and enrichment. The current paradigm is that hours or work in == production out and production out is directly correlated with delivery of value. This is the type of thinking born out of the industrial revolution and still holds sway today in terms of implicit bias of leadership, return to office initiatives, etc...
+
+This is oversimplifying delivery of value. This frequently goes along with measuring the wrong things... "metrics" or "key performance indicators" in corporate speak.
+
+How do you effectively measure delivery of value? Is it _lines of code_ (LOC), is it number of commits? Is it number of pull-requests? 
+
+> What get's measured get's managed...
+
+AI generated slop can crush these metrics, but at what cost?
+
+In call center work there's "customer satisfaction", "contacts per hour", etc. But one of my favorite metrics that was probably a better indicator of delivery of value was "first contact resolution" (FCR). This is harder to measure because it's necessary to accurately capture what the issue is and across the various mediums which customer's seek support and determine when and by who (if at all) their issue was resolved and whether or not they had to reach out a 2nd, 3rd, or fourth time.
+
+If bonuses are tied to contacts/hr, ticket close rates, etc. savvy tech's will game the system and hit those bonus metrics every pay-period, but at what cost to the customer? The value proposition is murky at best, or maybe customer's just never get their issues resolved and never call back, they find a different way to solve their issue or not at all.
+
+FCR, might be one of the only metrics that matters in the context. maybe the call is 45 minutes long and just kills your contacts or close rate, but if their issue is resolved... permanently. The overall labor savings are probably greater than if they had to tie up multiple reps in multiple mediums or escalate multiple tiers. Worse if they submit a complaint or there's the very real risk if they're dissatisfied of losing their revenue forever. 
+
+Measuring what matters and is the greatest value is a hard problem to solve. I think it's a penny wise and a pound foolish to make the kind of bets on ai workforce replacement that results in layoffs.
+
+Training the workforce on ai, integrating ai into systems where it already does things very well, and "enriching" the delivery of real business value through the strategic and tactical use of ai in the workforce is where the real long-term benefits are to be garnered.
+
+The real tangible and lasting benefit is the augment not to replace, or to use a better word, to _enrich_ the value delivery of the work force.
+
+Certain tribal knowledge, types of heuristic pattern recognition, and things that human's a very good.
+
+It should be used to reduce toil, make inefficient manual or laborious processes automated or streamlined. The biggest investment is still in the people doing the work where the biggest long-term growth is to be gained.
+
+There's also issues with alignment and replacing human's with ai can have unintended consequences. This isn't something that can be implemented by fiat of corporate policy and hope to be as successful, or worse detrimental to the bottom line. It's not a silver bullet, it's a tool. A really powerful tool but a tool nonetheless.
+
+replacing workforce with ai only improves this quarters p & l, this shouldn't be a long-term strategy
 ## Book Ideas
 
 ### Ansible for Windows
