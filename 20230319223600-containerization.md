@@ -1,7 +1,7 @@
 ---
 title: Containerization
 date: 2025-08-03T15:39:54Z
-modified: 2025-08-21T21:23:57Z
+modified: 2025-08-21T21:24:53Z
 tags:
   - 'devops'
 ---

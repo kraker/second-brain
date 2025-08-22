@@ -112,30 +112,6 @@
         "dimension": 55.42959427207638,
         "children": [
           {
-            "id": "70b8071037309667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230319223600-containerization.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20230319223600-containerization"
-            }
-          },
-          {
             "id": "7603c54fdcbe6326",
             "type": "leaf",
             "state": {
@@ -208,12 +184,12 @@
             }
           },
           {
-            "id": "67cc4c56395acbb4",
+            "id": "e2ff8207b4d4331c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210623143149-access-control.md",
+                "file": "20250821214856-mls.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -228,10 +204,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20210623143149-access-control"
+              "title": "20250821214856-mls"
+            }
+          },
+          {
+            "id": "cf90c0bbec06a540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250821214931-mcs.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250821214931-mcs"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "access control",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -392,10 +393,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20230319223600-containerization.md"
+                "file": "20250821203207-selinux.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20230319223600-containerization"
+              "title": "File properties for 20250821203207-selinux"
             }
           },
           {
@@ -430,14 +431,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70b8071037309667",
+  "active": "5ecece88a6bc19ee",
   "lastOpenFiles": [
+    "20250821214856-mls.md",
+    "20250821214931-mcs.md",
+    "20250821203207-selinux.md",
+    "20250821214131-nsa.md",
+    "20250821214714.md",
+    "20220726085334-vagrant.md",
     "20250820105719-podman.md",
     "20230319223600-containerization.md",
+    "20250821212800-openshift.md",
+    "20210623143149-access-control.md",
+    "20250821212511-orchestration.md",
     "20250820105426-oci.md",
     "20250815091039-ext.md",
-    "20210623143149-access-control.md",
-    "20250821203207-selinux.md",
     "20250821211018-abac.md",
     "20250821115405-ssg.md",
     "20220105072936-pandoc.md",
@@ -449,15 +457,8 @@
     "20201010174635-mac.md",
     "20201009143255-mac-address.md",
     "TODO.md",
-    "20220726085334-vagrant.md",
     "20240217082600-rhcsa-notes.md",
     "20250820105433.md",
-    "20250819093848-drm.md",
-    "20250820101424-nvidia.md",
-    "20231109085400-rhcsa.md",
-    "20250728171400-rhcsa-review.md",
-    "20250815091322-vfat.md",
-    "20220926182945-IT-aphorisms.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
