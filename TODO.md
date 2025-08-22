@@ -46,6 +46,7 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
 - GitLab CI + pre-commit for validation
 - How I publish my notes with git submodules and mkdocs
 - IT aphorisms
+- Ethical use of AI. "Do no harm", cite AI as a contributor, editor, primary author, etc. 100% human authored will become increasingly more rare and valuable as ai generated slop fills greater percentages of content. AI generated content should cite it's source, it's disingenous and ethically dubious to posit content, code, work product, etc as derived primarily or 100% by the efforts of the author rather. Alignment could pose a serious existential risk and great care should be taken in the user of ai to ensure continued alignment. This should be an inalienable minimum ethical standard.
 
 ## The real business value of AI
 
@@ -78,6 +79,7 @@ It should be used to reduce toil, make inefficient manual or laborious processes
 There's also issues with alignment and replacing human's with ai can have unintended consequences. This isn't something that can be implemented by fiat of corporate policy and hope to be as successful, or worse detrimental to the bottom line. It's not a silver bullet, it's a tool. A really powerful tool but a tool nonetheless.
 
 replacing workforce with ai only improves this quarters p & l, this shouldn't be a long-term strategy
+
 ## Book Ideas
 
 ### Ansible for Windows
