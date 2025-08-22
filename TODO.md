@@ -13,7 +13,7 @@ tags:
 - [ ] Rebuild website(s) with pandoc + make
 - [ ] Resume as a texinfo, html, man-page, curl-enabled, all with make
     - [ ] blog post because it's neat and show off portfolio, etc
-
+- [ ] Fix linux_system_roles.sudo bug
 ## RHCSA
 
 - [ ] Firewall
@@ -28,7 +28,7 @@ tags:
 
 - [ ] Version control Anki decks with Git?
 
-# Blog Ideas
+## Blog Ideas
 
 - [ ] How I studied for the RHCSA
 - [ ] Resume with make
@@ -44,7 +44,7 @@ tags:
 - Committing and pushing code in GitLab CI pipeilnes.
 - GitLab CI + pre-commit for validation
 
-# Book Ideas
+## Book Ideas
 
 - [ ] Ansible for Windows
   - Windows patching
@@ -97,4 +97,9 @@ tags:
         - map
         - merge
         - filtering
-    - 
+
+## Portfolio projects
+
+- [ ] Implement linux_system_roles.fapolicyd feature request
+- [ ] Implement cisagov.upgrade reboot feature
+- [ ] Rewrite plus3it/spel "ansibleize" their bash scripts, or produce ansible role/collection that does this idempotently. Add RHEL for SAP support.

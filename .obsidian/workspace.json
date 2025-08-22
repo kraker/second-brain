@@ -393,10 +393,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20250821203207-selinux.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250821203207-selinux"
+              "title": "File properties for TODO"
             }
           },
           {
@@ -431,11 +431,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ecece88a6bc19ee",
+  "active": "9bf4e56b02d17dc1",
   "lastOpenFiles": [
+    "20250821203207-selinux.md",
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
-    "20250821203207-selinux.md",
     "20250821214131-nsa.md",
     "20250821214714.md",
     "20220726085334-vagrant.md",
