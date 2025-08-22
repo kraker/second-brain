@@ -141,7 +141,7 @@ drwxrwxrwt. 12 root root 4096 Feb 23 16:03 /var/tmp
 
 ## Access Control Lists
 
-* [Access Control Lists](20210628143348-access-control-list.md)
+* [Access Control Lists](20210628143348-acl.md)
 
 ## Umask
 

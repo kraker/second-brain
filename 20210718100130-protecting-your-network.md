@@ -18,7 +18,7 @@ date: 2021-07-18T10:01:00Z
 * [Insider threat-malicious employee](20210722085339-insider-threat-malicious-employee.md)
 * [VLAN hopping](20210722090424-vlan-hopping.md)
 * Administrative access control
-	* [Access-control list](20210628143348-access-control-list.md)
+	* [Access-control list](20210628143348-acl.md)
 * [Malware](20210722090718-malware.md)
 * [Social Engineering](20210722092208-social-engineering.md)
 
