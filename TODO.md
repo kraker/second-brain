@@ -82,6 +82,12 @@ replacing workforce with ai only improves this quarters p & l, this shouldn't be
 
 ## Book Ideas
 
+- A book on self-hosting everything, degoogling, etc.
+    - copyparty?
+    - nextcloud?
+    - mini servers, old laptops/old hardware, raspberry pi
+    - along the lines of the original "lifehacker" book and the subsequent "lifehacker" site and /r/selfhosted, for the layperson, diy'er, most techies tend to have their own homelab
+
 ### Ansible for Windows
 
 - Windows patching
@@ -146,3 +152,10 @@ replacing workforce with ai only improves this quarters p & l, this shouldn't be
 - [ ] Implement cisagov.upgrade reboot feature
 - [ ] Rewrite plus3it/spel "ansibleize" their bash scripts, or produce ansible role/collection that does this idempotently. Add RHEL for SAP support.
 - [ ] The Cloud Resume Challenge
+
+## Business ideas
+
+RHCSA study app. 
+
+There aren't any good apps for studying for the RHCSA exams. The fact that it's a practical exam may pose certain challenges. Still though, MVP might just be curated flashcards similar to other CompTIA apps in the space, since some people derive value out of those and may be willing to pay a few bucks for it. Maybe able to reinvest any revenue into developing UI for labs on mobile.
+
