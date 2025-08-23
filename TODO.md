@@ -16,7 +16,7 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
 ## RHCSA
 
 - [ ] Firewall
-- [ ] SELinux
+- [X] SELinux
 - [X] Containers
 - [ ] Networking
 - [ ] NFS + autofs
