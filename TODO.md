@@ -1,7 +1,7 @@
 ---
 title: TODO
 date: 2025-08-20T11:13:30Z
-modified: 2025-08-22T10:36:21Z
+modified: 2025-08-22T22:01:46Z
 tags: ['todo', 'gtd', 'ideas', 'blog']
 ---
 
@@ -12,6 +12,7 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
 - [ ] Resume as a texinfo, html, man-page, curl-enabled, all with make
     - [ ] blog post because it's neat and show off portfolio, etc
 - [ ] Fix linux_system_roles.sudo bug
+- [ ] Purchase Linux+ exam
 
 ## RHCSA
 
@@ -54,7 +55,7 @@ Rather than focusing on AI as a workforce or labor replacement, focus on trainin
 
 This is oversimplifying delivery of value. This frequently goes along with measuring the wrong things... "metrics" or "key performance indicators" in corporate speak.
 
-How do you effectively measure delivery of value? Is it _lines of code_ (LOC), is it number of commits? Is it number of pull-requests? 
+How do you effectively measure delivery of value? Is it _lines of code_ (LOC), is it number of commits? Is it number of pull-requests?
 
 > What get's measured get's managed...
 
@@ -64,7 +65,7 @@ In call center work there's "customer satisfaction", "contacts per hour", etc. B
 
 If bonuses are tied to contacts/hr, ticket close rates, etc. savvy tech's will game the system and hit those bonus metrics every pay-period, but at what cost to the customer? The value proposition is murky at best, or maybe customer's just never get their issues resolved and never call back, they find a different way to solve their issue or not at all.
 
-FCR, might be one of the only metrics that matters in the context. maybe the call is 45 minutes long and just kills your contacts or close rate, but if their issue is resolved... permanently. The overall labor savings are probably greater than if they had to tie up multiple reps in multiple mediums or escalate multiple tiers. Worse if they submit a complaint or there's the very real risk if they're dissatisfied of losing their revenue forever. 
+FCR, might be one of the only metrics that matters in the context. maybe the call is 45 minutes long and just kills your contacts or close rate, but if their issue is resolved... permanently. The overall labor savings are probably greater than if they had to tie up multiple reps in multiple mediums or escalate multiple tiers. Worse if they submit a complaint or there's the very real risk if they're dissatisfied of losing their revenue forever.
 
 Measuring what matters and is the greatest value is a hard problem to solve. I think it's a penny wise and a pound foolish to make the kind of bets on ai workforce replacement that results in layoffs.
 
@@ -155,7 +156,6 @@ replacing workforce with ai only improves this quarters p & l, this shouldn't be
 
 ## Business ideas
 
-RHCSA study app. 
+RHCSA study app.
 
 There aren't any good apps for studying for the RHCSA exams. The fact that it's a practical exam may pose certain challenges. Still though, MVP might just be curated flashcards similar to other CompTIA apps in the space, since some people derive value out of those and may be willing to pay a few bucks for it. Maybe able to reinvest any revenue into developing UI for labs on mobile.
-

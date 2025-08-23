@@ -112,12 +112,12 @@
         "dimension": 55.42959427207638,
         "children": [
           {
-            "id": "7603c54fdcbe6326",
+            "id": "5f054753b47544a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250820105719-podman.md",
+                "file": "20210626094136-firewall.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -132,131 +132,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250820105719-podman"
-            }
-          },
-          {
-            "id": "ef55e1784578037d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220726085334-vagrant.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220726085334-vagrant"
-            }
-          },
-          {
-            "id": "5ecece88a6bc19ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250821203207-selinux.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250821203207-selinux"
-            }
-          },
-          {
-            "id": "e2ff8207b4d4331c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250821214856-mls.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250821214856-mls"
-            }
-          },
-          {
-            "id": "cf90c0bbec06a540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250821214931-mcs.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250821214931-mcs"
-            }
-          },
-          {
-            "id": "6e8f67c35ecd5187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250821115405-ssg.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250821115405-ssg"
+              "title": "20210626094136-firewall"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -417,10 +296,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO.md"
+                "file": "20210626094136-firewall.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for TODO"
+              "title": "File properties for 20210626094136-firewall"
             }
           },
           {
@@ -455,17 +334,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4e56b02d17dc1",
+  "active": "5f054753b47544a1",
   "lastOpenFiles": [
-    "20250821115405-ssg.md",
-    "TODO.md",
+    "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
+    "20210626094136-firewall.md",
+    "20220513122736-linux-firewall.md",
+    "20250820105719-podman.md",
+    "20220726085334-vagrant.md",
     "20250821203207-selinux.md",
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
+    "20250821115405-ssg.md",
+    "TODO.md",
     "20250821214131-nsa.md",
     "20250821214714.md",
-    "20220726085334-vagrant.md",
-    "20250820105719-podman.md",
     "20230319223600-containerization.md",
     "20250821212800-openshift.md",
     "20210623143149-access-control.md",
@@ -480,9 +362,6 @@
     "20220315174137-mac.md",
     "20250821203751-mac.md",
     "20201010174635-mac.md",
-    "20201009143255-mac-address.md",
-    "20240217082600-rhcsa-notes.md",
-    "20250820105433.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
