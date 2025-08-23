@@ -28,10 +28,7 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
     - [ ] Put away work computer and KVM switch
     - [ ] Connect/test ethernet
     - [ ] Vacuum futon
-- [ ] Firewall
-  - [X] Intro
-  - [ ] Exercises
-  - [ ] Challenge Labs
+- [X] Firewall
 - [X] SELinux
 - [X] Containers
 - [ ] Networking

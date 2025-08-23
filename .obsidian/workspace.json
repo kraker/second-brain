@@ -80,8 +80,7 @@
               "title": "20231109085400-rhcsa"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4ae561fc06fdb7c2",
@@ -273,10 +272,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20240217082600-rhcsa-notes.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20240217082600-rhcsa-notes"
+              "title": "File properties for TODO"
             }
           },
           {
@@ -311,8 +310,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d207b3d675c3d61",
+  "active": "9bf4e56b02d17dc1",
   "lastOpenFiles": [
+    "20240217082600-rhcsa-notes.md",
     "TODO.md",
     "20250728171400-rhcsa-review.md",
     "20210626094136-firewall.md",
@@ -338,7 +338,6 @@
     "20250821205445-dac.md",
     "20220319105401-rbac.md",
     "20210628143348-acl.md",
-    "20220315174137-mac.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
