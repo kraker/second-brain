@@ -80,8 +80,7 @@
               "title": "20231109085400-rhcsa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4ae561fc06fdb7c2",
@@ -298,10 +297,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20250821115405-ssg.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20250821115405-ssg"
+              "title": "File properties for TODO"
             }
           },
           {
@@ -336,9 +335,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a283d5206e5b2ab3",
+  "active": "9bf4e56b02d17dc1",
   "lastOpenFiles": [
     "20250728171400-rhcsa-review.md",
+    "20250821115405-ssg.md",
     "TODO.md",
     "20240217082600-rhcsa-notes.md",
     "20210626094136-firewall.md",
@@ -350,7 +350,6 @@
     "20250821203207-selinux.md",
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
-    "20250821115405-ssg.md",
     "20250821214131-nsa.md",
     "20250821214714.md",
     "20230319223600-containerization.md",

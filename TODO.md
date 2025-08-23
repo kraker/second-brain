@@ -2,7 +2,13 @@
 title: TODO
 date: 2025-08-20T11:13:30Z
 modified: 2025-08-23T14:05:21Z
-tags: ['todo', 'gtd', 'ideas', 'blog']
+tags: 
+  - 'todo'
+  - 'gtd'
+  - 'ideas'
+  - 'blog'
+  - 'projects'
+  - 'portfolio'
 ---
 
 # TODO
@@ -17,6 +23,8 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
     - [ ] CompTIA flashcards app?
     - [ ] Exam coupon/discount code + purchase voucher?
     - [ ] Schedule exam
+- [ ] Order paul's birthday present? Baofeng radio or sharpening stones?
+- [ ] Belated birthday present for Chelsea?
 
 ## RHCSA
 
