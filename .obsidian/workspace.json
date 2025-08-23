@@ -6,6 +6,7 @@
       {
         "id": "6580b9870070cf4e",
         "type": "tabs",
+        "dimension": 44.92840095465394,
         "children": [
           {
             "id": "9bf4e56b02d17dc1",
@@ -78,7 +79,15 @@
               "icon": "lucide-file",
               "title": "20231109085400-rhcsa"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4ae561fc06fdb7c2",
+        "type": "tabs",
+        "dimension": 55.07159904534606,
+        "children": [
           {
             "id": "3d207b3d675c3d61",
             "type": "leaf",
@@ -264,10 +273,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TODO.md"
+                "file": "20240217082600-rhcsa-notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for TODO"
+              "title": "File properties for 20240217082600-rhcsa-notes"
             }
           },
           {
@@ -302,10 +311,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4e56b02d17dc1",
+  "active": "3d207b3d675c3d61",
   "lastOpenFiles": [
-    "20250728171400-rhcsa-review.md",
     "TODO.md",
+    "20250728171400-rhcsa-review.md",
     "20210626094136-firewall.md",
     "20250822223351-firewalld.md",
     "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",

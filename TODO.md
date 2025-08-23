@@ -1,7 +1,7 @@
 ---
 title: TODO
 date: 2025-08-20T11:13:30Z
-modified: 2025-08-22T22:01:46Z
+modified: 2025-08-23T12:27:00Z
 tags: ['todo', 'gtd', 'ideas', 'blog']
 ---
 
