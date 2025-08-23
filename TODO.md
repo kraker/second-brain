@@ -8,19 +8,40 @@ tags: ['todo', 'gtd', 'ideas', 'blog']
 # TODO
 
 - [ ] Store RH subscription envvars persistently and load automatically
-- [ ] Rebuild website(s) with pandoc + make
+- [ ] Rebuild website(s) with pandoc + make. Simpler is better
 - [ ] Resume as a texinfo, html, man-page, curl-enabled, all with make
     - [ ] blog post because it's neat and show off portfolio, etc
 - [ ] Fix linux_system_roles.sudo bug
-- [ ] Purchase Linux+ exam
+- Linux+
+    - [ ] Need crib-notes, "cliff notes", crib-sheet, or study guide for seasoned linux admin
+    - [ ] CompTIA flashcards app?
+    - [ ] Exam coupon/discount code + purchase voucher?
+    - [ ] Schedule exam
 
 ## RHCSA
 
+- [ ] Clean office
+    - [ ] Cleanup trash
+    - [ ] Sweep floor
+    - [ ] Clear 2nd desk
+    - [ ] Move and/or dismantle 2nd desk?
+    - [ ] Put away work computer and KVM switch
+    - [ ] Connect/test ethernet
+    - [ ] Vacuum futon
 - [ ] Firewall
+  - [X] Intro
+  - [ ] Exercises
+  - [ ] Challenge Labs
 - [X] SELinux
 - [X] Containers
 - [ ] Networking
+  - [ ] Intro
+  - [ ] Exercises
+  - [ ] Challenge Labs
 - [ ] NFS + autofs
+  - [ ] Intro
+  - [ ] Exercises
+  - [ ] Challenge Labs
 - [ ] Review
 - [ ] Mock Exam
 - [ ] Make USB

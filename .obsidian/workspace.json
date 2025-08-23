@@ -6,7 +6,6 @@
       {
         "id": "6580b9870070cf4e",
         "type": "tabs",
-        "dimension": 44.57040572792363,
         "children": [
           {
             "id": "9bf4e56b02d17dc1",
@@ -102,37 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "20240217082600-rhcsa-notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1d3a0a4dc2c52934",
-        "type": "tabs",
-        "dimension": 55.42959427207638,
-        "children": [
-          {
-            "id": "5f054753b47544a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210626094136-firewall.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20210626094136-firewall"
             }
           }
         ]
@@ -296,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "20210626094136-firewall.md"
+                "file": "TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 20210626094136-firewall"
+              "title": "File properties for TODO"
             }
           },
           {
@@ -334,10 +302,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f054753b47544a1",
+  "active": "9bf4e56b02d17dc1",
   "lastOpenFiles": [
-    "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
+    "20250728171400-rhcsa-review.md",
+    "TODO.md",
     "20210626094136-firewall.md",
+    "20250822223351-firewalld.md",
+    "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
     "20220513122736-linux-firewall.md",
     "20250820105719-podman.md",
     "20220726085334-vagrant.md",
@@ -345,7 +316,6 @@
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
     "20250821115405-ssg.md",
-    "TODO.md",
     "20250821214131-nsa.md",
     "20250821214714.md",
     "20230319223600-containerization.md",
@@ -360,8 +330,6 @@
     "20220319105401-rbac.md",
     "20210628143348-acl.md",
     "20220315174137-mac.md",
-    "20250821203751-mac.md",
-    "20201010174635-mac.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
