@@ -25,6 +25,7 @@ tags:
     - [ ] Schedule exam
 - [ ] Order paul's birthday present? Baofeng radio or sharpening stones?
 - [ ] Belated birthday present for Chelsea?
+- [ ] Purchase RHCE exam voucher
 
 ## RHCSA
 
