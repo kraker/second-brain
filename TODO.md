@@ -42,15 +42,15 @@ tags:
 - [X] Networking
   - [X] Intro
   - [X] Exercises
-  - [ ] Challenge Labs
 - [ ] NFS + autofs
-  - [ ] Intro
-  - [ ] Exercises
+  - [X] Intro
+  - [X] Exercises
   - [ ] Challenge Labs
 - [ ] Review
 - [ ] Mock Exam
-- [ ] Make USB
-    - [ ] Hardware test
+- [X] Make USB
+    - [X] Hardware test
+    - [ ] 2nd hw test after desk setup
 
 # Ideas
 
