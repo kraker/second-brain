@@ -114,6 +114,9 @@ replacing workforce with ai only improves this quarters p & l, this shouldn't be
     - nextcloud?
     - mini servers, old laptops/old hardware, raspberry pi
     - along the lines of the original "lifehacker" book and the subsequent "lifehacker" site and /r/selfhosted, for the layperson, diy'er, most techies tend to have their own homelab
+- RHCSA crib notes for seasoned admin going after the cert
+- Automate the boring stuff with Bash
+- Bash'isms?
 
 ### Ansible for Windows
 
