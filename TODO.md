@@ -39,7 +39,7 @@ tags:
 - [X] Firewall
 - [X] SELinux
 - [X] Containers
-- [ ] Networking
+- [X] Networking
   - [X] Intro
   - [X] Exercises
   - [ ] Challenge Labs
