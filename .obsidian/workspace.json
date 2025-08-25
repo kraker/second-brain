@@ -11,6 +11,7 @@
           {
             "id": "9bf4e56b02d17dc1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -28,32 +29,9 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TODO"
-            }
-          },
-          {
-            "id": "aea3ea0ab533c96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250728171400-rhcsa-review.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250728171400-rhcsa-review"
             }
           },
           {
@@ -80,7 +58,8 @@
               "title": "20231109085400-rhcsa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4ae561fc06fdb7c2",
@@ -94,7 +73,7 @@
               "type": "markdown",
               "state": {
                 "file": "20240217082600-rhcsa-notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -112,13 +91,13 @@
             }
           },
           {
-            "id": "a283d5206e5b2ab3",
+            "id": "aea3ea0ab533c96e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250821115405-ssg.md",
-                "mode": "source",
+                "file": "20250728171400-rhcsa-review.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -132,7 +111,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250821115405-ssg"
+              "title": "20250728171400-rhcsa-review"
             }
           }
         ],
@@ -335,12 +314,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4e56b02d17dc1",
+  "active": "aea3ea0ab533c96e",
   "lastOpenFiles": [
-    "20250821115405-ssg.md",
-    "TODO.md",
-    "20250728171400-rhcsa-review.md",
     "20240217082600-rhcsa-notes.md",
+    "20250728171400-rhcsa-review.md",
+    "20231109085400-rhcsa.md",
+    "TODO.md",
+    "20250821115405-ssg.md",
     "20210626094136-firewall.md",
     "20250822223351-firewalld.md",
     "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
@@ -362,7 +342,6 @@
     "20220105072936-pandoc.md",
     "20250821205445-dac.md",
     "20220319105401-rbac.md",
-    "20210628143348-acl.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
