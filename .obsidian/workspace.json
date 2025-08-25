@@ -6,7 +6,7 @@
       {
         "id": "6580b9870070cf4e",
         "type": "tabs",
-        "dimension": 44.92840095465394,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "9bf4e56b02d17dc1",
@@ -57,47 +57,15 @@
               "icon": "lucide-file",
               "title": "20231109085400-rhcsa"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4ae561fc06fdb7c2",
-        "type": "tabs",
-        "dimension": 55.07159904534606,
-        "children": [
-          {
-            "id": "3d207b3d675c3d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240217082600-rhcsa-notes.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20240217082600-rhcsa-notes"
-            }
           },
           {
-            "id": "aea3ea0ab533c96e",
+            "id": "bf36694c3bd0d8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250728171400-rhcsa-review.md",
-                "mode": "preview",
+                "file": "20250825171608-.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -111,11 +79,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250728171400-rhcsa-review"
+              "title": "20250825171608-"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,12 +281,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aea3ea0ab533c96e",
+  "active": "9bf4e56b02d17dc1",
   "lastOpenFiles": [
-    "20240217082600-rhcsa-notes.md",
-    "20250728171400-rhcsa-review.md",
+    "20250825171608-.md",
     "20231109085400-rhcsa.md",
     "TODO.md",
+    "20250728171400-rhcsa-review.md",
+    "20240217082600-rhcsa-notes.md",
     "20250821115405-ssg.md",
     "20210626094136-firewall.md",
     "20250822223351-firewalld.md",
@@ -341,7 +309,6 @@
     "20250821211018-abac.md",
     "20220105072936-pandoc.md",
     "20250821205445-dac.md",
-    "20220319105401-rbac.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",

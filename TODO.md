@@ -1,7 +1,7 @@
 ---
 title: TODO
 date: 2025-08-20T11:13:30Z
-modified: 2025-08-25T07:02:16Z
+modified: 2025-08-25T17:15:43Z
 tags: 
   - 'todo'
   - 'gtd'
@@ -13,7 +13,6 @@ tags:
 
 # TODO
 
-- [ ] Store RH subscription envvars persistently and load automatically
 - [ ] Rebuild website(s) with pandoc + make. Simpler is better
 - [ ] Resume as a texinfo, html, man-page, curl-enabled, all with make
     - [ ] blog post because it's neat and show off portfolio, etc
@@ -25,33 +24,8 @@ tags:
     - [ ] Schedule exam
 - [ ] Order paul's birthday present? Baofeng radio or sharpening stones?
 - [ ] Belated birthday present for Chelsea?
-- [ ] Purchase RHCE exam voucher
-
-## RHCSA
-
-- [ ] Clean office
-    - [ ] Cleanup trash
-    - [ ] Sweep floor
-    - [ ] Clear 2nd desk
-    - [ ] Move and/or dismantle 2nd desk?
-    - [ ] Put away work computer and KVM switch
-    - [ ] Connect/test ethernet
-    - [ ] Vacuum futon
-- [X] Firewall
-- [X] SELinux
-- [X] Containers
-- [X] Networking
-  - [X] Intro
-  - [X] Exercises
-- [ ] NFS + autofs
-  - [X] Intro
-  - [X] Exercises
-  - [ ] Challenge Labs
-- [ ] Review
-- [ ] Mock Exam
-- [X] Make USB
-    - [X] Hardware test
-    - [ ] 2nd hw test after desk setup
+- [X] Purchase RHCE exam voucher
+- [ ] De-DRM RHCE 8 Cert Guide
 
 # Ideas
 
