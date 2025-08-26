@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bf4e56b02d17dc1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
             "id": "65933b632d56b154",
             "type": "leaf",
             "state": {
@@ -79,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "20250825231844-rhce"
+            }
+          },
+          {
+            "id": "c304ddc073f50005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ],
@@ -281,12 +279,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd550d8a4fe60c74",
+  "active": "c304ddc073f50005",
   "lastOpenFiles": [
-    "20250825231844-rhce.md",
     "TODO.md",
-    "20231109085400-rhcsa.md",
     "20250821115405-ssg.md",
+    "TODO.md",
+    "20250825231844-rhce.md",
+    "20231109085400-rhcsa.md",
     "20250825171608-.md",
     "20250728171400-rhcsa-review.md",
     "20240217082600-rhcsa-notes.md",
@@ -308,7 +307,6 @@
     "20250820105426-oci.md",
     "20250815091039-ext.md",
     "20250821211018-abac.md",
-    "20220105072936-pandoc.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
