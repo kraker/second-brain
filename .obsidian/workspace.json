@@ -54,9 +54,16 @@
               "icon": "lucide-file",
               "title": "20250825231844-rhce"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cab82f1924ba84dc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c304ddc073f50005",
+            "id": "a493e13054c74b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +86,7 @@
               "title": "TODO"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +285,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c304ddc073f50005",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "TODO.md",
     "20250821115405-ssg.md",
