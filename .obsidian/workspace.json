@@ -85,8 +85,33 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "e83e8f554fffd459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250826214046-isms.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250826214046-isms"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,10 +310,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "e83e8f554fffd459",
   "lastOpenFiles": [
-    "20250825231844-rhce.md",
+    "20250826214046-isms.md",
     "TODO.md",
+    "20250825231844-rhce.md",
     "20250821115405-ssg.md",
     "20231109085400-rhcsa.md",
     "20250825171608-.md",
