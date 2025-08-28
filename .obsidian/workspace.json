@@ -6,11 +6,11 @@
       {
         "id": "6580b9870070cf4e",
         "type": "tabs",
-        "dimension": 43.854415274463,
         "children": [
           {
             "id": "a493e13054c74b07",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -28,6 +28,7 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "TODO"
             }
@@ -55,15 +56,7 @@
               "icon": "lucide-file",
               "title": "20250825231844-rhce"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "79424f0ea0388f09",
-        "type": "tabs",
-        "dimension": 56.14558472553699,
-        "children": [
+          },
           {
             "id": "705b46fd6005d1f4",
             "type": "leaf",
@@ -86,6 +79,18 @@
               },
               "icon": "lucide-file",
               "title": "20250821203207-selinux"
+            }
+          },
+          {
+            "id": "54009524daaab9d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ]
@@ -287,7 +292,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c59e98a3997a4bd7",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "20250821203207-selinux.md",
     "20250825231844-rhce.md",
