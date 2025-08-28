@@ -6,14 +6,15 @@
       {
         "id": "6580b9870070cf4e",
         "type": "tabs",
+        "dimension": 47.43436754176611,
         "children": [
           {
-            "id": "65933b632d56b154",
+            "id": "a493e13054c74b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250821115405-ssg.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,31 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250821115405-ssg"
-            }
-          },
-          {
-            "id": "cd550d8a4fe60c74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250825231844-rhce.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250825231844-rhce"
+              "title": "TODO"
             }
           },
           {
@@ -79,20 +56,20 @@
               "title": "20250821203207-selinux"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "cab82f1924ba84dc",
+        "id": "79424f0ea0388f09",
         "type": "tabs",
+        "dimension": 52.56563245823389,
         "children": [
           {
-            "id": "a493e13054c74b07",
+            "id": "c59e98a3997a4bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "20250825231844-rhce.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -107,7 +84,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "20250825231844-rhce"
             }
           }
         ]
@@ -309,13 +286,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "705b46fd6005d1f4",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "20250825231844-rhce.md",
+    "20250821203207-selinux.md",
     "TODO.md",
+    "20250821115405-ssg.md",
     "20210901065232-learning.md",
     "20250826214046-isms.md",
-    "20250821115405-ssg.md",
     "20231109085400-rhcsa.md",
     "20250825171608-.md",
     "20250728171400-rhcsa-review.md",
@@ -326,7 +304,6 @@
     "20220513122736-linux-firewall.md",
     "20250820105719-podman.md",
     "20220726085334-vagrant.md",
-    "20250821203207-selinux.md",
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
     "20250821214131-nsa.md",
