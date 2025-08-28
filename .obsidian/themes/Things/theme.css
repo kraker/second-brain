@@ -1,6 +1,6 @@
 /*───────────────────────────────────────────────────────
 THINGS
-Version 2.1.13
+Version 2.1.20
 Created by @colineckert
 
 Readme:
@@ -53,6 +53,12 @@ body {
   --highlight-background-color--normal: hsl(50deg 100% 50% / 15%) !important;
   --highlight-background-color-underline: hsl(50deg 100% 50% / 100%) !important;
   --highlight-background-color--active: hsl(50deg 100% 50% / 20%) !important;
+
+  --progress-color-1: #ad5758;
+  --progress-color-2: #b87f4c;
+  --progress-color-3: #d2b874;
+  --progress-color-4: #b0c07e;
+  --progress-color-5: #768399;
 
   /* Font families */
   --font-text-theme: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
@@ -334,13 +340,10 @@ body:not(.default-font-color) mark em {
   color: var(--text-normal);
 }
 
-/* Highlight styling */
-span.cm-highlight,
-.markdown-preview-view mark,
-span.search-result-file-matched-text {
-  padding: 0.05em 0;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
+/* Fancy highlight */
+body.fancy-highlight span.cm-highlight,
+body.fancy-highlight .markdown-preview-view mark,
+body.fancy-highlight span.search-result-file-matched-text {
   background-image: linear-gradient(
     0deg,
     var(--highlight-background-color-underline) 0%,
@@ -396,14 +399,126 @@ body.active-line .cm-active.HyperMD-quote::before {
   white-space: pre;
 }
 
+/* Fancy code blocks */
+.cm-inline-code,
+.cm-s-obsidian .HyperMD-codeblock,
+.markdown-preview-view.markdown-preview-view :is(pre, code) {
+  --codeblock-border: var(--color-base-30);
+  --codeblock-roundness: var(--radius-s);
+  --code-block-alt-bg: var(--color-base-30);
+  --slight-code-roundish: var(--radius-xs);
+}
+
+body.fancy-code .cm-s-obsidian .HyperMD-codeblock {
+  line-height: 1.4em;
+}
+
+body.fancy-code .HyperMD-codeblock-begin {
+  counter-reset: codeblock-line-numbers;
+}
+
+body.fancy-code
+  .HyperMD-codeblock:not(
+    .HyperMD-codeblock-begin,
+    .HyperMD-codeblock-end
+  )::before {
+  counter-increment: codeblock-line-numbers;
+  content: counter(codeblock-line-numbers);
+  font-size: 0.75em;
+  line-height: 2;
+  text-align: right;
+  height: 100%;
+  width: 1.7em;
+  color: var(--text-muted);
+  /* background-color: #1e2029; */
+  background-color: var(--code-background);
+  position: absolute;
+  left: 0;
+  padding-right: 1.4em;
+}
+
+body.fancy-code
+  .HyperMD-codeblock.cm-line:not(
+    .HyperMD-codeblock-begin,
+    .HyperMD-codeblock-end
+  ) {
+  padding-left: 2.8em;
+}
+
+body.fancy-code .cm-s-obsidian div.HyperMD-codeblock-begin-bg {
+  background-color: var(--code-block-alt-bg);
+  border: var(--codeblock-border);
+  border-bottom: none;
+  border-top-right-radius: var(--codeblock-roundness);
+  border-top-left-radius: var(--codeblock-roundness);
+}
+
+body.fancy-code div.HyperMD-codeblock-bg:not(.HyperMD-codeblock-begin-bg) {
+  border-right: var(--codeblock-border);
+  border-left: var(--codeblock-border);
+}
+
+body.fancy-code .cm-line.HyperMD-codeblock .code-block-flair {
+  font-size: calc(var(--code-size) * 0.9);
+  color: var(--text-muted);
+  padding: 0 1px;
+  top: 0;
+}
+
+body.fancy-code .markdown-reading-view pre[class*='language-']::before {
+  display: block;
+  content: ' ';
+  line-height: 1.5em;
+  background-color: var(--code-block-alt-bg);
+  border-top-right-radius: calc(var(--codeblock-roundness) * 0.8);
+  border-top-left-radius: calc(var(--codeblock-roundness) * 0.8);
+}
+
+body.fancy-code pre[class*='language-']::after {
+  content: attr(class);
+  font-size: 0.9rem;
+  text-shadow: none;
+  color: var(--text-muted);
+  position: absolute;
+  top: 2px;
+  right: 5px;
+}
+
+body.fancy-code .markdown-preview-view pre code {
+  padding: var(--size-4-1) var(--size-4-2);
+}
+
+body.fancy-code .copy-code-button.copy-code-button.copy-code-button {
+  background-color: var(--interactive-normal);
+  top: unset;
+  bottom: 0;
+  padding: 0 var(--size-2-2);
+}
+
+body.fancy-code .markdown-preview-view.markdown-preview-view pre {
+  padding: 0;
+  margin-top: var(--size-4-2);
+  border: var(--codeblock-border);
+  border-radius: var(--codeblock-roundness);
+}
+
+body.fancy-code .markdown-reading-view .markdown-preview-view pre code {
+  display: block;
+}
+
+body.fancy-code .markdown-preview-view pre code {
+  padding: var(--size-4-1) var(--size-4-5);
+}
+
 /* ------------------- */
 /* One Dark Syntax Coloring */
 /* Source: https://github.com/AGMStudio/prism-theme-one-dark */
 /* ------------------- */
-.theme-light .token.comment {
+.theme-light .token.comment .theme-light .cm-comment {
   color: #ababab;
 }
 .theme-dark .token.comment,
+.theme-dark .cm-comment,
 .token.prolog,
 .token.doctype,
 .token.cdata {
@@ -411,33 +526,42 @@ body.active-line .cm-active.HyperMD-quote::before {
 }
 .token.punctuation,
 .token.plain-text,
-.token.parameter,
 .token.dom.variable,
 .cm-hmd-codeblock.cm-bracket {
-  color: var(--atom-gray-2) !important;
+  color: var(--atom-gray-2);
 }
+code[class*='language-'],
 .token.selector,
-.token.tag,
-.token.property,
-.token.property-access,
+.cm-tag,
 .token.dom.variable,
-span.token.variable,
-.cm-hmd-codeblock.cm-tag,
-.cm-variable,
+.token.tag,
+.cm-def,
+.token.parameter,
 .cm-property,
 .cm-qualifier {
   color: var(--atom-red);
 }
+.token.class-name,
+.token.maybe-class-name,
+.token.property-access,
+.token.constant,
+.token.builtin,
+.cm-variable-2,
+.cm-type,
+.cm-atom,
+code .cm-tag {
+  color: var(--atom-yellow);
+}
+.token.property,
 .token.boolean,
 .token.number,
 .token.symbol,
-.token.builtin,
 .token.attr-name,
 .token.deleted,
 .cm-attribute,
 .cm-number,
 .cm-property.cm-string {
-  color: var(--atom-orange) !important;
+  color: var(--atom-orange);
 }
 .token.string,
 .token.char,
@@ -460,19 +584,11 @@ span.token.variable,
 .cm-keyword {
   color: var(--atom-purple);
 }
-.cm-builtin,
+.cm-variable,
 .token.function,
 .token.method,
 .token.macro.property {
   color: var(--atom-blue);
-}
-.token.class-name,
-.token.constant,
-.cm-atom,
-code .cm-tag,
-.cm-variable-2,
-.cm-type {
-  color: var(--atom-yellow);
 }
 .token.regex,
 .token.important,
@@ -843,6 +959,50 @@ body:not(.tasks) li[data-task='D'].task-list-item.is-checked {
   color: var(--text-normal);
 }
 
+/* ------------------- */
+/* Progress bars styling. Credit Minimal theme: https://minimal.guide/progress-bars */
+/* Support @kepano - https://www.buymeacoffee.com/kepano */
+/* ------------------- */
+.progress-color {
+  .markdown-rendered progress,
+  .markdown-source-view.is-live-preview progress,
+  .markdown-preview-view progress {
+    &[value^='1']::-webkit-progress-value,
+    &[value^='2']::-webkit-progress-value,
+    &[value^='3']::-webkit-progress-value {
+      background-color: var(--progress-color-1);
+    }
+    &[value^='4']::-webkit-progress-value,
+    &[value^='5']::-webkit-progress-value {
+      background-color: var(--progress-color-2);
+    }
+    &[value^='6']::-webkit-progress-value,
+    &[value^='7']::-webkit-progress-value {
+      background-color: var(--progress-color-3);
+    }
+    &[value^='8']::-webkit-progress-value,
+    &[value^='9']::-webkit-progress-value {
+      background-color: var(--progress-color-4);
+    }
+    &[value='1']::-webkit-progress-value,
+    &[value='100']::-webkit-progress-value {
+      background-color: var(--progress-color-5);
+    }
+
+    &[value='0']::-webkit-progress-value,
+    &[value='2']::-webkit-progress-value,
+    &[value='3']::-webkit-progress-value,
+    &[value='4']::-webkit-progress-value,
+    &[value='5']::-webkit-progress-value,
+    &[value='6']::-webkit-progress-value,
+    &[value='7']::-webkit-progress-value,
+    &[value='8']::-webkit-progress-value,
+    &[value='9']::-webkit-progress-value {
+      background-color: var(--progress-color-1);
+    }
+  }
+}
+
 /* ─────────────────────────────────────────────────── */
 /* Plugins */
 /* ─────────────────────────────────────────────────── */
@@ -1042,6 +1202,23 @@ body:not(.no-kanban-styles)
   > textarea {
   background: transparent;
 }
+body .kanban-plugin__item-button-wrapper > button {
+  color: var(--text-muted);
+  font-weight: 400;
+  background: 0 0;
+  min-height: calc(var(--input-height) + 8px);
+}
+body .kanban-plugin__item-form .kanban-plugin__item-input-wrapper {
+  min-height: calc(var(--input-height) + 8px);
+  display: flex;
+  justify-content: center;
+}
+.kanban-plugin__item-input-wrapper textarea {
+  background-color: var(--background-primary);
+}
+.kanban-plugin__lane-items {
+  padding-bottom: 0;
+}
 
 /* ─────────────────────────────────────────────────── */
 /* Styles Settings */
@@ -1073,6 +1250,18 @@ settings:
         title: Highlight active line
         description: Change background color of current working line
         id: active-line
+        type: class-toggle
+        default: false
+    -
+        title: Fancy code blocks
+        description: Enable fancy numbered code blocks
+        id: fancy-code
+        type: class-toggle
+        default: false
+    -
+        title: Fancy highlighting
+        description: Enable fancy highlight styles with highlight underlines
+        id: fancy-highlight
         type: class-toggle
         default: false
     -
@@ -1177,6 +1366,47 @@ settings:
         type: variable-color
         format: hex
         default: '#FFFFFF' 
+    - 
+        id: progress-color
+        title: Progress colorful mode switcher
+        description: Toggle progress color scheme
+        type: class-toggle
+        default: false
+    - 
+        id: progress-color-1
+        title: progress 2-39% color
+        type: variable-color
+        opacity: true
+        format: hex
+        default: '#ad5758'
+    - 
+        id: progress-color-2
+        title: progress 40-59% color
+        type: variable-color
+        opacity: true
+        format: hex
+        default: '#b87f4c'
+    - 
+        id: progress-color-3
+        title: progress 60-79% color
+        type: variable-color
+        opacity: true
+        format: hex
+        default: '#d2b874'
+    - 
+        id: progress-color-4
+        title: progress 80-99% color
+        type: variable-color
+        opacity: true
+        format: hex
+        default: '#b0c07e'
+    - 
+        id: progress-color-5
+        title: progress 1,100% color
+        type: variable-color
+        opacity: true
+        format: hex
+        default: '#768399'
     - 
         id: headings
         title: Headings
