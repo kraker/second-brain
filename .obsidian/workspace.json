@@ -82,25 +82,13 @@
             }
           },
           {
-            "id": "54009524daaab9d4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
             "id": "14a003f97096a7f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20231109085400-rhcsa.md",
-                "mode": "source",
+                "file": "20240217082600-rhcsa-notes.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -114,16 +102,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20231109085400-rhcsa"
+              "title": "20240217082600-rhcsa-notes"
             }
           },
           {
-            "id": "ee93e7ceec86c596",
+            "id": "12ffbc9f1c4aaa22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250828233440-distributed-systems.md",
+                "file": "20250728171400-rhcsa-review.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -138,11 +126,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250828233440-distributed-systems"
+              "title": "20250728171400-rhcsa-review"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -341,19 +329,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee93e7ceec86c596",
+  "active": "14a003f97096a7f7",
   "lastOpenFiles": [
+    "20250728171400-rhcsa-review.md",
+    "20240217082600-rhcsa-notes.md",
     "20231109085400-rhcsa.md",
     "20250828233440-distributed-systems.md",
-    "TODO.md",
     "20250821203207-selinux.md",
     "20250825231844-rhce.md",
+    "TODO.md",
     "20250821115405-ssg.md",
     "20210901065232-learning.md",
     "20250826214046-isms.md",
     "20250825171608-.md",
-    "20250728171400-rhcsa-review.md",
-    "20240217082600-rhcsa-notes.md",
     "20210626094136-firewall.md",
     "20250822223351-firewalld.md",
     "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
