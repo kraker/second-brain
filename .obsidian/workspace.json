@@ -117,8 +117,7 @@
               "title": "20231109085400-rhcsa"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,12 +316,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "705b46fd6005d1f4",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20250821203207-selinux.md",
     "20250825231844-rhce.md",
     "TODO.md",
     "20231109085400-rhcsa.md",
-    "20250821203207-selinux.md",
     "20250821115405-ssg.md",
     "20210901065232-learning.md",
     "20250826214046-isms.md",
