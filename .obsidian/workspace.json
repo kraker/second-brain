@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "20250825231844-rhce.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -91,8 +91,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,15 +290,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "897b0e493a43554f",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20250825231844-rhce.md",
     "20220311200359-ansible.md",
+    "TODO.md",
     "20250728171400-rhcsa-review.md",
     "20240320095100-dnf.md",
     "20240320094900-package-management.md",
     "20240217082600-rhcsa-notes.md",
-    "20250825231844-rhce.md",
-    "TODO.md",
     "20250821203207-selinux.md",
     "20231109085400-rhcsa.md",
     "20250828233440-distributed-systems.md",
