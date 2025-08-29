@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,10 +291,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c59e98a3997a4bd7",
+  "active": "897b0e493a43554f",
   "lastOpenFiles": [
-    "TODO.md",
     "20250825231844-rhce.md",
+    "TODO.md",
     "20220311200359-ansible.md",
     "20250728171400-rhcsa-review.md",
     "20240320095100-dnf.md",
