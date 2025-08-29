@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "20250825231844-rhce.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,12 +58,12 @@
             }
           },
           {
-            "id": "705b46fd6005d1f4",
+            "id": "897b0e493a43554f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250821203207-selinux.md",
+                "file": "20220311200359-ansible.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -78,59 +78,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250821203207-selinux"
+              "title": "20220311200359-ansible"
             }
           },
           {
-            "id": "14a003f97096a7f7",
+            "id": "436a082cf12d98f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240217082600-rhcsa-notes.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20240217082600-rhcsa-notes"
-            }
-          },
-          {
-            "id": "12ffbc9f1c4aaa22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250728171400-rhcsa-review.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250728171400-rhcsa-review"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -329,15 +291,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14a003f97096a7f7",
+  "active": "897b0e493a43554f",
   "lastOpenFiles": [
+    "20220311200359-ansible.md",
     "20250728171400-rhcsa-review.md",
+    "20240320095100-dnf.md",
+    "20240320094900-package-management.md",
     "20240217082600-rhcsa-notes.md",
-    "20231109085400-rhcsa.md",
-    "20250828233440-distributed-systems.md",
-    "20250821203207-selinux.md",
     "20250825231844-rhce.md",
     "TODO.md",
+    "20250821203207-selinux.md",
+    "20231109085400-rhcsa.md",
+    "20250828233440-distributed-systems.md",
     "20250821115405-ssg.md",
     "20210901065232-learning.md",
     "20250826214046-isms.md",
@@ -354,9 +319,6 @@
     "20250821214714.md",
     "20230319223600-containerization.md",
     "20250821212800-openshift.md",
-    "20210623143149-access-control.md",
-    "20250821212511-orchestration.md",
-    "20250820105426-oci.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
