@@ -116,8 +116,33 @@
               "icon": "lucide-file",
               "title": "20231109085400-rhcsa"
             }
+          },
+          {
+            "id": "ee93e7ceec86c596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250828233440-distributed-systems.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250828233440-distributed-systems"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -316,12 +341,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "ee93e7ceec86c596",
   "lastOpenFiles": [
+    "20231109085400-rhcsa.md",
+    "20250828233440-distributed-systems.md",
+    "TODO.md",
     "20250821203207-selinux.md",
     "20250825231844-rhce.md",
-    "TODO.md",
-    "20231109085400-rhcsa.md",
     "20250821115405-ssg.md",
     "20210901065232-learning.md",
     "20250826214046-isms.md",
@@ -343,7 +369,6 @@
     "20210623143149-access-control.md",
     "20250821212511-orchestration.md",
     "20250820105426-oci.md",
-    "20250815091039-ext.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
