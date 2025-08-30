@@ -152,8 +152,33 @@
               "icon": "lucide-file",
               "title": "20220311200359-ansible"
             }
+          },
+          {
+            "id": "d197e566e516b013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250820105719-podman.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250820105719-podman"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -352,10 +377,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "d197e566e516b013",
   "lastOpenFiles": [
-    "JOBS.md",
     "TODO.md",
+    "JOBS.md",
     "20231109085400-rhcsa.md",
     "20240217082600-rhcsa-notes.md",
     "20250825231844-rhce.md",
