@@ -176,9 +176,33 @@
               "icon": "lucide-file",
               "title": "20250820105719-podman"
             }
+          },
+          {
+            "id": "0502eab58d22c557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250821115405-ssg.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250821115405-ssg"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -210,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,8 +401,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d197e566e516b013",
+  "active": "0502eab58d22c557",
   "lastOpenFiles": [
+    "20250820105719-podman.md",
     "TODO.md",
     "JOBS.md",
     "20231109085400-rhcsa.md",
@@ -398,7 +423,6 @@
     "20250822223351-firewalld.md",
     "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
     "20220513122736-linux-firewall.md",
-    "20250820105719-podman.md",
     "20220726085334-vagrant.md",
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
