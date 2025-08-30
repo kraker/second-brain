@@ -91,8 +91,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,11 +290,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "897b0e493a43554f",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20220311200359-ansible.md",
     "20250825231844-rhce.md",
     "TODO.md",
-    "20220311200359-ansible.md",
     "20250728171400-rhcsa-review.md",
     "20240320095100-dnf.md",
     "20240320094900-package-management.md",
