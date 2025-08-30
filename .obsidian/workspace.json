@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -401,8 +401,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0502eab58d22c557",
+  "active": "d197e566e516b013",
   "lastOpenFiles": [
+    "20250821115405-ssg.md",
     "20250820105719-podman.md",
     "TODO.md",
     "JOBS.md",
@@ -415,7 +416,6 @@
     "20240320094900-package-management.md",
     "20250821203207-selinux.md",
     "20250828233440-distributed-systems.md",
-    "20250821115405-ssg.md",
     "20210901065232-learning.md",
     "20250826214046-isms.md",
     "20250825171608-.md",
