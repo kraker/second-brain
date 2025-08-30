@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250825231844-rhce.md",
-                "mode": "source",
+                "file": "20231109085400-rhcsa.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250825231844-rhce"
+              "title": "20231109085400-rhcsa"
             }
           },
           {
@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "20220311200359-ansible.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -80,19 +80,8 @@
               "icon": "lucide-file",
               "title": "20220311200359-ansible"
             }
-          },
-          {
-            "id": "436a082cf12d98f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,17 +280,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c59e98a3997a4bd7",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "TODO.md",
-    "20250825231844-rhce.md",
     "20220311200359-ansible.md",
+    "20231109085400-rhcsa.md",
+    "20250825231844-rhce.md",
+    "TODO.md",
     "20250728171400-rhcsa-review.md",
     "20240320095100-dnf.md",
     "20240320094900-package-management.md",
     "20240217082600-rhcsa-notes.md",
     "20250821203207-selinux.md",
-    "20231109085400-rhcsa.md",
     "20250828233440-distributed-systems.md",
     "20250821115405-ssg.md",
     "20210901065232-learning.md",
