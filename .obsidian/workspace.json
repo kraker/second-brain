@@ -160,81 +160,9 @@
               "icon": "lucide-file",
               "title": "20250820105719-podman"
             }
-          },
-          {
-            "id": "4fb2146a805c437e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220726085334-vagrant.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220726085334-vagrant"
-            }
-          },
-          {
-            "id": "bedd003ca865d209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230319220500-virtualbox.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20230319220500-virtualbox"
-            }
-          },
-          {
-            "id": "d6d132d4456d1895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230305105049-proxmox.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20230305105049-proxmox"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -433,10 +361,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6d132d4456d1895",
+  "active": "51aca31d71dce84c",
   "lastOpenFiles": [
-    "20230319220500-virtualbox.md",
     "20220726085334-vagrant.md",
+    "20230319220500-virtualbox.md",
+    "20230305105049-proxmox.md",
     "20250820105719-podman.md",
     "20240217082600-rhcsa-notes.md",
     "20231109085400-rhcsa.md",
@@ -444,7 +373,6 @@
     "20220311200359-ansible.md",
     "JOBS.md",
     "TODO.md",
-    "20230305105049-proxmox.md",
     "20220216070507-homelab.md",
     "20250830184315-rpi.md",
     "20250821115405-ssg.md",
