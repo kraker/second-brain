@@ -232,7 +232,7 @@
               "type": "markdown",
               "state": {
                 "file": "20220216070507-homelab.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -247,6 +247,30 @@
               },
               "icon": "lucide-file",
               "title": "20220216070507-homelab"
+            }
+          },
+          {
+            "id": "8830f9ff0badf2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230305105049-proxmox.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20230305105049-proxmox"
             }
           },
           {
@@ -298,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -497,11 +521,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a664c45f66032d50",
+  "active": "8830f9ff0badf2d6",
   "lastOpenFiles": [
+    "20220216070507-homelab.md",
     "20220311200359-ansible.md",
     "20250820105719-podman.md",
-    "20220216070507-homelab.md",
     "20250830184315-rpi.md",
     "20250821115405-ssg.md",
     "TODO.md",
