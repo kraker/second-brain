@@ -321,8 +321,7 @@
               "title": "20220311200359-ansible"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -521,8 +520,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8830f9ff0badf2d6",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20230305105049-proxmox.md",
     "20220216070507-homelab.md",
     "20220311200359-ansible.md",
     "20250820105719-podman.md",
@@ -548,7 +548,6 @@
     "20220726085334-vagrant.md",
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
-    "20250821214131-nsa.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
