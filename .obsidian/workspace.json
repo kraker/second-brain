@@ -200,9 +200,105 @@
               "icon": "lucide-file",
               "title": "20250821115405-ssg"
             }
+          },
+          {
+            "id": "478afeb4171cd8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250830184315-rpi.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250830184315-rpi"
+            }
+          },
+          {
+            "id": "a664c45f66032d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220216070507-homelab.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20220216070507-homelab"
+            }
+          },
+          {
+            "id": "51aca31d71dce84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250820105719-podman.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250820105719-podman"
+            }
+          },
+          {
+            "id": "ec826a5c78512ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220311200359-ansible.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20220311200359-ansible"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -234,7 +330,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -401,16 +497,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d197e566e516b013",
+  "active": "a664c45f66032d50",
   "lastOpenFiles": [
-    "20250821115405-ssg.md",
+    "20220311200359-ansible.md",
     "20250820105719-podman.md",
+    "20220216070507-homelab.md",
+    "20250830184315-rpi.md",
+    "20250821115405-ssg.md",
     "TODO.md",
     "JOBS.md",
     "20231109085400-rhcsa.md",
     "20240217082600-rhcsa-notes.md",
     "20250825231844-rhce.md",
-    "20220311200359-ansible.md",
     "20250728171400-rhcsa-review.md",
     "20240320095100-dnf.md",
     "20240320094900-package-management.md",
@@ -427,8 +525,6 @@
     "20250821214856-mls.md",
     "20250821214931-mcs.md",
     "20250821214131-nsa.md",
-    "20250821214714.md",
-    "20230319223600-containerization.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
