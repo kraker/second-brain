@@ -161,7 +161,8 @@
               "title": "20250820105719-podman"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -360,8 +361,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "c59e98a3997a4bd7",
   "lastOpenFiles": [
+    "TODO.md",
     "20250820105719-podman.md",
     "20220726085334-vagrant.md",
     "20230319220500-virtualbox.md",
@@ -371,7 +373,6 @@
     "20250825231844-rhce.md",
     "20220311200359-ansible.md",
     "JOBS.md",
-    "TODO.md",
     "20220216070507-homelab.md",
     "20250830184315-rpi.md",
     "20250821115405-ssg.md",
