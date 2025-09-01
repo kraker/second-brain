@@ -161,8 +161,7 @@
               "title": "20250820105719-podman"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -361,12 +360,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51aca31d71dce84c",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20250820105719-podman.md",
     "20220726085334-vagrant.md",
     "20230319220500-virtualbox.md",
     "20230305105049-proxmox.md",
-    "20250820105719-podman.md",
     "20240217082600-rhcsa-notes.md",
     "20231109085400-rhcsa.md",
     "20250825231844-rhce.md",
