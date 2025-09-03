@@ -63,14 +63,28 @@
             "id": "75b948ba7cfc39d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20230305104932-terraform.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20230305104932-terraform"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,12 +283,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d789a52cac0cf2b",
+  "active": "75b948ba7cfc39d5",
   "lastOpenFiles": [
+    "JOBS.md",
     "20250825231844-rhce.md",
     "20231109085400-rhcsa.md",
     "20240217082600-rhcsa-notes.md",
-    "JOBS.md",
     "TODO.md",
     "20250820105719-podman.md",
     "20220726085334-vagrant.md",
