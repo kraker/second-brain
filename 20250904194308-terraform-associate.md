@@ -1,7 +1,7 @@
 ---
 title: Terraform Associate
 date: 2025-09-04T19:43:08Z
-modified: 2025-09-04T20:00:58Z
+modified: 2025-09-05T15:14:16Z
 tags:
   - 'iac'
   - 'devops'
@@ -31,7 +31,6 @@ digraph G {
 ```
 
 Output is in a graph description language called DOT.
-
 
 ## Review
 
