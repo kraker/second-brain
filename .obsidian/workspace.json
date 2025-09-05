@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -307,8 +307,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b71f22165f04c87",
+  "active": "75b948ba7cfc39d5",
   "lastOpenFiles": [
+    "20220926182945-IT-aphorisms.md",
     "20230305104932-terraform.md",
     "JOBS.md",
     "20250825231844-rhce.md",
@@ -334,7 +335,6 @@
     "20210626094136-firewall.md",
     "20250822223351-firewalld.md",
     "2021-05-05--15-33-54Z--ciscoasa_hardware_firewall.md",
-    "20220513122736-linux-firewall.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
