@@ -66,7 +66,7 @@
               "type": "markdown",
               "state": {
                 "file": "20230305104932-terraform.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -81,6 +81,30 @@
               },
               "icon": "lucide-file",
               "title": "20230305104932-terraform"
+            }
+          },
+          {
+            "id": "12f180db2507ab82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250904194308-terraform-associate.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250904194308-terraform-associate"
             }
           },
           {
@@ -156,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -355,13 +379,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "446abd014c1bd631",
+  "active": "75b948ba7cfc39d5",
   "lastOpenFiles": [
-    "20210913193531-git.md",
     "20250904194308-terraform-associate.md",
-    "20250820105719-podman.md",
     "20230305104932-terraform.md",
+    "20250820105719-podman.md",
     "20220926182945-IT-aphorisms.md",
+    "20210913193531-git.md",
     "JOBS.md",
     "20250825231844-rhce.md",
     "20231109085400-rhcsa.md",
