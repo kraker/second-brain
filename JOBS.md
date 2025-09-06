@@ -1,7 +1,9 @@
 ---
 title: Jobs
 date: 2025-08-30T09:29:48Z
-modified: 2025-09-03T08:01:36Z
+modified: 2025-09-06T11:51:23Z
+tags:
+  - 'career'
 ---
 
 # Jobs

@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "a3061a7d49461e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DONE.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DONE"
+            }
+          },
+          {
             "id": "8d789a52cac0cf2b",
             "type": "leaf",
             "pinned": true,
@@ -179,8 +203,7 @@
               "title": "20250820105719-podman"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,18 +402,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75b948ba7cfc39d5",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "20250904194308-terraform-associate.md",
+    "DONE.md",
+    "TODO.md",
+    "JOBS.md",
     "20230305104932-terraform.md",
+    "20250904194308-terraform-associate.md",
     "20250820105719-podman.md",
     "20220926182945-IT-aphorisms.md",
     "20210913193531-git.md",
-    "JOBS.md",
     "20250825231844-rhce.md",
     "20231109085400-rhcsa.md",
     "20240217082600-rhcsa-notes.md",
-    "TODO.md",
     "20220726085334-vagrant.md",
     "20230319220500-virtualbox.md",
     "20230305105049-proxmox.md",
@@ -406,7 +430,6 @@
     "20210901065232-learning.md",
     "20250826214046-isms.md",
     "20250825171608-.md",
-    "20210626094136-firewall.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
