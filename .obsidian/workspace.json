@@ -131,7 +131,8 @@
               "title": "20250904194308-terraform-associate"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -330,10 +331,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "8d789a52cac0cf2b",
   "lastOpenFiles": [
-    "20250904194308-terraform-associate.md",
     "TODO.md",
+    "20250904194308-terraform-associate.md",
     "20230305104932-terraform.md",
     "20250820105719-podman.md",
     "20220926182945-IT-aphorisms.md",
