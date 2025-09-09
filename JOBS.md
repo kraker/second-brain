@@ -1,7 +1,7 @@
 ---
 title: Jobs
 date: 2025-08-30T09:29:48Z
-modified: 2025-09-06T11:51:23Z
+modified: 2025-09-08T22:27:30Z
 tags:
   - 'career'
 ---
@@ -20,4 +20,3 @@ tags:
  + [X] [Lead Linux Admin \| myjobs.adp.com/asmexternalcareersite/cx/job-details?reqId=5001138392806](https://myjobs.adp.com/asmexternalcareersite/cx/job-details?reqId=5001138392806)
 
 ## Interviews
-
