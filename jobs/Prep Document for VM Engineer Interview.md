@@ -1,7 +1,7 @@
 ---
 title: Prep Document for VM Engineer Interview
 date: 2025-09-09T12:01:15Z
-modified: 2025-09-09T12:02:07Z
+modified: 2025-09-09T20:22:48Z
 ---
 
 **🔹 Vulnerability Management:**
@@ -150,7 +150,7 @@ modified: 2025-09-09T12:02:07Z
 🔹 **Compliance & Standards**
 
 1. What is your understanding of **PCI DSS** in the context of vulnerability management?
-  + pci dss scanning, tls versions, kex algos, 
+  + pci dss scanning, tls versions, kex algos,
 1. How do compliance requirements influence your **remediation priorities**?
   + severity
   + impact and effort to remediate

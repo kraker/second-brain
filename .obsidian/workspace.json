@@ -179,8 +179,7 @@
               "title": "Prep Document for VM Engineer Interview"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,10 +377,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ea32ce0ad563ba4",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "jobs/JOBS.md",
     "jobs/Prep Document for VM Engineer Interview.md",
+    "jobs/JOBS.md",
     "TODO.md",
     "jobs",
     "20250904194308-terraform-associate.md",
