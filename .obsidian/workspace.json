@@ -178,8 +178,33 @@
               "icon": "lucide-file",
               "title": "Prep Document for VM Engineer Interview"
             }
+          },
+          {
+            "id": "595cd67c3cc52d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250914133131-research.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250914133131-research"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -377,11 +402,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "595cd67c3cc52d06",
   "lastOpenFiles": [
+    "20250914133131-research.md",
+    "TODO.md",
     "jobs/Prep Document for VM Engineer Interview.md",
     "jobs/JOBS.md",
-    "TODO.md",
     "jobs",
     "20250904194308-terraform-associate.md",
     "20230305104932-terraform.md",
