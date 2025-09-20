@@ -36,6 +36,7 @@
           {
             "id": "a3061a7d49461e4b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -53,6 +54,7 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "DONE"
             }
@@ -84,60 +86,12 @@
             }
           },
           {
-            "id": "75b948ba7cfc39d5",
+            "id": "c398f5b934977029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230305104932-terraform.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20230305104932-terraform"
-            }
-          },
-          {
-            "id": "13ff4e2948539898",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250904194308-terraform-associate.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250904194308-terraform-associate"
-            }
-          },
-          {
-            "id": "29e2e1aa6464c7e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jobs/Prep Document for VM Engineer Interview.md",
+                "file": "20250920104233-ipt.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -152,16 +106,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prep Document for VM Engineer Interview"
+              "title": "20250920104233-ipt"
             }
           },
           {
-            "id": "4ea32ce0ad563ba4",
+            "id": "080a96e4453e79f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jobs/Prep Document for VM Engineer Interview.md",
+                "file": "20250920104404-ai.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -176,82 +130,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prep Document for VM Engineer Interview"
-            }
-          },
-          {
-            "id": "595cd67c3cc52d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250914133131-research.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250914133131-research"
-            }
-          },
-          {
-            "id": "ed49637a8d610e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250916185029-amateur-radio.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250916185029-amateur-radio"
-            }
-          },
-          {
-            "id": "1d8b923f4b1c047d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210830131649-learn-python.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20210830131649-learn-python"
+              "title": "20250920104404-ai"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -449,13 +332,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "c398f5b934977029",
   "lastOpenFiles": [
+    "20250920104404-ai.md",
+    "20250920104233-ipt.md",
+    "DONE.md",
+    "TODO.md",
     "20210830131649-learn-python.md",
     "jobs/Prep Document for VM Engineer Interview.md",
     "20250914133131-research.md",
     "20250916185029-amateur-radio.md",
-    "TODO.md",
     "jobs/JOBS.md",
     "jobs",
     "20250904194308-terraform-associate.md",
@@ -463,7 +349,6 @@
     "20250820105719-podman.md",
     "20220926182945-IT-aphorisms.md",
     "20210913193531-git.md",
-    "DONE.md",
     "20250825231844-rhce.md",
     "20231109085400-rhcsa.md",
     "20240217082600-rhcsa-notes.md",
@@ -476,8 +361,6 @@
     "20250821115405-ssg.md",
     "20250728171400-rhcsa-review.md",
     "20240320095100-dnf.md",
-    "20240320094900-package-management.md",
-    "20250821203207-selinux.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
