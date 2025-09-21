@@ -132,9 +132,33 @@
               "icon": "lucide-file",
               "title": "20250920104404-ai"
             }
+          },
+          {
+            "id": "f2e426a422f41c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230305105049-proxmox.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20230305105049-proxmox"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -332,10 +356,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c398f5b934977029",
+  "active": "f2e426a422f41c26",
   "lastOpenFiles": [
-    "20250920104404-ai.md",
     "20250920104233-ipt.md",
+    "20250920104404-ai.md",
     "DONE.md",
     "TODO.md",
     "20210830131649-learn-python.md",
