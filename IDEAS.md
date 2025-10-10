@@ -31,3 +31,8 @@ Roadmap:
 
 Extend the idea...
 - Same idea but movies, tv shows, video games, etc.?
+
+Name ideas:
+- "Resonance"
+- "Musely"
+- "LeagueJam" could be parent for multi-league idea (i.e. leaguejam.music, leaguejam.tv, leaguejam.movie, etc... leaguejam.com is already taken, unfortunately...)
