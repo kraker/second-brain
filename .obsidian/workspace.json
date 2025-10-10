@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "17d79abbb86f9975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEAS.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IDEAS"
+            }
+          },
+          {
             "id": "a3061a7d49461e4b",
             "type": "leaf",
             "pinned": true,
@@ -158,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -356,12 +380,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2e426a422f41c26",
+  "active": "17d79abbb86f9975",
   "lastOpenFiles": [
+    "TODO.md",
+    "IDEAS.md",
+    "DONE.md",
+    "20230305105049-proxmox.md",
     "20250920104233-ipt.md",
     "20250920104404-ai.md",
-    "DONE.md",
-    "TODO.md",
     "20210830131649-learn-python.md",
     "jobs/Prep Document for VM Engineer Interview.md",
     "20250914133131-research.md",
@@ -378,13 +404,11 @@
     "20240217082600-rhcsa-notes.md",
     "20220726085334-vagrant.md",
     "20230319220500-virtualbox.md",
-    "20230305105049-proxmox.md",
     "20220311200359-ansible.md",
     "20220216070507-homelab.md",
     "20250830184315-rpi.md",
     "20250821115405-ssg.md",
     "20250728171400-rhcsa-review.md",
-    "20240320095100-dnf.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
