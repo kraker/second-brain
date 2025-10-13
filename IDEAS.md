@@ -1,7 +1,7 @@
 ---
 title: Ideas
 date: 2025-10-10T11:24:40Z
-modified: 2025-10-10T11:24:59Z
+modified: 2025-10-13T09:23:35Z
 ---
 
 # Ideas
