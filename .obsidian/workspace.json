@@ -113,10 +113,24 @@
             "id": "db7d774d985dc455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "20251013101800-bachelors.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20251013101800-bachelors"
             }
           }
         ],
@@ -319,6 +333,7 @@
   },
   "active": "db7d774d985dc455",
   "lastOpenFiles": [
+    "20251013101800-bachelors.md",
     "IDEAS.md",
     "TODO.md",
     "DONE.md",
@@ -345,7 +360,6 @@
     "20220216070507-homelab.md",
     "20250830184315-rpi.md",
     "20250821115405-ssg.md",
-    "20250728171400-rhcsa-review.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
