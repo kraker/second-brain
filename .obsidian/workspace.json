@@ -132,9 +132,33 @@
               "icon": "lucide-file",
               "title": "20251013101800-bachelors"
             }
+          },
+          {
+            "id": "4a5d8e6d56576f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251018092246-clep.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251018092246-clep"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -331,9 +355,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db7d774d985dc455",
+  "active": "4a5d8e6d56576f1c",
   "lastOpenFiles": [
     "20251013101800-bachelors.md",
+    "20251018092246-clep.md",
     "IDEAS.md",
     "TODO.md",
     "DONE.md",
@@ -359,7 +384,6 @@
     "20220311200359-ansible.md",
     "20220216070507-homelab.md",
     "20250830184315-rpi.md",
-    "20250821115405-ssg.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
