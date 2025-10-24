@@ -110,30 +110,6 @@
             }
           },
           {
-            "id": "db7d774d985dc455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20251013101800-bachelors.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20251013101800-bachelors"
-            }
-          },
-          {
             "id": "4a5d8e6d56576f1c",
             "type": "leaf",
             "state": {
@@ -379,14 +355,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db7d774d985dc455",
+  "active": "4a5d8e6d56576f1c",
   "lastOpenFiles": [
-    "20251019203417-home-buying.md",
-    "20251018092246-clep.md",
+    "jobs/JOBS.md",
     "20251013101800-bachelors.md",
-    "IDEAS.md",
     "TODO.md",
     "DONE.md",
+    "20251019203417-home-buying.md",
+    "20251018092246-clep.md",
+    "IDEAS.md",
     "20230305105049-proxmox.md",
     "20250920104233-ipt.md",
     "20250920104404-ai.md",
@@ -394,7 +371,6 @@
     "jobs/Prep Document for VM Engineer Interview.md",
     "20250914133131-research.md",
     "20250916185029-amateur-radio.md",
-    "jobs/JOBS.md",
     "jobs",
     "20250904194308-terraform-associate.md",
     "20230305104932-terraform.md",

@@ -1,7 +1,7 @@
 ---
 title: DONE
 date: 2025-09-06T11:47:47Z
-modified: 2025-09-06T11:52:09Z
+modified: 2025-10-23T20:29:51Z
 tags:
   - 'todo'
   - 'gtd'
@@ -12,6 +12,36 @@ tags:
 - [X] Apply to Lead Linux Admin job
 - [X] Finish learn_devops.md resources list
 - [X] vibe-rehash resume and include RHCSA cert
+- [X] Woodshed resume based on Lou's feedback
+- [X] Birthday present for Paul
+- [X] Make grooming appointment for Feather
+- [X] Apply for unemployment
+
+## Terraform Associate
+
+Exam completed and passed. Received certificate.
+
+- Terraform Up & Running
+    - [X] 1. Why Terraform
+    - [X] 2. Getting Started with Terraform
+    - [X] 3. How to Manage Terraform State
+    - [X] 4. How to Create Reusable Infrastructure with Terraform Modules
+    - [X] 5. Terraform Tips and Tricks:
+        - [X] Loops
+        - [X] Conditionals
+        - [X] Zero-Downtime Deployment
+        - [X] Gotchas
+    - [X] 6. Secrets
+    - [ ] 10. Team Usage
+- Associate Learning Path
+    - [X] Learn about IaC
+    - [X] Review Terraform fundamentals
+    - [X] Navigate the core workflow
+    - [ ] Learn more subcommands
+    - [ ] Use and create modules
+    - [ ] Read and write configuration
+    - [ ] Manage state
+    - [X] Understand HCP Terraform
 
 ## RHCE
 
