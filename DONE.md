@@ -1,7 +1,7 @@
 ---
 title: DONE
 date: 2025-09-06T11:47:47Z
-modified: 2025-10-23T20:29:51Z
+modified: 2025-10-28T11:21:58Z
 tags:
   - 'todo'
   - 'gtd'
@@ -16,6 +16,18 @@ tags:
 - [X] Birthday present for Paul
 - [X] Make grooming appointment for Feather
 - [X] Apply for unemployment
+- SNHU
+  + [X] Buy books
+  + [X] Review financial aid offer
+      - [O] Apply for loans?\
+         Not able to get subidized loans only unsubsidized. Shouldn't take out loan while trying to buy a house. Tuition reimbursement will cover some of it. I can cover the difference.
+  + [X] Track down course syllabus: PHYS1211 - Physics for Science & Engineering 1 - MCTC
+      - [X] Contact Science Department Mary Joyce - 612-659-6452\
+         Emailed Robert (Bob) Carlson (Professor) 10/26
+         Emailed Mary Joyce 10/27 - Emailed back with fall 2009 syllabus
+* [X] Peraton conversion paperwork
+  + [X] Accepted Peraton offer letter
+* [X] Get new tabs at DMV
 
 ## Terraform Associate
 

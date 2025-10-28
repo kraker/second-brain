@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "da9ea3d5e1cba972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20251026141731-snhu.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20251026141731-snhu"
-            }
-          },
-          {
             "id": "7feb6d8d089abf07",
             "type": "leaf",
             "state": {
@@ -216,8 +192,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -354,15 +329,15 @@
   "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "20251027205640-mat-243-applied-statistics-for-stem.md",
+    "DONE.md",
+    "TODO.md",
+    "20251026141731-snhu.md",
     "20210910055625-python-notes.md",
     "20210830131637-python.md",
     "20251026141407-it-140-intro-to-scripting.md",
-    "20251026141731-snhu.md",
-    "TODO.md",
     "20251019203417-home-buying.md",
     "IDEAS.md",
     "jobs/JOBS.md",
-    "DONE.md",
     "20251018092246-clep.md",
     "20251013101800-bachelors.md",
     "20230305105049-proxmox.md",
