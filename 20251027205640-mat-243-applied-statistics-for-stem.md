@@ -16,3 +16,9 @@ tags:
 ## Videos
 
 * [Statistics: The average \| Descriptive statistics \| Probability and Statistics \| Khan Academy - YouTube](https://youtu.be/uhxtUt_-GyM?si=fjM9gxOAH4YXJrfX)
+
+## Notes
+
+* Addition complement
+* Indenpendence
+* Multiplication rules
