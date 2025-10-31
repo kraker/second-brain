@@ -129,7 +129,8 @@
               "title": "20251027205640-mat-243-applied-statistics-for-stem"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -326,11 +327,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "7734751f1aa26985",
   "lastOpenFiles": [
-    "20251026141407-it-140-intro-to-scripting.md",
-    "20210830131637-python.md",
     "20210910055625-python-notes.md",
+    "20210830131637-python.md",
+    "20251026141407-it-140-intro-to-scripting.md",
     "TODO.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "DONE.md",
