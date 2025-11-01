@@ -153,8 +153,7 @@
               "title": "Gifts"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,7 +350,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0080dfb498354fc3",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "Gifts.md",
     "TODO.md",
