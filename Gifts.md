@@ -10,10 +10,9 @@ Honey flights:
   + Axle?
 * Eliza and Stephen
 * Ryan Peterson & ?
-* Christl Findling & Raine?
+* Christl Findling & Raine
 
-Beard gift box:
+Beard gift boxes:
   * Joe
   * Paul
   * Sam
-
