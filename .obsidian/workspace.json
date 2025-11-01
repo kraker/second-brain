@@ -128,8 +128,33 @@
               "icon": "lucide-file",
               "title": "20251027205640-mat-243-applied-statistics-for-stem"
             }
+          },
+          {
+            "id": "0080dfb498354fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gifts.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gifts"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -326,13 +351,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "0080dfb498354fc3",
   "lastOpenFiles": [
+    "Gifts.md",
+    "TODO.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20210910055625-python-notes.md",
     "20210830131637-python.md",
     "20251026141407-it-140-intro-to-scripting.md",
-    "TODO.md",
     "DONE.md",
     "20251026141731-snhu.md",
     "20251019203417-home-buying.md",
@@ -354,7 +380,6 @@
     "20220926182945-IT-aphorisms.md",
     "20210913193531-git.md",
     "20250825231844-rhce.md",
-    "20231109085400-rhcsa.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
