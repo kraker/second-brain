@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "0080dfb498354fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gifts.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gifts"
+            }
+          },
+          {
             "id": "7feb6d8d089abf07",
             "type": "leaf",
             "state": {
@@ -130,12 +154,12 @@
             }
           },
           {
-            "id": "0080dfb498354fc3",
+            "id": "0b560966440e57e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gifts.md",
+                "file": "20251102091426-jupyter.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -150,10 +174,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gifts"
+              "title": "20251102091426-jupyter"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -350,13 +375,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "87b3fb5e83f98af4",
   "lastOpenFiles": [
-    "Gifts.md",
-    "TODO.md",
+    "20251102091426-jupyter.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
-    "20210910055625-python-notes.md",
     "20210830131637-python.md",
+    "TODO.md",
+    "Gifts.md",
+    "20210910055625-python-notes.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "DONE.md",
     "20251026141731-snhu.md",
@@ -378,7 +404,6 @@
     "20250820105719-podman.md",
     "20220926182945-IT-aphorisms.md",
     "20210913193531-git.md",
-    "20250825231844-rhce.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
