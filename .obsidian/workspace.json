@@ -177,8 +177,7 @@
               "title": "20251102091426-jupyter"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,11 +374,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87b3fb5e83f98af4",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20210830131637-python.md",
     "20251102091426-jupyter.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
-    "20210830131637-python.md",
     "TODO.md",
     "Gifts.md",
     "20210910055625-python-notes.md",
