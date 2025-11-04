@@ -176,8 +176,33 @@
               "icon": "lucide-file",
               "title": "20251102091426-jupyter"
             }
+          },
+          {
+            "id": "c8470bfb6e7ecf14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251104153009-greek-alphabet.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251104153009-greek-alphabet"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -374,13 +399,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "c8470bfb6e7ecf14",
   "lastOpenFiles": [
-    "Gifts.md",
-    "TODO.md",
-    "20210830131637-python.md",
+    "20251104153009-greek-alphabet.md",
     "20251102091426-jupyter.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
+    "TODO.md",
+    "Gifts.md",
+    "20210830131637-python.md",
     "20210910055625-python-notes.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "DONE.md",
@@ -402,7 +428,6 @@
     "20230305104932-terraform.md",
     "20250820105719-podman.md",
     "20220926182945-IT-aphorisms.md",
-    "20210913193531-git.md",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
     "Untitled.canvas",
