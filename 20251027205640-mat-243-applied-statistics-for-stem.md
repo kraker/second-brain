@@ -1,7 +1,7 @@
 ---
 title: MAT 243 Applied Statistics for STEM
 date: 2025-10-27T20:56:40Z
-modified: 2025-11-04T15:29:50Z
+modified: 2025-11-04T16:26:11Z
 tags:
   - 'cs'
   - 'snhu'
@@ -27,3 +27,5 @@ tags:
 ## Related
 
 * [20251102091426-jupyter](20251102091426-jupyter.md)
+* [20251104155518-statistics](20251104155518-statistics.md)
+* [20251104153009-greek-alphabet](20251104153009-greek-alphabet.md)
