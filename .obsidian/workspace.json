@@ -272,33 +272,9 @@
               "icon": "lucide-file",
               "title": "20251104191806-central-limit-theorem"
             }
-          },
-          {
-            "id": "08f94940fc5cc66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20250821115405-ssg.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20250821115405-ssg"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -495,18 +471,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3140c4c85d835fa3",
+  "active": "e18a9011bb22b79c",
   "lastOpenFiles": [
     "20251104185337-normal-distribution.md",
     "20251104191806-central-limit-theorem.md",
     "20250821115405-ssg.md",
     "20251026141407-it-140-intro-to-scripting.md",
+    "Gifts.md",
+    "TODO.md",
     "20251104155518-statistics.md",
     "20251104153009-greek-alphabet.md",
     "20251102091426-jupyter.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
-    "TODO.md",
-    "Gifts.md",
     "20210830131637-python.md",
     "20210910055625-python-notes.md",
     "DONE.md",
