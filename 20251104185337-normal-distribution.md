@@ -1,7 +1,7 @@
 ---
 title: Normal Distribution
 date: 2025-11-04T18:53:37Z
-modified: 2025-11-04T18:56:07Z
+modified: 2025-11-05T12:16:44Z
 tags:
   - 'math'
   - 'stats'
