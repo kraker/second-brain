@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -423,10 +423,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b560966440e57e5",
+  "active": "7734751f1aa26985",
   "lastOpenFiles": [
-    "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251102091426-jupyter.md",
+    "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251104155518-statistics.md",
     "20251104153009-greek-alphabet.md",
     "TODO.md",
