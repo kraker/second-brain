@@ -80,8 +80,33 @@
               "icon": "lucide-file",
               "title": "20251104153009-greek-alphabet"
             }
+          },
+          {
+            "id": "f37f47ff16d9f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251104155518-statistics.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251104155518-statistics"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -278,13 +303,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "f37f47ff16d9f3dd",
   "lastOpenFiles": [
-    "20251104153009-greek-alphabet.md",
-    "20251105120854-math.md",
-    "20251104155518-statistics.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
+    "20251104155518-statistics.md",
+    "20251104153009-greek-alphabet.md",
     "TODO.md",
+    "20251105120854-math.md",
     "Gifts.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "20210830131637-python.md",
