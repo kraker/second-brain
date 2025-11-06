@@ -88,7 +88,7 @@
               "type": "markdown",
               "state": {
                 "file": "20251104155518-statistics.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -104,9 +104,33 @@
               "icon": "lucide-file",
               "title": "20251104155518-statistics"
             }
+          },
+          {
+            "id": "e87f7b35404940b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251104191806-central-limit-theorem.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251104191806-central-limit-theorem"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -303,10 +327,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f37f47ff16d9f3dd",
+  "active": "e87f7b35404940b7",
   "lastOpenFiles": [
-    "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251104155518-statistics.md",
+    "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251104153009-greek-alphabet.md",
     "TODO.md",
     "20251105120854-math.md",
