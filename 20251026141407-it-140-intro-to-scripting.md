@@ -11,10 +11,12 @@ tags:
 
 # IT 140: Introduction to Scripting
 
+## Python
+
+* [20210830131637-python](20210830131637-python.md)
+* [20210910055625-python-notes](20210910055625-python-notes.md)
+
 ## Related
 
 * [Python at Netflix](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
-
-## Notes
-
-* [20210910055625-python-notes](20210910055625-python-notes.md)
+* [20251107072106-flowchart](20251107072106-flowchart.md)

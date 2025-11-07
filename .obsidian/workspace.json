@@ -128,9 +128,57 @@
               "icon": "lucide-file",
               "title": "20251104191806-central-limit-theorem"
             }
+          },
+          {
+            "id": "10e1b5894b1359cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251107072106-flowchart.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251107072106-flowchart"
+            }
+          },
+          {
+            "id": "c10abbe2fb9b2382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251026141407-it-140-intro-to-scripting.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251026141407-it-140-intro-to-scripting"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -327,8 +375,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e87f7b35404940b7",
+  "active": "c10abbe2fb9b2382",
   "lastOpenFiles": [
+    "20251026141731-snhu.md",
+    "20251104191806-central-limit-theorem.md",
+    "20251107072106-flowchart.md",
     "20251104155518-statistics.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251104153009-greek-alphabet.md",
@@ -342,11 +393,9 @@
     "20251104185337-normal-distribution.md",
     "20251105120528-probability-distribution-function.md",
     "20210901062045-computer-science.md",
-    "20251104191806-central-limit-theorem.md",
     "20251105120957.md",
     "20250821115405-ssg.md",
     "DONE.md",
-    "20251026141731-snhu.md",
     "20251019203417-home-buying.md",
     "IDEAS.md",
     "jobs/JOBS.md",
@@ -354,7 +403,6 @@
     "20251013101800-bachelors.md",
     "20230305105049-proxmox.md",
     "20250920104233-ipt.md",
-    "20250920104404-ai.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
