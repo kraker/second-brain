@@ -1,7 +1,7 @@
 ---
 title: "IT 140: Introduction to Scripting"
 date: 2025-10-26T14:14:07Z
-modified: 2025-10-27T20:59:14Z
+modified: 2025-11-07T11:02:43Z
 tags:
   - 'cs'
   - 'snhu'

@@ -177,8 +177,7 @@
               "title": "20251026141407-it-140-intro-to-scripting"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,8 +374,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c10abbe2fb9b2382",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20251026141407-it-140-intro-to-scripting.md",
     "20251026141731-snhu.md",
     "20251104191806-central-limit-theorem.md",
     "20251107072106-flowchart.md",
@@ -386,7 +386,6 @@
     "TODO.md",
     "20251105120854-math.md",
     "Gifts.md",
-    "20251026141407-it-140-intro-to-scripting.md",
     "20210830131637-python.md",
     "20210910055625-python-notes.md",
     "20251102091426-jupyter.md",
