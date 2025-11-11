@@ -183,8 +183,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20251105120854-math.md",
-                "mode": "source",
+                "file": "20251104153009-greek-alphabet.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -198,7 +198,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251105120854-math"
+              "title": "20251104153009-greek-alphabet"
             }
           },
           {
@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -423,10 +423,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb15b64ef1578d2e",
+  "active": "2a3509de5aafde93",
   "lastOpenFiles": [
-    "20251108085103-piano.md",
     "20251105120854-math.md",
+    "20251108085103-piano.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "20251107072106-flowchart.md",
     "20251104191806-central-limit-theorem.md",
