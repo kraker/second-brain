@@ -106,6 +106,30 @@
             }
           },
           {
+            "id": "05583f8e04619d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20251104185337-normal-distribution.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20251104185337-normal-distribution"
+            }
+          },
+          {
             "id": "e87f7b35404940b7",
             "type": "leaf",
             "state": {
@@ -226,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -423,15 +447,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a3509de5aafde93",
+  "active": "05583f8e04619d81",
   "lastOpenFiles": [
+    "20251104155518-statistics.md",
+    "20251104191806-central-limit-theorem.md",
+    "20251107072106-flowchart.md",
+    "20251026141407-it-140-intro-to-scripting.md",
+    "20251104153009-greek-alphabet.md",
     "20251105120854-math.md",
     "20251108085103-piano.md",
-    "20251026141407-it-140-intro-to-scripting.md",
-    "20251107072106-flowchart.md",
-    "20251104191806-central-limit-theorem.md",
-    "20251104155518-statistics.md",
-    "20251104153009-greek-alphabet.md",
     "TODO.md",
     "20251026141731-snhu.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",

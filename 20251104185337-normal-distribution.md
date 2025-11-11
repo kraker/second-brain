@@ -11,3 +11,4 @@ tags:
 
 * [Introduction to the normal distribution \| Probability and Statistics \| Khan Academy - YouTube](https://youtu.be/hgtMWR3TFnY?si=k8xdJ-zZxW0IUm2n)
 * [Normal distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
+* [Finding and Using Health Statistics](https://www.nlm.nih.gov/oet/ed/stats/02-800.html)
