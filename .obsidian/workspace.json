@@ -250,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -447,8 +447,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05583f8e04619d81",
+  "active": "7734751f1aa26985",
   "lastOpenFiles": [
+    "TODO.md",
+    "20251104185337-normal-distribution.md",
     "20251104155518-statistics.md",
     "20251104191806-central-limit-theorem.md",
     "20251107072106-flowchart.md",
@@ -456,14 +458,12 @@
     "20251104153009-greek-alphabet.md",
     "20251105120854-math.md",
     "20251108085103-piano.md",
-    "TODO.md",
     "20251026141731-snhu.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "Gifts.md",
     "20210830131637-python.md",
     "20210910055625-python-notes.md",
     "20251102091426-jupyter.md",
-    "20251104185337-normal-distribution.md",
     "20251105120528-probability-distribution-function.md",
     "20210901062045-computer-science.md",
     "20251105120957.md",
