@@ -1,7 +1,7 @@
 ---
 title: DONE
 date: 2025-09-06T11:47:47Z
-modified: 2025-10-28T11:21:58Z
+modified: 2025-11-15T18:14:20Z
 tags:
   - 'todo'
   - 'gtd'
@@ -9,6 +9,15 @@ tags:
 
 # DONE
 
+* [X] Unmount PS4
+* [X] Buy PS5 mount?
+* [X] Recycle electronics
+* [X] Food donations, blankets, jeans, shoes, socks, jackets, hats, gloves, books
+* [X] Order beard gift boxes
+* [X] IG Open Enrollment
+* [X] Peraton background check paperwork
+* [X] Peraton drug screening
+* [X] Peraton HS copy of HS diploma - ordered, waiting for it to come in the mail
 - [X] Apply to Lead Linux Admin job
 - [X] Finish learn_devops.md resources list
 - [X] vibe-rehash resume and include RHCSA cert

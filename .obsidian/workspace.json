@@ -34,6 +34,30 @@
             }
           },
           {
+            "id": "d0037eb95149aba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DONE.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DONE"
+            }
+          },
+          {
             "id": "6038967eb62c0848",
             "type": "leaf",
             "state": {
@@ -129,8 +153,7 @@
               "title": "20251105120854-math"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,8 +350,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2314bdef8d37e030",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "DONE.md",
+    "TODO.md",
+    "20251105120854-math.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "20251108085103-piano.md",
     "20251104153009-greek-alphabet.md",
@@ -336,9 +362,7 @@
     "20251104185337-normal-distribution.md",
     "20251104191806-central-limit-theorem.md",
     "20251107072106-flowchart.md",
-    "TODO.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
-    "20251105120854-math.md",
     "20251026141731-snhu.md",
     "Gifts.md",
     "20210830131637-python.md",
@@ -348,7 +372,6 @@
     "20210901062045-computer-science.md",
     "20251105120957.md",
     "20250821115405-ssg.md",
-    "DONE.md",
     "20251019203417-home-buying.md",
     "IDEAS.md",
     "jobs/JOBS.md",
