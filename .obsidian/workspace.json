@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "c6c4bce88ab95358",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "2cbb909ef8ad8f63",
             "type": "leaf",
             "state": {
@@ -177,8 +189,7 @@
               "title": "20251105120854-math"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,7 +386,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f37f47ff16d9f3dd",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251026141407-it-140-intro-to-scripting.md",
