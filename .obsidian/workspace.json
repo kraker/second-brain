@@ -106,25 +106,13 @@
             }
           },
           {
-            "id": "c6c4bce88ab95358",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "2cbb909ef8ad8f63",
+            "id": "0cb565349f788379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20251027205640-mat-243-applied-statistics-for-stem.md",
-                "mode": "source",
+                "file": "20251104153009-greek-alphabet.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -138,58 +126,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251027205640-mat-243-applied-statistics-for-stem"
-            }
-          },
-          {
-            "id": "c10abbe2fb9b2382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20251026141407-it-140-intro-to-scripting.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20251026141407-it-140-intro-to-scripting"
-            }
-          },
-          {
-            "id": "2314bdef8d37e030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20251105120854-math.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20251105120854-math"
+              "title": "20251104153009-greek-alphabet"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -386,14 +327,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "0cb565349f788379",
   "lastOpenFiles": [
-    "20251027205640-mat-243-applied-statistics-for-stem.md",
-    "20251026141407-it-140-intro-to-scripting.md",
     "20251104155518-statistics.md",
+    "20251105120854-math.md",
+    "20251026141407-it-140-intro-to-scripting.md",
+    "20251027205640-mat-243-applied-statistics-for-stem.md",
     "TODO.md",
     "DONE.md",
-    "20251105120854-math.md",
     "20251108085103-piano.md",
     "20251104153009-greek-alphabet.md",
     "20251104185337-normal-distribution.md",
