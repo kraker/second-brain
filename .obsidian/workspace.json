@@ -128,9 +128,33 @@
               "icon": "lucide-file",
               "title": "20251104153009-greek-alphabet"
             }
+          },
+          {
+            "id": "8c4c26145b631d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20250714084500-rhcsa-exam-objectives.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20250714084500-rhcsa-exam-objectives"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +217,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -327,8 +352,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cb565349f788379",
+  "active": "8c4c26145b631d46",
   "lastOpenFiles": [
+    "20231109085400-rhcsa.md",
+    "20251104153009-greek-alphabet.md",
     "20251104155518-statistics.md",
     "20251105120854-math.md",
     "20251026141407-it-140-intro-to-scripting.md",
@@ -336,7 +363,6 @@
     "TODO.md",
     "DONE.md",
     "20251108085103-piano.md",
-    "20251104153009-greek-alphabet.md",
     "20251104185337-normal-distribution.md",
     "20251104191806-central-limit-theorem.md",
     "20251107072106-flowchart.md",
@@ -354,7 +380,6 @@
     "jobs/JOBS.md",
     "20251018092246-clep.md",
     "20251013101800-bachelors.md",
-    "20230305105049-proxmox.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
