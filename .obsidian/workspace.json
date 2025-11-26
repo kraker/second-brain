@@ -153,8 +153,7 @@
               "title": "20250714084500-rhcsa-exam-objectives"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,8 +351,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c4c26145b631d46",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20250714084500-rhcsa-exam-objectives.md",
     "20231109085400-rhcsa.md",
     "20251104153009-greek-alphabet.md",
     "20251104155518-statistics.md",
@@ -379,7 +379,6 @@
     "IDEAS.md",
     "jobs/JOBS.md",
     "20251018092246-clep.md",
-    "20251013101800-bachelors.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
