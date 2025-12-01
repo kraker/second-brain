@@ -82,6 +82,18 @@
             }
           },
           {
+            "id": "b6151756e03e9c26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "f37f47ff16d9f3dd",
             "type": "leaf",
             "state": {
@@ -153,8 +165,7 @@
               "title": "20250714084500-rhcsa-exam-objectives"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,7 +363,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6038967eb62c0848",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "TODO.md",
     "20250714084500-rhcsa-exam-objectives.md",
