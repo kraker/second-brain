@@ -164,9 +164,19 @@
               "icon": "lucide-file",
               "title": "20250714084500-rhcsa-exam-objectives"
             }
+          },
+          {
+            "id": "be4ca5de7f034604",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -363,8 +373,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f37f47ff16d9f3dd",
+  "active": "be4ca5de7f034604",
   "lastOpenFiles": [
+    "20210624094518-java.md",
     "20251104155518-statistics.md",
     "TODO.md",
     "20250714084500-rhcsa-exam-objectives.md",
@@ -390,7 +401,6 @@
     "20251019203417-home-buying.md",
     "IDEAS.md",
     "jobs/JOBS.md",
-    "20251018092246-clep.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
