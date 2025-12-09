@@ -99,8 +99,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20251104155518-statistics.md",
-                "mode": "preview",
+                "file": "20210624094518-java.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -114,7 +114,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251104155518-statistics"
+              "title": "20210624094518-java"
             }
           },
           {
@@ -229,8 +229,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -366,11 +365,11 @@
   },
   "active": "f37f47ff16d9f3dd",
   "lastOpenFiles": [
+    "20251104155518-statistics.md",
     "TODO.md",
     "20250714084500-rhcsa-exam-objectives.md",
     "20231109085400-rhcsa.md",
     "20251104153009-greek-alphabet.md",
-    "20251104155518-statistics.md",
     "20251105120854-math.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
