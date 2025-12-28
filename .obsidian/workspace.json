@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,10 +279,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c7f9c7b14636d64",
+  "active": "c845c0e044b74960",
   "lastOpenFiles": [
-    "20210624094518-java.md",
     "20210830131637-python.md",
+    "20210624094518-java.md",
     "TODO.md",
     "20251104155518-statistics.md",
     "20250714084500-rhcsa-exam-objectives.md",
