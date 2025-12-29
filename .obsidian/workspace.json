@@ -105,8 +105,7 @@
               "title": "20251228203342-codingunited-club-website"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,7 +302,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deb2e4699856db37",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "20251228203342-codingunited-club-website.md",
     "20210830131637-python.md",
