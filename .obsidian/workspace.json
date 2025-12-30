@@ -104,8 +104,33 @@
               "icon": "lucide-file",
               "title": "20251228203342-codingunited-club-website"
             }
+          },
+          {
+            "id": "26bd52de8554f000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20201110145200-html.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20201110145200-html"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -302,12 +327,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "26bd52de8554f000",
   "lastOpenFiles": [
+    "TODO.md",
     "20251228203342-codingunited-club-website.md",
     "20210830131637-python.md",
     "20210624094518-java.md",
-    "TODO.md",
     "20251104155518-statistics.md",
     "20250714084500-rhcsa-exam-objectives.md",
     "20231109085400-rhcsa.md",
