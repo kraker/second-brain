@@ -128,9 +128,33 @@
               "icon": "lucide-file",
               "title": "20201110145200-html"
             }
+          },
+          {
+            "id": "87ccf59bc6de2dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20220926182945-IT-aphorisms.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20220926182945-IT-aphorisms"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -327,8 +351,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26bd52de8554f000",
+  "active": "87ccf59bc6de2dc5",
   "lastOpenFiles": [
+    "20201110145200-html.md",
     "TODO.md",
     "20251228203342-codingunited-club-website.md",
     "20210830131637-python.md",
@@ -354,7 +379,6 @@
     "20251105120957.md",
     "20250821115405-ssg.md",
     "20251019203417-home-buying.md",
-    "IDEAS.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
