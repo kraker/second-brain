@@ -153,8 +153,7 @@
               "title": "20220926182945-IT-aphorisms"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,8 +350,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87ccf59bc6de2dc5",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
+    "20220926182945-IT-aphorisms.md",
     "20201110145200-html.md",
     "TODO.md",
     "20251228203342-codingunited-club-website.md",
@@ -378,7 +378,6 @@
     "20210901062045-computer-science.md",
     "20251105120957.md",
     "20250821115405-ssg.md",
-    "20251019203417-home-buying.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
