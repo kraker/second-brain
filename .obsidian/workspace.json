@@ -64,7 +64,7 @@
               "type": "markdown",
               "state": {
                 "file": "20260104100350-discrete-math.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -327,7 +327,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ddeed561e7f42b",
+  "active": "1e3578961b4c8004",
   "lastOpenFiles": [
     "20260104103655-latex.md",
     "20260104100350-discrete-math.md",
