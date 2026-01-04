@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8c7f9c7b14636d64",
+            "id": "d00fbc376c1a4f8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210830131637-python.md",
+                "file": "20260104101011-calculus.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20210830131637-python"
+              "title": "20260104101011-calculus"
             }
           },
           {
-            "id": "c845c0e044b74960",
+            "id": "1e3578961b4c8004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210624094518-java.md",
+                "file": "20260104100350-discrete-math.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -78,16 +78,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20210624094518-java"
+              "title": "20260104100350-discrete-math"
             }
           },
           {
-            "id": "deb2e4699856db37",
+            "id": "b6279087b559b91f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20251228203342-codingunited-club-website.md",
+                "file": "20251105120854-math.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -102,16 +102,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20251228203342-codingunited-club-website"
+              "title": "20251105120854-math"
             }
           },
           {
-            "id": "26bd52de8554f000",
+            "id": "b7ddeed561e7f42b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20201110145200-html.md",
+                "file": "20260104103655-latex.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -126,34 +126,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20201110145200-html"
-            }
-          },
-          {
-            "id": "87ccf59bc6de2dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220926182945-IT-aphorisms.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220926182945-IT-aphorisms"
+              "title": "20260104103655-latex"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -350,19 +327,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "b7ddeed561e7f42b",
   "lastOpenFiles": [
+    "20260104103655-latex.md",
+    "20260104100350-discrete-math.md",
+    "20251104155518-statistics.md",
+    "20251105120854-math.md",
+    "TODO.md",
+    "20260104101011-calculus.md",
+    "20210624094518-java.md",
+    "20210830131637-python.md",
+    "20251228203342-codingunited-club-website.md",
     "20220926182945-IT-aphorisms.md",
     "20201110145200-html.md",
-    "TODO.md",
-    "20251228203342-codingunited-club-website.md",
-    "20210830131637-python.md",
-    "20210624094518-java.md",
-    "20251104155518-statistics.md",
     "20250714084500-rhcsa-exam-objectives.md",
     "20231109085400-rhcsa.md",
     "20251104153009-greek-alphabet.md",
-    "20251105120854-math.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "DONE.md",
@@ -375,9 +355,6 @@
     "20210910055625-python-notes.md",
     "20251102091426-jupyter.md",
     "20251105120528-probability-distribution-function.md",
-    "20210901062045-computer-science.md",
-    "20251105120957.md",
-    "20250821115405-ssg.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
