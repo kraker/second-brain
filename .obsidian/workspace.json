@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,10 +327,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e3578961b4c8004",
+  "active": "d00fbc376c1a4f8e",
   "lastOpenFiles": [
-    "20260104103655-latex.md",
     "20260104100350-discrete-math.md",
+    "20260104103655-latex.md",
     "20251104155518-statistics.md",
     "20251105120854-math.md",
     "TODO.md",
