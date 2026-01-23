@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "d00fbc376c1a4f8e",
+            "id": "a0f6ed72a4172389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260104101011-calculus.md",
+                "file": "20230916111400-pacemaker.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260104101011-calculus"
+              "title": "20230916111400-pacemaker"
             }
           },
           {
-            "id": "1e3578961b4c8004",
+            "id": "65b588438aa98b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260104100350-discrete-math.md",
+                "file": "20260123135739-high-availability.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -78,59 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260104100350-discrete-math"
-            }
-          },
-          {
-            "id": "b6279087b559b91f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20251105120854-math.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20251105120854-math"
-            }
-          },
-          {
-            "id": "b7ddeed561e7f42b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260104103655-latex.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260104103655-latex"
+              "title": "20260123135739-high-availability"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -327,14 +279,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ddeed561e7f42b",
+  "active": "65b588438aa98b13",
   "lastOpenFiles": [
-    "20260104100350-discrete-math.md",
-    "20260104101011-calculus.md",
+    "20230916111400-pacemaker.md",
     "TODO.md",
+    "20260123135739-high-availability.md",
+    "20260104101011-calculus.md",
+    "20260104100350-discrete-math.md",
+    "20251105120854-math.md",
     "20260104103655-latex.md",
     "20251104155518-statistics.md",
-    "20251105120854-math.md",
     "20210624094518-java.md",
     "20210830131637-python.md",
     "20251228203342-codingunited-club-website.md",
@@ -353,8 +307,6 @@
     "20251026141731-snhu.md",
     "Gifts.md",
     "20210910055625-python-notes.md",
-    "20251102091426-jupyter.md",
-    "20251105120528-probability-distribution-function.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
