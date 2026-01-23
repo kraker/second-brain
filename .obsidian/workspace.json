@@ -129,7 +129,8 @@
               "title": "20260104103655-latex"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -326,11 +327,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "b7ddeed561e7f42b",
   "lastOpenFiles": [
     "20260104100350-discrete-math.md",
-    "TODO.md",
     "20260104101011-calculus.md",
+    "TODO.md",
     "20260104103655-latex.md",
     "20251104155518-statistics.md",
     "20251105120854-math.md",
