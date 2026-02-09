@@ -107,8 +107,7 @@
               "title": "20260123135739-high-availability"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +304,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "586af9a6e2b794ad",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "TODO.md",
     "DONE.md",
+    "TODO.md",
     "20260123135739-high-availability.md",
     "20230916111400-pacemaker.md",
     "20260104101011-calculus.md",
