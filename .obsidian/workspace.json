@@ -34,6 +34,32 @@
             }
           },
           {
+            "id": "586af9a6e2b794ad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DONE.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DONE"
+            }
+          },
+          {
             "id": "a0f6ed72a4172389",
             "type": "leaf",
             "state": {
@@ -82,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,11 +305,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65b588438aa98b13",
+  "active": "586af9a6e2b794ad",
   "lastOpenFiles": [
-    "20230916111400-pacemaker.md",
     "TODO.md",
+    "DONE.md",
     "20260123135739-high-availability.md",
+    "20230916111400-pacemaker.md",
     "20260104101011-calculus.md",
     "20260104100350-discrete-math.md",
     "20251105120854-math.md",
@@ -299,7 +326,6 @@
     "20251104153009-greek-alphabet.md",
     "20251026141407-it-140-intro-to-scripting.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
-    "DONE.md",
     "20251108085103-piano.md",
     "20251104185337-normal-distribution.md",
     "20251104191806-central-limit-theorem.md",

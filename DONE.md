@@ -1,7 +1,7 @@
 ---
 title: DONE
 date: 2025-09-06T11:47:47Z
-modified: 2025-11-15T18:14:20Z
+modified: 2026-01-28T07:12:21Z
 tags:
   - 'todo'
   - 'gtd'
@@ -37,6 +37,15 @@ tags:
 * [X] Peraton conversion paperwork
   + [X] Accepted Peraton offer letter
 * [X] Get new tabs at DMV
+* Move/Start/Stop Utilities
+  + [X] Start Electric 1624
+  + [X] Stop Electric 4830
+  + [X] Start Gas 1624
+  + [X] Stop Gas 4830
+  + [X] Start Trash/Water/City Utilities 1624
+  + [X] Stop Trash/Water/City Utilities 4830
+  + [X] Transfer Internet
++ [X] Follow-up on unemployment
 
 ## Terraform Associate
 
