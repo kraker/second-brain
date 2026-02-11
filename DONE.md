@@ -1,7 +1,7 @@
 ---
 title: DONE
 date: 2025-09-06T11:47:47Z
-modified: 2026-01-28T07:12:21Z
+modified: 2026-02-11T09:04:03Z
 tags:
   - 'todo'
   - 'gtd'
@@ -46,6 +46,16 @@ tags:
   + [X] Stop Trash/Water/City Utilities 4830
   + [X] Transfer Internet
 + [X] Follow-up on unemployment
+* [X] Schedule piano tuning
++ [X] Donate chairs
++ [X] Throw away lawn chairs
+* [X] Donate air conditioners to restore
+* [X] Donate washer/dryer
+* SNHU:
+  + [O] Apply for scholarships
+  + [X] Loan decrease request form
+  + [X] Follow-up on CLEP results (called CLEP and opened case)
+  + [X] Sign up for Sophia Learning and enroll in "Intro to Java Programming"
 
 ## Terraform Associate
 
