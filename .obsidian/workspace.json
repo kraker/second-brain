@@ -130,9 +130,19 @@
               "icon": "lucide-file",
               "title": "20210913193531-git"
             }
+          },
+          {
+            "id": "e578ec71277f43b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -330,9 +340,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a14e2b738fb6d4a",
+  "active": "c3109aff3a48ef38",
   "lastOpenFiles": [
     "20220311200359-ansible.md",
+    "20210913193531-git.md",
     "20250820105719-podman.md",
     "20230319223600-containerization.md",
     "DONE.md",
@@ -357,7 +368,6 @@
     "20251108085103-piano.md",
     "20251104185337-normal-distribution.md",
     "20251104191806-central-limit-theorem.md",
-    "20251107072106-flowchart.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
