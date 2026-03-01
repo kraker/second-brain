@@ -315,8 +315,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -335,11 +335,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c3109aff3a48ef38",
   "lastOpenFiles": [
+    "TODO.md",
     "20220311200359-ansible.md",
     "20210913193531-git.md",
     "20250820105719-podman.md",
@@ -347,7 +350,6 @@
     "DONE.md",
     "20260123135739-high-availability.md",
     "20230916111400-pacemaker.md",
-    "TODO.md",
     "20260104101011-calculus.md",
     "20260104100350-discrete-math.md",
     "20251105120854-math.md",
