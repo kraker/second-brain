@@ -130,9 +130,19 @@
               "icon": "lucide-file",
               "title": "20260302091625-aap"
             }
+          },
+          {
+            "id": "8e49ba730eb962df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -330,10 +340,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "244a80d6ca99a30d",
+  "active": "8e49ba730eb962df",
   "lastOpenFiles": [
-    "20220311200359-ansible.md",
     "20260302091625-aap.md",
+    "20220311200359-ansible.md",
     "20250820105719-podman.md",
     "20210913193531-git.md",
     "DONE.md",
