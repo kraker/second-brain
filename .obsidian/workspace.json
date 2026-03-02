@@ -130,19 +130,9 @@
               "icon": "lucide-file",
               "title": "20260302091625-aap"
             }
-          },
-          {
-            "id": "8e49ba730eb962df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -340,13 +331,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e49ba730eb962df",
+  "active": "c3109aff3a48ef38",
   "lastOpenFiles": [
-    "20260302091625-aap.md",
-    "20220311200359-ansible.md",
     "20250820105719-podman.md",
-    "20210913193531-git.md",
+    "20220311200359-ansible.md",
+    "20260302091625-aap.md",
     "DONE.md",
+    "20210913193531-git.md",
     "TODO.md",
     "20230319223600-containerization.md",
     "20260123135739-high-availability.md",
