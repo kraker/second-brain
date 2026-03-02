@@ -106,9 +106,33 @@
               "icon": "lucide-file",
               "title": "20220311200359-ansible"
             }
+          },
+          {
+            "id": "244a80d6ca99a30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260302091625-aap.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260302091625-aap"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -306,12 +330,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaac96bfddda4ada",
+  "active": "244a80d6ca99a30d",
   "lastOpenFiles": [
     "20220311200359-ansible.md",
+    "20260302091625-aap.md",
+    "20250820105719-podman.md",
     "20210913193531-git.md",
     "DONE.md",
-    "20250820105719-podman.md",
     "TODO.md",
     "20230319223600-containerization.md",
     "20260123135739-high-availability.md",
@@ -333,7 +358,6 @@
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251108085103-piano.md",
     "20251104185337-normal-distribution.md",
-    "20251104191806-central-limit-theorem.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
