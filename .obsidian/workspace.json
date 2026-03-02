@@ -106,33 +106,9 @@
               "icon": "lucide-file",
               "title": "20220311200359-ansible"
             }
-          },
-          {
-            "id": "7a14e2b738fb6d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210913193531-git.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20210913193531-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -330,13 +306,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3109aff3a48ef38",
+  "active": "aaac96bfddda4ada",
   "lastOpenFiles": [
+    "20220311200359-ansible.md",
+    "20210913193531-git.md",
     "DONE.md",
     "20250820105719-podman.md",
     "TODO.md",
-    "20210913193531-git.md",
-    "20220311200359-ansible.md",
     "20230319223600-containerization.md",
     "20260123135739-high-availability.md",
     "20230916111400-pacemaker.md",
