@@ -130,16 +130,6 @@
               "icon": "lucide-file",
               "title": "20210913193531-git"
             }
-          },
-          {
-            "id": "e578ec71277f43b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
         "currentTab": 3
@@ -342,12 +332,12 @@
   },
   "active": "c3109aff3a48ef38",
   "lastOpenFiles": [
-    "TODO.md",
-    "20220311200359-ansible.md",
-    "20210913193531-git.md",
-    "20250820105719-podman.md",
-    "20230319223600-containerization.md",
     "DONE.md",
+    "20250820105719-podman.md",
+    "TODO.md",
+    "20210913193531-git.md",
+    "20220311200359-ansible.md",
+    "20230319223600-containerization.md",
     "20260123135739-high-availability.md",
     "20230916111400-pacemaker.md",
     "20260104101011-calculus.md",
