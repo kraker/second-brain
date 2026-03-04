@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -331,10 +331,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3109aff3a48ef38",
+  "active": "244a80d6ca99a30d",
   "lastOpenFiles": [
-    "20250820105719-podman.md",
     "20220311200359-ansible.md",
+    "20250820105719-podman.md",
     "20260302091625-aap.md",
     "DONE.md",
     "20210913193531-git.md",
