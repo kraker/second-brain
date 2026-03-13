@@ -137,7 +137,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210830131637-python.md",
+                "file": "20230319222400-ci.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -152,7 +152,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20210830131637-python"
+              "title": "20230319222400-ci"
             }
           }
         ],
@@ -357,6 +357,7 @@
   },
   "active": "df8c4136287ce574",
   "lastOpenFiles": [
+    "20210830131637-python.md",
     "20260302091625-aap.md",
     "20220311200359-ansible.md",
     "20250820105719-podman.md",
@@ -372,7 +373,6 @@
     "20260104103655-latex.md",
     "20251104155518-statistics.md",
     "20210624094518-java.md",
-    "20210830131637-python.md",
     "20251228203342-codingunited-club-website.md",
     "20220926182945-IT-aphorisms.md",
     "20201110145200-html.md",
