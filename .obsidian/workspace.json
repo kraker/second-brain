@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "aaac96bfddda4ada",
+            "id": "fadca63a8409facf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250820105719-podman.md",
+                "file": "20220926182945-IT-aphorisms.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -80,83 +80,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250820105719-podman"
-            }
-          },
-          {
-            "id": "c3109aff3a48ef38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220311200359-ansible.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220311200359-ansible"
-            }
-          },
-          {
-            "id": "244a80d6ca99a30d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260302091625-aap.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260302091625-aap"
-            }
-          },
-          {
-            "id": "df8c4136287ce574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230319222400-ci.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20230319222400-ci"
+              "title": "20220926182945-IT-aphorisms"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -355,13 +283,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df8c4136287ce574",
+  "active": "fadca63a8409facf",
   "lastOpenFiles": [
-    "20210830131637-python.md",
-    "20260302091625-aap.md",
-    "20220311200359-ansible.md",
-    "20250820105719-podman.md",
     "DONE.md",
+    "20250820105719-podman.md",
+    "20220311200359-ansible.md",
+    "20260302091625-aap.md",
+    "20230319222400-ci.md",
+    "20210830131637-python.md",
     "20210913193531-git.md",
     "TODO.md",
     "20230319223600-containerization.md",
@@ -382,7 +311,6 @@
     "20251026141407-it-140-intro-to-scripting.md",
     "20251027205640-mat-243-applied-statistics-for-stem.md",
     "20251108085103-piano.md",
-    "20251104185337-normal-distribution.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
