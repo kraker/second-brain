@@ -60,13 +60,13 @@
             }
           },
           {
-            "id": "fadca63a8409facf",
+            "id": "ff77130a4186b850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20220926182945-IT-aphorisms.md",
-                "mode": "source",
+                "file": "20260302091625-aap.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20220926182945-IT-aphorisms"
+              "title": "20260302091625-aap"
             }
           }
         ],
@@ -283,9 +283,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fadca63a8409facf",
+  "active": "ff77130a4186b850",
   "lastOpenFiles": [
     "DONE.md",
+    "20220926182945-IT-aphorisms.md",
     "20250820105719-podman.md",
     "20220311200359-ansible.md",
     "20260302091625-aap.md",
@@ -303,7 +304,6 @@
     "20251104155518-statistics.md",
     "20210624094518-java.md",
     "20251228203342-codingunited-club-website.md",
-    "20220926182945-IT-aphorisms.md",
     "20201110145200-html.md",
     "20250714084500-rhcsa-exam-objectives.md",
     "20231109085400-rhcsa.md",
