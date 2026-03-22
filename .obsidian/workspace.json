@@ -58,33 +58,8 @@
               "icon": "lucide-file",
               "title": "DONE"
             }
-          },
-          {
-            "id": "ff77130a4186b850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260302091625-aap.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260302091625-aap"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,13 +258,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff77130a4186b850",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
     "DONE.md",
+    "20260302091625-aap.md",
     "20220926182945-IT-aphorisms.md",
     "20250820105719-podman.md",
     "20220311200359-ansible.md",
-    "20260302091625-aap.md",
     "20230319222400-ci.md",
     "20210830131637-python.md",
     "20210913193531-git.md",
