@@ -130,9 +130,33 @@
               "icon": "lucide-file",
               "title": "20250920104404-ai"
             }
+          },
+          {
+            "id": "213cb9767aebdb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260323144258-quantum-computing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260323144258-quantum-computing"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -331,8 +355,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46d8969732b3ca29",
+  "active": "ad5f7c06505affdd",
   "lastOpenFiles": [
+    "20250920104404-ai.md",
+    "20260323144258-quantum-computing.md",
     "20260323124444-org.md",
     "20250819093848-drm.md",
     "TODO.md",
@@ -357,8 +383,6 @@
     "20201110145200-html.md",
     "20250714084500-rhcsa-exam-objectives.md",
     "20231109085400-rhcsa.md",
-    "20251104153009-greek-alphabet.md",
-    "20251026141407-it-140-intro-to-scripting.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
