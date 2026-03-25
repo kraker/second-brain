@@ -154,9 +154,33 @@
               "icon": "lucide-file",
               "title": "20260323144258-quantum-computing"
             }
+          },
+          {
+            "id": "783be95f9ec83115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260325092815-writing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260325092815-writing"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -355,10 +379,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46d8969732b3ca29",
+  "active": "783be95f9ec83115",
   "lastOpenFiles": [
-    "20260323124444-org.md",
+    "20260325092815-writing.md",
     "20250920104404-ai.md",
+    "20260323124444-org.md",
     "20260323144258-quantum-computing.md",
     "20250819093848-drm.md",
     "TODO.md",
@@ -382,7 +407,6 @@
     "20251228203342-codingunited-club-website.md",
     "20201110145200-html.md",
     "20250714084500-rhcsa-exam-objectives.md",
-    "20231109085400-rhcsa.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
