@@ -202,9 +202,33 @@
               "icon": "lucide-file",
               "title": "20260325203843-travel"
             }
+          },
+          {
+            "id": "1f8c852b7ae7c95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210905071700-bash.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20210905071700-bash"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -403,7 +427,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "beda0ca5a8f03d84",
+  "active": "1f8c852b7ae7c95e",
   "lastOpenFiles": [
     "20260325203843-travel.md",
     "20260325092815-writing.md",
