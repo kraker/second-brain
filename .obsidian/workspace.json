@@ -178,9 +178,33 @@
               "icon": "lucide-file",
               "title": "20260325092815-writing"
             }
+          },
+          {
+            "id": "beda0ca5a8f03d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260325203843-travel.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260325203843-travel"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -379,8 +403,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "783be95f9ec83115",
+  "active": "beda0ca5a8f03d84",
   "lastOpenFiles": [
+    "20260325203843-travel.md",
     "20260325092815-writing.md",
     "20250920104404-ai.md",
     "20260323124444-org.md",
@@ -406,7 +431,6 @@
     "20210624094518-java.md",
     "20251228203342-codingunited-club-website.md",
     "20201110145200-html.md",
-    "20250714084500-rhcsa-exam-objectives.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
