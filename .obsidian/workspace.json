@@ -226,9 +226,33 @@
               "icon": "lucide-file",
               "title": "20210905071700-bash"
             }
+          },
+          {
+            "id": "629a473a4bdee213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20230222091100-kubernetes.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20230222091100-kubernetes"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -427,8 +451,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f8c852b7ae7c95e",
+  "active": "629a473a4bdee213",
   "lastOpenFiles": [
+    "20210905071700-bash.md",
     "20260325203843-travel.md",
     "20260325092815-writing.md",
     "20250920104404-ai.md",
@@ -454,7 +479,6 @@
     "20251104155518-statistics.md",
     "20210624094518-java.md",
     "20251228203342-codingunited-club-website.md",
-    "20201110145200-html.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
