@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "e608423a6bbb78c4",
+            "id": "a4b591e4c5982229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250819093848-drm.md",
+                "file": "20240320095100-dnf.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -80,16 +80,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250819093848-drm"
+              "title": "20240320095100-dnf"
             }
           },
           {
-            "id": "ad5f7c06505affdd",
+            "id": "56782486d6b29b65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260323124444-org.md",
+                "file": "20201011164848-netstat.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -104,16 +104,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260323124444-org"
+              "title": "20201011164848-netstat"
             }
           },
           {
-            "id": "46d8969732b3ca29",
+            "id": "10f0be245340e024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250920104404-ai.md",
+                "file": "20260330090334-ss.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -128,16 +128,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250920104404-ai"
+              "title": "20260330090334-ss"
             }
           },
           {
-            "id": "213cb9767aebdb8e",
+            "id": "62d2dc7ec65f891b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260323144258-quantum-computing.md",
+                "file": "20201111154539-ssh.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -152,16 +152,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260323144258-quantum-computing"
+              "title": "20201111154539-ssh"
             }
           },
           {
-            "id": "783be95f9ec83115",
+            "id": "1cd227000f3deb2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260325092815-writing.md",
+                "file": "20220318130443-ssh-keygen.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -176,16 +176,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260325092815-writing"
+              "title": "20220318130443-ssh-keygen"
             }
           },
           {
-            "id": "beda0ca5a8f03d84",
+            "id": "312f86616452057b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260325203843-travel.md",
+                "file": "20220318125629-ssh-client.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -200,16 +200,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260325203843-travel"
+              "title": "20220318125629-ssh-client"
             }
           },
           {
-            "id": "1f8c852b7ae7c95e",
+            "id": "f2a5c03258ff1dcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20210905071700-bash.md",
+                "file": "20220318131153-ssh-copy-id.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -224,17 +224,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20210905071700-bash"
+              "title": "20220318131153-ssh-copy-id"
             }
           },
           {
-            "id": "629a473a4bdee213",
+            "id": "5a041a9ea118ccf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230222091100-kubernetes.md",
-                "mode": "preview",
+                "file": "20260330091525-cryptographic-policy.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20230222091100-kubernetes"
+              "title": "20260330091525-cryptographic-policy"
             }
           }
         ],
@@ -451,14 +451,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "629a473a4bdee213",
+  "active": "5a041a9ea118ccf2",
   "lastOpenFiles": [
+    "20260330091525-cryptographic-policy.md",
+    "20220318130443-ssh-keygen.md",
+    "20220318131153-ssh-copy-id.md",
+    "20220318125629-ssh-client.md",
+    "20201111154539-ssh.md",
+    "20260330090334-ss.md",
+    "20201011164848-netstat.md",
+    "20240320095100-dnf.md",
+    "20230222091100-kubernetes.md",
     "20210905071700-bash.md",
     "20260325203843-travel.md",
     "20260325092815-writing.md",
+    "20260323144258-quantum-computing.md",
     "20250920104404-ai.md",
     "20260323124444-org.md",
-    "20260323144258-quantum-computing.md",
     "20250819093848-drm.md",
     "TODO.md",
     "DONE.md",
@@ -470,15 +479,6 @@
     "20210830131637-python.md",
     "20210913193531-git.md",
     "20230319223600-containerization.md",
-    "20260123135739-high-availability.md",
-    "20230916111400-pacemaker.md",
-    "20260104101011-calculus.md",
-    "20260104100350-discrete-math.md",
-    "20251105120854-math.md",
-    "20260104103655-latex.md",
-    "20251104155518-statistics.md",
-    "20210624094518-java.md",
-    "20251228203342-codingunited-club-website.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
