@@ -324,7 +324,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -523,7 +523,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90ce622a3f1eaff1",
+  "active": "a4b591e4c5982229",
   "lastOpenFiles": [
     "20260331084157-luks.md",
     "20220311200359-ansible.md",
