@@ -1,7 +1,7 @@
 ---
 title: "Red Hat Certified Specialist in Security: Linux"
 date: 2026-04-01T09:56:49Z
-modified: 2026-04-01T11:07:42Z
+modified: 2026-04-01T11:43:58Z
 tags:
   - 'security'
   - 'rhel'
@@ -24,3 +24,5 @@ RHEL 9 Security Hardening Docs:
 * [ ] Memorize how to label and partition a disk with `parted` and `fdisk`.
 * [ ] Memorize how to manually LUKS encrypt a disk/partition with `cryptsetup`.
 * [ ] Memorize how to add /etc/crypttab entries.
+* [ ] Learn `virsh` command?
+* [ ] Memorize installing USBGuard

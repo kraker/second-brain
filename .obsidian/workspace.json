@@ -348,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -547,10 +547,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68e423281bf97ac6",
+  "active": "e8a92356cade2e2f",
   "lastOpenFiles": [
-    "20260401110744-usbguard.md",
     "20260401095649-rhcs-security-linux.md",
+    "20260401110744-usbguard.md",
     "20220311200359-ansible.md",
     "20260331084157-luks.md",
     "20210925145313-partition.md",
