@@ -346,9 +346,33 @@
               "icon": "lucide-file",
               "title": "20260401110744-usbguard"
             }
+          },
+          {
+            "id": "7abef80401ab3f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260401123748-virsh.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260401123748-virsh"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -547,10 +571,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8a92356cade2e2f",
+  "active": "7abef80401ab3f07",
   "lastOpenFiles": [
-    "20260401095649-rhcs-security-linux.md",
+    "20260401123748-virsh.md",
     "20260401110744-usbguard.md",
+    "20260401095649-rhcs-security-linux.md",
     "20220311200359-ansible.md",
     "20260331084157-luks.md",
     "20210925145313-partition.md",
@@ -574,7 +599,6 @@
     "20250819093848-drm.md",
     "TODO.md",
     "DONE.md",
-    "20220926182945-IT-aphorisms.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
