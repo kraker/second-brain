@@ -322,9 +322,33 @@
               "icon": "lucide-file",
               "title": "20260331084157-luks"
             }
+          },
+          {
+            "id": "68e423281bf97ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260401095649-rhel-security.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260401095649-rhel-security"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -523,8 +547,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4b591e4c5982229",
+  "active": "68e423281bf97ac6",
   "lastOpenFiles": [
+    "20210925145313-partition.md",
+    "20260401095649-rhel-security.md",
+    "20240320095100-dnf.md",
     "20260331084157-luks.md",
     "20220311200359-ansible.md",
     "20260331084136.md",
@@ -536,7 +563,6 @@
     "20201111154539-ssh.md",
     "20260330090334-ss.md",
     "20201011164848-netstat.md",
-    "20240320095100-dnf.md",
     "20230222091100-kubernetes.md",
     "20210905071700-bash.md",
     "20260325203843-travel.md",
@@ -549,8 +575,6 @@
     "DONE.md",
     "20220926182945-IT-aphorisms.md",
     "20250820105719-podman.md",
-    "20230319222400-ci.md",
-    "20210830131637-python.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
