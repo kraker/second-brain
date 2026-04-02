@@ -84,30 +84,6 @@
             }
           },
           {
-            "id": "56782486d6b29b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20201011164848-netstat.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20201011164848-netstat"
-            }
-          },
-          {
             "id": "10f0be245340e024",
             "type": "leaf",
             "state": {
@@ -129,102 +105,6 @@
               },
               "icon": "lucide-file",
               "title": "20260330090334-ss"
-            }
-          },
-          {
-            "id": "62d2dc7ec65f891b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20201111154539-ssh.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20201111154539-ssh"
-            }
-          },
-          {
-            "id": "1cd227000f3deb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220318130443-ssh-keygen.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220318130443-ssh-keygen"
-            }
-          },
-          {
-            "id": "312f86616452057b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220318125629-ssh-client.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220318125629-ssh-client"
-            }
-          },
-          {
-            "id": "f2a5c03258ff1dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220318131153-ssh-copy-id.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220318131153-ssh-copy-id"
             }
           },
           {
@@ -370,9 +250,57 @@
               "icon": "lucide-file",
               "title": "20260401123748-virsh"
             }
+          },
+          {
+            "id": "0e331893d1c4613c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260402085027-authselect.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260402085027-authselect"
+            }
+          },
+          {
+            "id": "629c4fb12df5cf9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260402090803-pam.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260402090803-pam"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -571,24 +499,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7abef80401ab3f07",
+  "active": "68e423281bf97ac6",
   "lastOpenFiles": [
-    "20260401123748-virsh.md",
     "20260401110744-usbguard.md",
+    "20260401123748-virsh.md",
+    "20260402085027-authselect.md",
+    "20260402090803-pam.md",
     "20260401095649-rhcs-security-linux.md",
     "20220311200359-ansible.md",
-    "20260331084157-luks.md",
-    "20210925145313-partition.md",
-    "20240320095100-dnf.md",
-    "20260331084136.md",
     "20260302091625-aap.md",
     "20260330091525-cryptographic-policy.md",
-    "20220318130443-ssh-keygen.md",
     "20220318131153-ssh-copy-id.md",
     "20220318125629-ssh-client.md",
+    "20220318130443-ssh-keygen.md",
     "20201111154539-ssh.md",
     "20260330090334-ss.md",
     "20201011164848-netstat.md",
+    "20240320095100-dnf.md",
+    "20260331084157-luks.md",
+    "20210925145313-partition.md",
+    "20260331084136.md",
     "20230222091100-kubernetes.md",
     "20210905071700-bash.md",
     "20260325203843-travel.md",
@@ -597,8 +527,6 @@
     "20250920104404-ai.md",
     "20260323124444-org.md",
     "20250819093848-drm.md",
-    "TODO.md",
-    "DONE.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",

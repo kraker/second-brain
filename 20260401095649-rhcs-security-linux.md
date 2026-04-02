@@ -1,7 +1,7 @@
 ---
 title: "Red Hat Certified Specialist in Security: Linux"
 date: 2026-04-01T09:56:49Z
-modified: 2026-04-01T11:43:58Z
+modified: 2026-04-02T09:07:40Z
 tags:
   - 'security'
   - 'rhel'
@@ -18,6 +18,10 @@ RHEL 9 Security Hardening Docs:
 ## Topics
 
 * [LUKS](20260331084157-luks.md)
+* [virsh](20260401123748-virsh.md)
+* [USBGuard](20260401110744-usbguard.md)
+* [PAM](20260402090803-pam.md)
+  + [authselect](20260402085027-authselect.md)
 
 ## Review
 
