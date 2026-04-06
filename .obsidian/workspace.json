@@ -300,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -499,13 +499,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e331893d1c4613c",
+  "active": "68e423281bf97ac6",
   "lastOpenFiles": [
-    "20260402090803-pam.md",
-    "20260401095649-rhcs-security-linux.md",
     "20260401110744-usbguard.md",
     "20260401123748-virsh.md",
     "20260402085027-authselect.md",
+    "20260402090803-pam.md",
+    "20260401095649-rhcs-security-linux.md",
     "20220311200359-ansible.md",
     "20260302091625-aap.md",
     "20260330091525-cryptographic-policy.md",

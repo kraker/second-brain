@@ -30,3 +30,4 @@ RHEL 9 Security Hardening Docs:
 * [ ] Memorize how to add /etc/crypttab entries.
 * [ ] Learn `virsh` command?
 * [ ] Memorize installing USBGuard
+* [ ] How to enable faillock for a profile. How to view faillocks and reset.
