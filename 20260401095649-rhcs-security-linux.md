@@ -1,7 +1,7 @@
 ---
 title: "Red Hat Certified Specialist in Security: Linux"
 date: 2026-04-01T09:56:49Z
-modified: 2026-04-02T09:24:43Z
+modified: 2026-04-07T08:34:22Z
 tags:
   - 'security'
   - 'rhel'
