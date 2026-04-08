@@ -298,6 +298,30 @@
               "icon": "lucide-file",
               "title": "20260402090803-pam"
             }
+          },
+          {
+            "id": "bd0bb0167372554a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210913193531-git.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20210913193531-git"
+            }
           }
         ],
         "currentTab": 2
@@ -501,6 +525,8 @@
   },
   "active": "a4b591e4c5982229",
   "lastOpenFiles": [
+    "20210913193531-git.md",
+    "20240320095100-dnf.md",
     "20260401095649-rhcs-security-linux.md",
     "20260401110744-usbguard.md",
     "20260401123748-virsh.md",
@@ -515,7 +541,6 @@
     "20201111154539-ssh.md",
     "20260330090334-ss.md",
     "20201011164848-netstat.md",
-    "20240320095100-dnf.md",
     "20260331084157-luks.md",
     "20210925145313-partition.md",
     "20260331084136.md",
@@ -526,7 +551,6 @@
     "20260323144258-quantum-computing.md",
     "20250920104404-ai.md",
     "20260323124444-org.md",
-    "20250819093848-drm.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
