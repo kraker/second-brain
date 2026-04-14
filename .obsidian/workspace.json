@@ -346,9 +346,57 @@
               "icon": "lucide-file",
               "title": "20260408101524-auditd"
             }
+          },
+          {
+            "id": "a61c05440761020b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260325092815-writing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260325092815-writing"
+            }
+          },
+          {
+            "id": "761937c45afc9e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260414121654-self-publishing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260414121654-self-publishing"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -547,8 +595,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d62a8cfe43d1a393",
+  "active": "761937c45afc9e9c",
   "lastOpenFiles": [
+    "20260325092815-writing.md",
+    "20260414121654-self-publishing.md",
     "20260408101524-auditd.md",
     "20240320095100-dnf.md",
     "20210913193531-git.md",
@@ -572,9 +622,7 @@
     "20230222091100-kubernetes.md",
     "20210905071700-bash.md",
     "20260325203843-travel.md",
-    "20260325092815-writing.md",
     "20260323144258-quantum-computing.md",
-    "20250920104404-ai.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
