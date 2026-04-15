@@ -394,9 +394,33 @@
               "icon": "lucide-file",
               "title": "20260414121654-self-publishing"
             }
+          },
+          {
+            "id": "d6180ff6d4e99db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260415085216-quarto.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260415085216-quarto"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -595,10 +619,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "761937c45afc9e9c",
+  "active": "d6180ff6d4e99db6",
   "lastOpenFiles": [
-    "20260325092815-writing.md",
+    "20260415085216-quarto.md",
     "20260414121654-self-publishing.md",
+    "20260325092815-writing.md",
     "20260408101524-auditd.md",
     "20240320095100-dnf.md",
     "20210913193531-git.md",
@@ -622,7 +647,6 @@
     "20230222091100-kubernetes.md",
     "20210905071700-bash.md",
     "20260325203843-travel.md",
-    "20260323144258-quantum-computing.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
