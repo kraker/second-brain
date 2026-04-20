@@ -418,9 +418,19 @@
               "icon": "lucide-file",
               "title": "20260415085216-quarto"
             }
+          },
+          {
+            "id": "716cb8f0ddadb25f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -619,10 +629,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6180ff6d4e99db6",
+  "active": "a61c05440761020b",
   "lastOpenFiles": [
-    "20260415085216-quarto.md",
     "20260414121654-self-publishing.md",
+    "20260415085216-quarto.md",
     "20260325092815-writing.md",
     "20260408101524-auditd.md",
     "20240320095100-dnf.md",
