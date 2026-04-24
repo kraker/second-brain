@@ -53,7 +53,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,13 +96,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "right": {
     "id": "3ee4a64e984ec9eb",
@@ -234,8 +232,9 @@
   },
   "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "DONE.md",
+    "dm.pdf",
     "TODO.md",
+    "DONE.md",
     "20260415085216-quarto.md",
     "20260414121654-self-publishing.md",
     "20260325092815-writing.md",
@@ -259,7 +258,6 @@
     "20260331084157-luks.md",
     "20210925145313-partition.md",
     "20260331084136.md",
-    "20230222091100-kubernetes.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
