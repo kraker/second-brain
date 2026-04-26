@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "a3c9fedb088fbc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20210730155347-markdown-tutorial.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20210730155347-markdown-tutorial"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +255,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a493e13054c74b07",
+  "active": "a3c9fedb088fbc73",
   "lastOpenFiles": [
-    "dm.pdf",
+    "20210730155347-markdown-tutorial 1.md",
+    "20210730155347-markdown-tutorial.md",
     "TODO.md",
+    "dm.pdf",
     "DONE.md",
     "20260415085216-quarto.md",
     "20260414121654-self-publishing.md",
@@ -257,7 +284,6 @@
     "20201011164848-netstat.md",
     "20260331084157-luks.md",
     "20210925145313-partition.md",
-    "20260331084136.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
@@ -269,7 +295,6 @@
     "fix_timestamps.py",
     "rename_timestamps.py",
     "Pasted image 20240418092112.png",
-    "comptia-linux-xk0-005-exam-objectives-(3-0).pdf",
     "Pasted image 20240217082937.png",
     "ksnip_20240217-082220.png",
     "Pasted image 20240217082430.png",

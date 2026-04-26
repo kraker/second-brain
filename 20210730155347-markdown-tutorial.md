@@ -1,8 +1,9 @@
 ---
-title: Markdown Tutorial
+title: Overview
 date: 2021-07-30T15:53:00Z
 tags:
 - 'dac'
+modified: 2026-04-25T21:49:29Z
 ---
 
 # Overview
@@ -11,13 +12,13 @@ tags:
 plain-text editor. It's designed to be easy to write and read in a plain-text
 editor and be easily rendered into structurally valid HTML (or XHTML). Markdown
 was originally created by John Bruber and Aaron Swartz as a markup language
-that's appealing to humans. 
+that's appealing to humans.
 
 Because of it's utility Markdown is a popular markup language with broad
 support. You can configure Slack to use Markdown syntax. GitHub and GitLab use
 their own flavor of Markdown. Many common CMS and web-development frameworks
 include support or plugins for rendering Markdown. Notable examples include
-Jekyll and Hugo, static site generators. 
+Jekyll and Hugo, static site generators.
 
 * [Official docs](https://daringfireball.net/projects/markdown/)
 
@@ -25,7 +26,7 @@ Jekyll and Hugo, static site generators.
 
 In order to get started writing in Markdown you need a text editor that supports
 syntax highlighting. Many plain-text editors include native support for Markdown
-syntax highlighting. Common editors that include support for `*.md` which you 
+syntax highlighting. Common editors that include support for `*.md` which you
 might use are Vim, Emacs, Vscode, Sublime, Notepad++ to name a few. Install your
 favorite text editor and create a file with the `*.md` extension to start
 writing in Markdown.
@@ -45,14 +46,14 @@ the _header_.
 ###### Header 6
 ```
 
-If you're familiar with HTML markup, these render to header elements 
-_<h1>, <h2>, <h3> ..._ etc. 
+If you're familiar with HTML markup, these render to header elements
+_<h1>, <h2>, <h3> ..._ etc.
 
 ## Bold & Italic
 
 Bold and italics (different degrees of _emphasis_) can be denoted by wrapping a
 string of text in either one or two asterisks `*` or underscores `_`. For
-example: 
+example:
 
 ```
 *Italicized*
@@ -87,7 +88,7 @@ Ordered lists are just a numbered list.
 
 Unordered lists are denoted by either a `*`, `+` or `-`. This author prefers `*`
 but use what you prefer, just try to be consistent.  It's considered bad style
-to mix it up too much. 
+to mix it up too much.
 
 ```
 - First item
@@ -106,7 +107,7 @@ to mix it up too much.
 ### Nested lists
 
 You can create lists within lists. It's possible to mix ordered and unordered
-lists this way too. 
+lists this way too.
 
 ```
 1. First item
@@ -126,7 +127,7 @@ lists this way too.
 
 ## Code
 
-You can denote inline code with '`' 
+You can denote inline code with '`'
 
 ```
 `inline code`
@@ -136,8 +137,10 @@ And you can denote code blocks with '```'
 
 ```
 ```
-Some block of 
+
+Some block of
 Code goes here
+
 ```
 ```
 
@@ -166,6 +169,7 @@ Images can be denoted like so:
 ```
 ![alt text](image.jpg)
 ```
+
 _Often the image file is included in the same directory as the *.md file_
 
 # See also
