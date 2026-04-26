@@ -57,8 +57,7 @@
               "title": "20210730155347-markdown-tutorial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,10 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3c9fedb088fbc73",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "20210730155347-markdown-tutorial 1.md",
     "20210730155347-markdown-tutorial.md",
+    "20210730155347-markdown-tutorial 1.md",
     "TODO.md",
     "dm.pdf",
     "DONE.md",
