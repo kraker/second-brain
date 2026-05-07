@@ -32,105 +32,8 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
-          },
-          {
-            "id": "a3c9fedb088fbc73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210730155347-markdown-tutorial.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20210730155347-markdown-tutorial"
-            }
-          },
-          {
-            "id": "7f49125447b65ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20210905103534-hugo.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20210905103534-hugo"
-            }
-          },
-          {
-            "id": "d9ec412e337b47f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20220216070507-homelab.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20220216070507-homelab"
-            }
-          },
-          {
-            "id": "c7745dc2ee1a87e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260504150422-thinking-rocks.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "20260504150422-thinking-rocks"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -328,15 +231,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7745dc2ee1a87e9",
+  "active": "a493e13054c74b07",
   "lastOpenFiles": [
-    "20260502195841-github-actions.md",
+    "20210730155347-markdown-tutorial.md",
+    "20210905103534-hugo.md",
     "20260504150422-thinking-rocks.md",
+    "20260502195841-github-actions.md",
     "Untitled.md",
     "20220216070507-homelab.md",
-    "20210905103534-hugo.md",
     "TODO.md",
-    "20210730155347-markdown-tutorial.md",
     "20210730155347-markdown-tutorial 1.md",
     "dm.pdf",
     "DONE.md",
