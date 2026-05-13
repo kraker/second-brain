@@ -56,9 +56,33 @@
               "icon": "lucide-file",
               "title": "20240508101100-prometheus"
             }
+          },
+          {
+            "id": "7a0d52ba32ee7b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260512214441-hpc.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20260512214441-hpc"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,8 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acaa6e0bc294bcb",
+  "active": "7a0d52ba32ee7b21",
   "lastOpenFiles": [
+    "20260512214441-hpc.md",
+    "20240508101100-prometheus.md",
     "TODO.md",
     "20210730155347-markdown-tutorial.md",
     "20210905103534-hugo.md",
@@ -283,8 +309,6 @@
     "20260330091525-cryptographic-policy.md",
     "20260330090334-ss.md",
     "20240320095100-dnf.md",
-    "20220318131153-ssh-copy-id.md",
-    "20220318125629-ssh-client.md",
     "jobs",
     "851391798-MIT.pdf",
     "1632779220341-288-ansible-cheatsheet_1559151848.pdf",
