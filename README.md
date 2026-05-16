@@ -1,5 +1,9 @@
 # My Zettelkastn (A.K.A second brain)
 
+> [!NOTE]
+> This repository has moved to Codeberg and is archived on GitHub.
+> The current project lives at <https://codeberg.org/kraker/second-brain>.
+
 My notes on various things structured as a
 [Zettelkasten](https://zettelkasten.de/overview/), AKA my "second brain".
 
